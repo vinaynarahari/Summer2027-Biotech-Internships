@@ -2,10 +2,10 @@
 
 Co-ops, 6–12 month industrial placements, working-student roles and Fall / Winter / Spring internships at biotech, pharma and life-science companies. Updated automatically every 2 hours.
 
-[← Back to Summer 2027 list](./README.md) · 🔎 [Search on the website](https://owner.github.io/Biotech-Internships/)
+[← Back to Summer 2027 list](./README.md) · 🔎 [Search on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
 <!-- TABLE_START -->
-### 163 co-op / off-cycle roles · updated Nov 16, 2026 03:28 UTC
+### 163 co-op / off-cycle roles · updated Nov 16, 2026 03:29 UTC
 
 ## 🔬 Research & Lab Science Internship Roles
 

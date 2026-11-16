@@ -4,7 +4,7 @@ Use this repo to find and track **Summer 2027 biotech, pharma and life-science i
 
 The list is **updated automatically every 2 hours**. A bot polls the career pages of 100+ life-science companies and posts new internships as soon as they go live, then closes them when they come down.
 
-🔎 **Prefer search & filters? Use the website → [biotech internships site](https://owner.github.io/Biotech-Internships/)**   ·   📡 [RSS feed of new roles](https://owner.github.io/Biotech-Internships/feed.xml)
+🔎 **Prefer search & filters? Use the website → [biotech internships site](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)**   ·   📡 [RSS feed of new roles](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/feed.xml)
 
 🙏 **Contribute by submitting an [issue](../../issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md).** 🙏
 
@@ -23,7 +23,7 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 
 💼 **[Business, Commercial & Operations](#-business-commercial--operations-internship-roles)** (348)
 
-> 🌍 Plus **163** co-op / off-cycle roles in [Off-Season](./README-Off-Season.md) · **42** companies hiring · last updated **Nov 16, 2026 03:28 UTC**
+> 🌍 Plus **163** co-op / off-cycle roles in [Off-Season](./README-Off-Season.md) · **42** companies hiring · last updated **Nov 16, 2026 03:29 UTC**
 
 ---
 

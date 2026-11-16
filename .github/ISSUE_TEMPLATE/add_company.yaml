@@ -1,0 +1,19 @@
+name: Add a Company
+description: Ask the bot to start tracking a biotech / pharma / life-science company
+title: "Add Company: "
+labels: ["add_company"]
+body:
+  - type: input
+    id: company_name
+    attributes: {label: Company Name, placeholder: Insitro}
+    validations: {required: true}
+  - type: input
+    id: careers_url
+    attributes:
+      label: Careers / job board URL
+      description: Ideally a link to a job on their board (boards.greenhouse.io, jobs.lever.co, jobs.ashbyhq.com, *.myworkdayjobs.com…)
+      placeholder: https://jobs.ashbyhq.com/insitro
+    validations: {required: true}
+  - type: textarea
+    id: why
+    attributes: {label: What do they do? (one line)}

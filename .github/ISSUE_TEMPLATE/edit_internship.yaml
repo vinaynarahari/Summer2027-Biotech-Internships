@@ -1,0 +1,29 @@
+name: Edit Internship
+description: Close, fix, or hide an existing listing
+title: "Edit Internship: "
+labels: ["edit_internship"]
+body:
+  - type: input
+    id: url
+    attributes: {label: Link to the Internship Posting (as it appears in the list)}
+    validations: {required: true}
+  - type: dropdown
+    id: action
+    attributes:
+      label: What should happen?
+      options: [Mark as closed, Reopen, Fix details below, Remove (not biotech / spam)]
+    validations: {required: true}
+  - type: input
+    id: title
+    attributes: {label: Corrected title (optional)}
+  - type: input
+    id: location
+    attributes: {label: Corrected location(s) (optional), placeholder: "Boston, MA | Remote"}
+  - type: dropdown
+    id: category
+    attributes:
+      label: Corrected category (optional)
+      options: ["", Research & Lab Science, "Computational Biology, Data & AI", "Engineering, Manufacturing & Quality", "Clinical, Regulatory & Medical Affairs", "Business, Commercial & Operations"]
+  - type: textarea
+    id: reason
+    attributes: {label: Notes}

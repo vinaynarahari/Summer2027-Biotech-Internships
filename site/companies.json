@@ -1,0 +1,659 @@
+{
+  "_comment": "Companies the bot polls. Add one via the 'Add a company' issue form or `python -m scraper.discover \"Name\" --merge`. ats: greenhouse|lever|ashby|workday.",
+  "companies": [
+    {
+      "name": "Abbott",
+      "ats": "workday",
+      "tenant": "abbott",
+      "host": "wd5",
+      "site": "abbottcareers",
+      "top": true
+    },
+    {
+      "name": "Abcellera",
+      "ats": "greenhouse",
+      "slug": "abcellera"
+    },
+    {
+      "name": "Absci",
+      "ats": "ashby",
+      "slug": "absci"
+    },
+    {
+      "name": "Adaptive Biotechnologies",
+      "ats": "greenhouse",
+      "slug": "adaptivebiotechnologies"
+    },
+    {
+      "name": "Agilent",
+      "ats": "workday",
+      "tenant": "agilent",
+      "host": "wd5",
+      "site": "Agilent_Careers"
+    },
+    {
+      "name": "Alector",
+      "ats": "lever",
+      "slug": "alector"
+    },
+    {
+      "name": "Altos Labs",
+      "ats": "greenhouse",
+      "slug": "altoslabs",
+      "top": true
+    },
+    {
+      "name": "Alumis",
+      "ats": "greenhouse",
+      "slug": "alumis"
+    },
+    {
+      "name": "Amgen",
+      "ats": "workday",
+      "tenant": "amgen",
+      "host": "wd1",
+      "site": "Careers",
+      "top": true
+    },
+    {
+      "name": "Ansa Biotechnologies",
+      "ats": "greenhouse",
+      "slug": "ansabiotechnologies"
+    },
+    {
+      "name": "Arc Institute",
+      "ats": "greenhouse",
+      "slug": "arcinstitute",
+      "top": true
+    },
+    {
+      "name": "Arcadia Science",
+      "ats": "greenhouse",
+      "slug": "arcadiascience"
+    },
+    {
+      "name": "Arsenal Bio",
+      "ats": "lever",
+      "slug": "arsenalbio"
+    },
+    {
+      "name": "Arvinas",
+      "ats": "greenhouse",
+      "slug": "arvinas"
+    },
+    {
+      "name": "Asimov",
+      "ats": "ashby",
+      "slug": "asimov"
+    },
+    {
+      "name": "AstraZeneca",
+      "ats": "workday",
+      "tenant": "astrazeneca",
+      "host": "wd3",
+      "site": "Careers",
+      "top": true
+    },
+    {
+      "name": "Basecamp Research",
+      "ats": "ashby",
+      "slug": "basecamp-research"
+    },
+    {
+      "name": "Baxter",
+      "ats": "workday",
+      "tenant": "baxter",
+      "host": "wd1",
+      "site": "baxter"
+    },
+    {
+      "name": "BD",
+      "ats": "workday",
+      "tenant": "bdx",
+      "host": "wd1",
+      "site": "EXTERNAL_CAREER_SITE_USA"
+    },
+    {
+      "name": "Beam Therapeutics",
+      "ats": "greenhouse",
+      "slug": "beamtherapeutics"
+    },
+    {
+      "name": "BeiGene / BeOne",
+      "ats": "workday",
+      "tenant": "beigene",
+      "host": "wd5",
+      "site": "BeiGene"
+    },
+    {
+      "name": "Benchling",
+      "ats": "ashby",
+      "slug": "benchling"
+    },
+    {
+      "name": "BillionToOne",
+      "ats": "greenhouse",
+      "slug": "billiontoone"
+    },
+    {
+      "name": "Biogen",
+      "ats": "workday",
+      "tenant": "biibhr",
+      "host": "wd3",
+      "site": "external",
+      "top": true
+    },
+    {
+      "name": "BridgeBio",
+      "ats": "greenhouse",
+      "slug": "bridgebio"
+    },
+    {
+      "name": "Bristol Myers Squibb",
+      "ats": "workday",
+      "tenant": "bristolmyerssquibb",
+      "host": "wd5",
+      "site": "BMS",
+      "top": true
+    },
+    {
+      "name": "Catalent",
+      "ats": "workday",
+      "tenant": "catalent",
+      "host": "wd1",
+      "site": "External"
+    },
+    {
+      "name": "Cellares",
+      "ats": "lever",
+      "slug": "cellares"
+    },
+    {
+      "name": "Cellarity",
+      "ats": "greenhouse",
+      "slug": "cellarity"
+    },
+    {
+      "name": "Chai Discovery",
+      "ats": "ashby",
+      "slug": "chaidiscovery"
+    },
+    {
+      "name": "Corteva",
+      "ats": "workday",
+      "tenant": "corteva",
+      "host": "wd5",
+      "site": "Corteva"
+    },
+    {
+      "name": "CRISPR Therapeutics",
+      "ats": "workday",
+      "tenant": "crisprtx",
+      "host": "wd12",
+      "site": "Careers"
+    },
+    {
+      "name": "CSL",
+      "ats": "workday",
+      "tenant": "csl",
+      "host": "wd1",
+      "site": "CSL_External"
+    },
+    {
+      "name": "Culture Biosciences",
+      "ats": "greenhouse",
+      "slug": "culturebiosciences"
+    },
+    {
+      "name": "Danaher",
+      "ats": "workday",
+      "tenant": "danaher",
+      "host": "wd1",
+      "site": "DanaherJobs",
+      "top": true
+    },
+    {
+      "name": "Deep Genomics",
+      "ats": "lever",
+      "slug": "deepgenomics"
+    },
+    {
+      "name": "DNA Script",
+      "ats": "greenhouse",
+      "slug": "dnascript"
+    },
+    {
+      "name": "Dotmatics",
+      "ats": "greenhouse",
+      "slug": "dotmatics"
+    },
+    {
+      "name": "Dyno Therapeutics",
+      "ats": "greenhouse",
+      "slug": "dynotherapeutics"
+    },
+    {
+      "name": "Edwards Lifesciences",
+      "ats": "workday",
+      "tenant": "edwards",
+      "host": "wd5",
+      "site": "EdwardsCareers"
+    },
+    {
+      "name": "Eikon Therapeutics",
+      "ats": "greenhouse",
+      "slug": "eikontherapeutics"
+    },
+    {
+      "name": "Eisai",
+      "ats": "workday",
+      "tenant": "eisai",
+      "host": "wd5",
+      "site": "Eisai"
+    },
+    {
+      "name": "Element Biosciences",
+      "ats": "greenhouse",
+      "slug": "elementbiosciences"
+    },
+    {
+      "name": "Enveda",
+      "ats": "lever",
+      "slug": "enveda"
+    },
+    {
+      "name": "Exact Sciences",
+      "ats": "workday",
+      "tenant": "exactsciences",
+      "host": "wd1",
+      "site": "Exact_Sciences"
+    },
+    {
+      "name": "Fate Therapeutics",
+      "ats": "lever",
+      "slug": "fatetherapeutics"
+    },
+    {
+      "name": "Flatiron Health",
+      "ats": "greenhouse",
+      "slug": "flatironhealth"
+    },
+    {
+      "name": "Formation Bio",
+      "ats": "greenhouse",
+      "slug": "formationbio"
+    },
+    {
+      "name": "Freenome",
+      "ats": "greenhouse",
+      "slug": "freenome"
+    },
+    {
+      "name": "GeneDx",
+      "ats": "greenhouse",
+      "slug": "genedx"
+    },
+    {
+      "name": "Generate Biomedicines",
+      "ats": "greenhouse",
+      "slug": "generatebiomedicines"
+    },
+    {
+      "name": "Gilead Sciences",
+      "ats": "workday",
+      "tenant": "gilead",
+      "host": "wd1",
+      "site": "gileadcareers",
+      "top": true
+    },
+    {
+      "name": "Ginkgo Bioworks",
+      "ats": "greenhouse",
+      "slug": "ginkgobioworks",
+      "top": true
+    },
+    {
+      "name": "GSK",
+      "ats": "workday",
+      "tenant": "gsk",
+      "host": "wd5",
+      "site": "GSKCareers",
+      "top": true
+    },
+    {
+      "name": "Iambic Therapeutics",
+      "ats": "ashby",
+      "slug": "iambic-therapeutics"
+    },
+    {
+      "name": "Illumina",
+      "ats": "workday",
+      "tenant": "illumina",
+      "host": "wd1",
+      "site": "illumina-careers",
+      "top": true
+    },
+    {
+      "name": "Inceptive",
+      "ats": "greenhouse",
+      "slug": "inceptive"
+    },
+    {
+      "name": "insitro",
+      "ats": "ashby",
+      "slug": "insitro",
+      "top": true
+    },
+    {
+      "name": "Integra",
+      "ats": "workday",
+      "tenant": "integralife",
+      "host": "wd1",
+      "site": "Careers"
+    },
+    {
+      "name": "IQVIA",
+      "ats": "workday",
+      "tenant": "iqvia",
+      "host": "wd1",
+      "site": "IQVIA"
+    },
+    {
+      "name": "Isomorphic Labs",
+      "ats": "greenhouse",
+      "slug": "isomorphiclabs",
+      "top": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ats": "workday",
+      "tenant": "jj",
+      "host": "wd5",
+      "site": "JJ",
+      "top": true
+    },
+    {
+      "name": "Labcorp",
+      "ats": "workday",
+      "tenant": "labcorp",
+      "host": "wd1",
+      "site": "External"
+    },
+    {
+      "name": "Lila Sciences",
+      "ats": "greenhouse",
+      "slug": "lilasciences",
+      "top": true
+    },
+    {
+      "name": "Manifold Bio",
+      "ats": "greenhouse",
+      "slug": "manifoldbio"
+    },
+    {
+      "name": "Medtronic",
+      "ats": "workday",
+      "tenant": "medtronic",
+      "host": "wd1",
+      "site": "MedtronicCareers",
+      "top": true
+    },
+    {
+      "name": "Merck",
+      "ats": "workday",
+      "tenant": "msd",
+      "host": "wd5",
+      "site": "SearchJobs",
+      "top": true
+    },
+    {
+      "name": "Moderna",
+      "ats": "workday",
+      "tenant": "modernatx",
+      "host": "wd1",
+      "site": "M_tx",
+      "top": true
+    },
+    {
+      "name": "Multiply Labs",
+      "ats": "lever",
+      "slug": "multiplylabs"
+    },
+    {
+      "name": "Natera",
+      "ats": "greenhouse",
+      "slug": "natera"
+    },
+    {
+      "name": "Neumora",
+      "ats": "greenhouse",
+      "slug": "neumora"
+    },
+    {
+      "name": "NewLimit",
+      "ats": "greenhouse",
+      "slug": "newlimit"
+    },
+    {
+      "name": "Noetik",
+      "ats": "greenhouse",
+      "slug": "noetik"
+    },
+    {
+      "name": "Novartis",
+      "ats": "workday",
+      "tenant": "novartis",
+      "host": "wd3",
+      "site": "Novartis_Careers",
+      "top": true
+    },
+    {
+      "name": "Nurix",
+      "ats": "greenhouse",
+      "slug": "nurix"
+    },
+    {
+      "name": "Owkin",
+      "ats": "ashby",
+      "slug": "owkin"
+    },
+    {
+      "name": "Parse Biosciences",
+      "ats": "greenhouse",
+      "slug": "parsebiosciences"
+    },
+    {
+      "name": "PathAI",
+      "ats": "greenhouse",
+      "slug": "pathai"
+    },
+    {
+      "name": "Pfizer",
+      "ats": "workday",
+      "tenant": "pfizer",
+      "host": "wd1",
+      "site": "PfizerCareers",
+      "top": true
+    },
+    {
+      "name": "Pivot Bio",
+      "ats": "greenhouse",
+      "slug": "pivotbio"
+    },
+    {
+      "name": "Prime Medicine",
+      "ats": "greenhouse",
+      "slug": "primemedicine"
+    },
+    {
+      "name": "Profluent",
+      "ats": "greenhouse",
+      "slug": "profluent"
+    },
+    {
+      "name": "Recursion",
+      "ats": "greenhouse",
+      "slug": "recursionpharmaceuticals",
+      "top": true
+    },
+    {
+      "name": "Regeneron",
+      "ats": "workday",
+      "tenant": "regeneron",
+      "host": "wd1",
+      "site": "Careers",
+      "top": true
+    },
+    {
+      "name": "Relay Therapeutics",
+      "ats": "greenhouse",
+      "slug": "relaytherapeutics"
+    },
+    {
+      "name": "Retro Biosciences",
+      "ats": "lever",
+      "slug": "retro"
+    },
+    {
+      "name": "Revolution Medicines",
+      "ats": "greenhouse",
+      "slug": "revolutionmedicines"
+    },
+    {
+      "name": "Revvity",
+      "ats": "workday",
+      "tenant": "revvity",
+      "host": "wd103",
+      "site": "External"
+    },
+    {
+      "name": "Roche / Genentech",
+      "ats": "workday",
+      "tenant": "roche",
+      "host": "wd3",
+      "site": "roche-ext",
+      "top": true
+    },
+    {
+      "name": "Sanofi",
+      "ats": "workday",
+      "tenant": "sanofi",
+      "host": "wd3",
+      "site": "SanofiCareers",
+      "top": true
+    },
+    {
+      "name": "Science 37",
+      "ats": "greenhouse",
+      "slug": "science37"
+    },
+    {
+      "name": "Seer",
+      "ats": "greenhouse",
+      "slug": "seer"
+    },
+    {
+      "name": "Senti Bio",
+      "ats": "lever",
+      "slug": "sentibio"
+    },
+    {
+      "name": "Septerna",
+      "ats": "greenhouse",
+      "slug": "septerna"
+    },
+    {
+      "name": "Seres Therapeutics",
+      "ats": "greenhouse",
+      "slug": "serestherapeutics"
+    },
+    {
+      "name": "Singular Genomics",
+      "ats": "greenhouse",
+      "slug": "singulargenomics"
+    },
+    {
+      "name": "Strand Therapeutics",
+      "ats": "greenhouse",
+      "slug": "strandtherapeutics"
+    },
+    {
+      "name": "Stryker",
+      "ats": "workday",
+      "tenant": "stryker",
+      "host": "wd1",
+      "site": "StrykerCareers"
+    },
+    {
+      "name": "Synthego",
+      "ats": "lever",
+      "slug": "synthego"
+    },
+    {
+      "name": "Tessera Therapeutics",
+      "ats": "greenhouse",
+      "slug": "tesseratherapeutics"
+    },
+    {
+      "name": "Thermo Fisher Scientific",
+      "ats": "workday",
+      "tenant": "thermofisher",
+      "host": "wd5",
+      "site": "ThermoFisherCareers",
+      "top": true
+    },
+    {
+      "name": "Twist Bioscience",
+      "ats": "greenhouse",
+      "slug": "twistbioscience"
+    },
+    {
+      "name": "Ultima Genomics",
+      "ats": "greenhouse",
+      "slug": "ultimagenomics"
+    },
+    {
+      "name": "Valo Health",
+      "ats": "greenhouse",
+      "slug": "valohealth"
+    },
+    {
+      "name": "Veeva",
+      "ats": "lever",
+      "slug": "veeva"
+    },
+    {
+      "name": "Veracyte",
+      "ats": "greenhouse",
+      "slug": "veracyte"
+    },
+    {
+      "name": "Vertex Pharmaceuticals",
+      "ats": "workday",
+      "tenant": "vrtx",
+      "host": "wd501",
+      "site": "vertex_careers",
+      "top": true
+    },
+    {
+      "name": "Viatris",
+      "ats": "workday",
+      "tenant": "viatris",
+      "host": "wd5",
+      "site": "External"
+    },
+    {
+      "name": "Xaira Therapeutics",
+      "ats": "greenhouse",
+      "slug": "xairatherapeutics",
+      "top": true
+    },
+    {
+      "name": "Zoetis",
+      "ats": "workday",
+      "tenant": "zoetis",
+      "host": "wd5",
+      "site": "zoetis"
+    }
+  ]
+}

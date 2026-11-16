@@ -1,0 +1,59 @@
+name: New Internship
+description: Add a biotech / pharma / life-science internship the bot missed
+title: "New Internship: "
+labels: ["new_internship"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing! Please read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) first."
+  - type: input
+    id: url
+    attributes: {label: Link to Internship Posting, placeholder: "https://careers.example.com/job/123"}
+    validations: {required: true}
+  - type: input
+    id: company_name
+    attributes: {label: Company Name, placeholder: Moderna}
+    validations: {required: true}
+  - type: input
+    id: title
+    attributes: {label: Internship Title, placeholder: "Process Development Intern, mRNA"}
+    validations: {required: true}
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Separate multiple with `|`. Include Remote if applicable.
+      placeholder: "Cambridge, MA | Norwood, MA"
+    validations: {required: true}
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Research & Lab Science
+        - Computational Biology, Data & AI
+        - Engineering, Manufacturing & Quality
+        - Clinical, Regulatory & Medical Affairs
+        - Business, Commercial & Operations
+    validations: {required: true}
+  - type: dropdown
+    id: terms
+    attributes:
+      label: Term(s)
+      multiple: true
+      options: [Summer 2027, Fall 2026, Winter 2027, Spring 2027, Fall 2027, Co-op / Off-Cycle]
+    validations: {required: true}
+  - type: dropdown
+    id: sponsorship
+    attributes:
+      label: Sponsorship
+      options: [Other, Offers Sponsorship, Does Not Offer Sponsorship, U.S. Citizenship is Required]
+    validations: {required: true}
+  - type: dropdown
+    id: degree
+    attributes:
+      label: Degree level targeted
+      options: [Undergraduate / Any, "Master's", PhD, PharmD, MBA]
+  - type: input
+    id: email
+    attributes: {label: Email (optional), description: Only used if we have questions.}

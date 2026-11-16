@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biotech Internships 2027</title>
+<meta name="description" content="Every live biotech, pharma & life-science internship, updated every 2 hours.">
+<link rel="alternate" type="application/rss+xml" title="New biotech internships" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Instrument+Serif&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f7f6f1;--panel:#fffefb;--ink:#14201d;--muted:#5d6b67;--line:#e3e1d8;--accent:#0f766e;--accent-ink:#fff;
+  --chip:#ecebe3;--new:#c2410c;--closed:#9ca3af;--row-hover:#f1f0e8;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0e1513;--panel:#141d1b;--ink:#e8efec;--muted:#93a39e;--line:#24302d;--accent:#2dd4bf;--accent-ink:#04201c;
+  --chip:#1c2725;--new:#fb923c;--closed:#56625f;--row-hover:#18231f;}}
+:root[data-theme="dark"]{
+  --bg:#0e1513;--panel:#141d1b;--ink:#e8efec;--muted:#93a39e;--line:#24302d;--accent:#2dd4bf;--accent-ink:#04201c;
+  --chip:#1c2725;--new:#fb923c;--closed:#56625f;--row-hover:#18231f;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+header{padding:48px 0 20px;border-bottom:1px solid var(--line)}
+.eyebrow{font:500 12px/1 "IBM Plex Mono",monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font:400 clamp(38px,6vw,64px)/1.02 "Instrument Serif",serif;margin:12px 0 12px;letter-spacing:-.01em}
+h1 em{color:var(--accent)}
+.lede{color:var(--muted);max-width:640px;margin:0}
+.stats{display:flex;flex-wrap:wrap;gap:28px;margin-top:24px}
+.stat b{display:block;font:500 26px/1 "IBM Plex Mono",monospace}
+.stat span{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.links{margin-top:20px;display:flex;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--panel);text-decoration:none;font-size:14px}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.controls{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(8px);padding:14px 0;border-bottom:1px solid var(--line)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+input[type=search],select{font:inherit;color:inherit;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+input[type=search]{flex:1 1 280px;min-width:0}
+select{flex:0 1 auto;max-width:100%}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.chip{border:1px solid transparent;background:var(--chip);border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer;color:inherit;font-family:inherit}
+.chip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink)}
+.chip .n{font-family:"IBM Plex Mono",monospace;opacity:.7;margin-left:4px;font-size:12px}
+label.tog{display:inline-flex;gap:6px;align-items:center;font-size:13px;color:var(--muted);cursor:pointer;user-select:none}
+.meta{display:flex;justify-content:space-between;align-items:center;margin:16px 0 8px;color:var(--muted);font-size:13px}
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th{text-align:left;font:500 11px/1 "IBM Plex Mono",monospace;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);padding:12px 14px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap}
+td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--row-hover)}
+.co{font-weight:600;white-space:nowrap}
+.role{max-width:420px}
+.tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:4px}
+.tag{font:500 11px/1 "IBM Plex Mono",monospace;padding:3px 6px;border-radius:5px;background:var(--chip);color:var(--muted)}
+.tag.new{background:color-mix(in srgb,var(--new) 15%,transparent);color:var(--new)}
+.loc{color:var(--muted);font-size:14px;max-width:240px}
+.age{font-family:"IBM Plex Mono",monospace;font-size:13px;color:var(--muted);white-space:nowrap}
+.apply{display:inline-block;padding:6px 12px;border-radius:8px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:500;font-size:13px;white-space:nowrap}
+.closed{color:var(--closed);font-size:13px}
+tr.is-closed td{opacity:.55}
+.empty{padding:48px;text-align:center;color:var(--muted)}
+.more{display:block;margin:16px auto 48px}
+footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);font-size:13px}
+.theme{background:none;border:1px solid var(--line);border-radius:999px;padding:6px 10px;color:inherit;cursor:pointer;font:inherit;font-size:13px}
+@media (max-width:760px){
+  header{padding-top:28px}
+  table,thead,tbody,tr,td{display:block}
+  thead{display:none}
+  table{border:0;background:none}
+  tr{background:var(--panel);border:1px solid var(--line);border-radius:12px;margin-bottom:10px;padding:12px 14px;display:grid;grid-template-columns:1fr auto;gap:2px 12px}
+  td{padding:0;border:0}
+  td.c-co{grid-column:1}
+  td.c-age{grid-column:2;grid-row:1;text-align:right}
+  td.c-role,td.c-loc{grid-column:1/-1}
+  td.c-app{grid-column:1/-1;margin-top:8px}
+  .role,.loc{max-width:none}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="row" style="justify-content:space-between">
+      <div class="eyebrow">Summer 2027 · updated every 2 hours</div>
+      <button class="theme" id="theme" type="button" aria-label="Toggle dark mode">◐ Theme</button>
+    </div>
+    <h1>Every biotech internship,<br><em>in one place.</em></h1>
+    <p class="lede">Wet lab, comp bio, bioprocess, clinical, regulatory and business internships at biotechs, big pharma, tools companies and research institutes, worldwide. Pulled straight from company job boards as they post.</p>
+    <div class="stats">
+      <div class="stat"><b id="s-open">–</b><span>open roles</span></div>
+      <div class="stat"><b id="s-new">–</b><span>new this week</span></div>
+      <div class="stat"><b id="s-co">–</b><span>companies hiring</span></div>
+      <div class="stat"><b id="s-upd">–</b><span>last update</span></div>
+    </div>
+    <div class="links">
+      <a class="btn primary" id="gh" href="#">★ GitHub list</a>
+      <a class="btn" id="contrib" href="#">＋ Submit a role</a>
+      <a class="btn" href="feed.xml">RSS feed</a>
+    </div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search company, role, city… (e.g. “CRISPR Boston”)" autocomplete="off">
+      <select id="term" aria-label="Term"></select>
+      <select id="country" aria-label="Country"></select>
+      <select id="sort" aria-label="Sort">
+        <option value="new">Newest first</option>
+        <option value="co">Company A–Z</option>
+      </select>
+    </div>
+    <div class="chips" id="cats"></div>
+    <div class="row" style="margin-top:10px;gap:16px">
+      <label class="tog"><input type="checkbox" id="f-new"> Posted in last 7 days</label>
+      <label class="tog"><input type="checkbox" id="f-spons"> Hide 🛂 / 🇺🇸 restricted</label>
+      <label class="tog"><input type="checkbox" id="f-top"> 🔥 Top companies only</label>
+      <label class="tog"><input type="checkbox" id="f-closed"> Show recently closed</label>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="meta"><span id="count"></span><span id="clear" style="cursor:pointer;text-decoration:underline;display:none">Clear filters</span></div>
+  <table>
+    <thead><tr><th>Company</th><th>Role</th><th>Location</th><th></th><th>Age</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div id="empty" class="empty" hidden>No roles match. Try loosening a filter.</div>
+  <button class="btn more" id="more" hidden>Show more</button>
+</main>
+
+<footer><div class="wrap">Data from public company job boards (Workday, Greenhouse, Lever, Ashby) plus community submissions. Inspired by SimplifyJobs' Summer Internships list. Not affiliated with any employer listed.</div></footer>
+
+<script>
+(() => {
+  const CATS = [
+    ["Research & Lab Science","🔬"],["Computational Biology, Data & AI","🧬"],
+    ["Engineering, Manufacturing & Quality","🏭"],["Clinical, Regulatory & Medical Affairs","🩺"],
+    ["Business, Commercial & Operations","💼"]];
+  const US = new Set("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split(" "));
+  const $ = id => document.getElementById(id);
+  const PAGE = 150;
+  let all = [], shown = PAGE, sortKey = "new";
+  const st = {q:"", cat:"", term:"", country:"", fnew:false, fspons:false, ftop:false, fclosed:false};
+
+  // theme
+  try { const t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch {}
+  $("theme").onclick = () => {
+    const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+    const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.dataset.theme = next;
+    try { localStorage.setItem("theme", next); } catch {}
+  };
+
+  // GitHub links: derive from *.github.io/<repo>/
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  const repo = m ? `https://github.com/${m[1]}/${location.pathname.split("/")[1] || ""}` : "https://github.com";
+  $("gh").href = repo; $("contrib").href = repo + "/issues/new/choose";
+
+  const country = loc => {
+    if (!loc || loc === "Unknown") return "Other";
+    if (/remote|virtual/i.test(loc)) return "Remote";
+    const parts = loc.split(",").map(s => s.trim());
+    const last = parts[parts.length - 1];
+    if (US.has(last) || /united states|usa/i.test(last)) return "United States";
+    if (parts.length === 1) return "Other";
+    return last.replace(/^Czechia$/,"Czech Republic");
+  };
+  const ageStr = ts => { const d = Math.floor((Date.now()/1000 - ts)/86400); return d < 1 ? "today" : d < 30 ? d+"d" : Math.floor(d/30)+"mo"; };
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const isOff = l => !l.terms.includes("Summer 2027");
+
+  function readHash() {
+    const p = new URLSearchParams(location.hash.slice(1));
+    for (const k of Object.keys(st)) if (p.has(k)) st[k] = typeof st[k] === "boolean" ? p.get(k) === "1" : p.get(k);
+  }
+  function writeHash() {
+    const p = new URLSearchParams();
+    for (const [k,v] of Object.entries(st)) if (v) p.set(k, v === true ? "1" : v);
+    history.replaceState(null, "", p.toString() ? "#" + p : location.pathname);
+  }
+
+  function filtered(ignoreCat = false) {
+    const now = Date.now()/1000, words = st.q.toLowerCase().split(/\s+/).filter(Boolean);
+    return all.filter(l => {
+      if (!st.fclosed && !l.active) return false;
+      if (!ignoreCat && st.cat && l.category !== st.cat) return false;
+      if (st.term === "summer" && isOff(l)) return false;
+      if (st.term === "off" && !isOff(l)) return false;
+      if (st.country && !l._countries.includes(st.country)) return false;
+      if (st.fnew && now - l.date_posted > 7*86400) return false;
+      if (st.fspons && l.sponsorship !== "Other" && l.sponsorship !== "Offers Sponsorship") return false;
+      if (st.ftop && !l.top) return false;
+      return words.every(w => l._hay.includes(w));
+    });
+  }
+
+  function render() {
+    const rows = filtered();
+    const base = filtered(true);
+    // category chip counts reflect other filters
+    $("cats").innerHTML = [["", "All", base.length]].concat(CATS.map(([c,e]) => [c, e+" "+c, base.filter(l=>l.category===c).length]))
+      .map(([v,label,n]) => `<button class="chip" data-cat="${esc(v)}" aria-pressed="${st.cat===v}">${esc(label)}<span class="n">${n}</span></button>`).join("");
+    rows.sort(sortKey === "co"
+      ? (a,b) => a.company_name.localeCompare(b.company_name) || b.date_posted - a.date_posted
+      : (a,b) => (b.active - a.active) || b.date_posted - a.date_posted || a.company_name.localeCompare(b.company_name));
+    const now = Date.now()/1000;
+    $("rows").innerHTML = rows.slice(0, shown).map(l => {
+      const tags = [];
+      if (now - l.date_posted < 3*86400) tags.push(`<span class="tag new">new</span>`);
+      if (isOff(l)) tags.push(`<span class="tag">${esc(l.terms.join(", "))}</span>`);
+      if (l.sponsorship === "Does Not Offer Sponsorship") tags.push(`<span class="tag" title="No visa sponsorship">🛂 no sponsorship</span>`);
+      if (l.sponsorship === "U.S. Citizenship is Required") tags.push(`<span class="tag">🇺🇸 citizens only</span>`);
+      if (l.degrees && l.degrees.length) tags.push(`<span class="tag">🎓 ${esc(l.degrees.join("/"))}</span>`);
+      const locs = l.locations.length > 3 ? esc(l.locations.slice(0,3).join(" · ")) + ` +${l.locations.length-3}` : esc(l.locations.join(" · "));
+      return `<tr class="${l.active ? "" : "is-closed"}">
+        <td class="c-co"><span class="co">${esc(l.company_name)}${l.top ? " 🔥" : ""}</span></td>
+        <td class="c-role"><div class="role">${esc(l.title)}</div><div class="tags">${tags.join("")}</div></td>
+        <td class="c-loc"><div class="loc">${locs}</div></td>
+        <td class="c-app">${l.active ? `<a class="apply" href="${esc(l.url)}" target="_blank" rel="noopener">Apply ↗</a>` : `<span class="closed">🔒 closed</span>`}</td>
+        <td class="c-age"><span class="age">${ageStr(l.date_posted)}</span></td></tr>`;
+    }).join("");
+    $("count").textContent = `${rows.length.toLocaleString()} role${rows.length===1?"":"s"}`;
+    $("empty").hidden = rows.length > 0;
+    $("more").hidden = rows.length <= shown;
+    $("clear").style.display = Object.values(st).some(Boolean) ? "" : "none";
+    writeHash();
+  }
+
+  function sync() {
+    $("q").value = st.q; $("term").value = st.term; $("country").value = st.country;
+    $("f-new").checked = st.fnew; $("f-spons").checked = st.fspons; $("f-top").checked = st.ftop; $("f-closed").checked = st.fclosed;
+  }
+
+  let t;
+  $("q").oninput = e => { clearTimeout(t); t = setTimeout(() => { st.q = e.target.value; shown = PAGE; render(); }, 120); };
+  $("term").onchange = e => { st.term = e.target.value; shown = PAGE; render(); };
+  $("country").onchange = e => { st.country = e.target.value; shown = PAGE; render(); };
+  $("sort").onchange = e => { sortKey = e.target.value; render(); };
+  for (const [id,k] of [["f-new","fnew"],["f-spons","fspons"],["f-top","ftop"],["f-closed","fclosed"]])
+    $(id).onchange = e => { st[k] = e.target.checked; shown = PAGE; render(); };
+  $("cats").onclick = e => { const b = e.target.closest(".chip"); if (!b) return; st.cat = b.dataset.cat; shown = PAGE; render(); };
+  $("more").onclick = () => { shown += PAGE; render(); };
+  $("clear").onclick = () => { for (const k of Object.keys(st)) st[k] = typeof st[k] === "boolean" ? false : ""; sync(); shown = PAGE; render(); };
+
+  fetch("listings.json", {cache: "no-cache"}).then(r => r.json()).then(data => {
+    all = data.listings.map(l => ({...l,
+      _countries: [...new Set(l.locations.map(x => { const c = country(x); return c === "Other" && l.country ? l.country : c; }))],
+      _hay: [l.company_name, l.title, l.category, ...l.locations, ...l.terms].join(" ").toLowerCase()}));
+    const open = all.filter(l => l.active), now = Date.now()/1000;
+    $("s-open").textContent = open.length.toLocaleString();
+    $("s-new").textContent = open.filter(l => now - l.date_posted < 7*86400).length.toLocaleString();
+    $("s-co").textContent = new Set(open.map(l => l.company_name)).size;
+    const mins = Math.round((now - data.updated)/60);
+    $("s-upd").textContent = mins < 60 ? mins + "m ago" : Math.round(mins/60) + "h ago";
+
+    const counts = {};
+    open.forEach(l => l._countries.forEach(c => counts[c] = (counts[c]||0) + 1));
+    const cs = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+    $("country").innerHTML = `<option value="">All locations</option>` + cs.map(([c,n]) => `<option value="${esc(c)}">${esc(c)} (${n})</option>`).join("");
+    $("term").innerHTML = `<option value="">All terms</option><option value="summer">Summer 2027</option><option value="off">Co-op / Off-season</option>`;
+    readHash(); sync(); render();
+  }).catch(() => { $("empty").hidden = false; $("empty").textContent = "Couldn't load listings."; });
+})();
+</script>
+</body>
+</html>

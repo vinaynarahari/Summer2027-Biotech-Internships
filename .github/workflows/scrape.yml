@@ -1,0 +1,65 @@
+name: Scrape internships
+
+# The "event system": poll every company's job board every 2 hours,
+# add new internships, close vanished ones, rebuild READMEs + site.
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Only scrape companies whose name contains this (optional)"
+        required: false
+  repository_dispatch:
+    types: [scrape]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: listings
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Scrape job boards
+        run: python -m scraper.scrape ${{ github.event.inputs.only && format('--only "{0}"', github.event.inputs.only) || '' }} | tee scrape.log
+      - name: Regenerate READMEs and site data
+        run: python -m scraper.readme
+      - name: Commit
+        id: commit
+        run: |
+          git config user.name "biotech-internships-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A .github/scripts/listings.json README*.md site/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          NEW=$(grep -oP 'new: \K\d+' scrape.log || echo 0)
+          CLOSED=$(grep -oP 'closed: \K\d+' scrape.log || echo 0)
+          git commit -q -m "Update listings: +${NEW} new, ${CLOSED} closed"
+          git pull --rebase -q -X ours origin "${GITHUB_REF_NAME}" || { git rebase --abort; python -m scraper.readme; }
+          git push -q
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Summary
+        run: |
+          echo '### Scrape results' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          head -c 60000 scrape.log >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+  deploy:
+    needs: scrape
+    if: needs.scrape.outputs.changed == 'true'
+    uses: ./.github/workflows/pages.yml

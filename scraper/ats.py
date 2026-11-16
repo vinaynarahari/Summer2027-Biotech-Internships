@@ -15,7 +15,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
-from .classify import looks_like_internship
+from .classify import location_clearly_non_us, looks_like_internship
 from .http import get_json, post_json
 
 TAG_RE = re.compile(r"<[^>]+>")
@@ -126,9 +126,11 @@ def ashby(c: dict) -> list[dict] | None:
 # --------------------------------------------------------------------------- #
 # Workday (public "cxs" JSON API used by every *.myworkdayjobs.com site)
 # --------------------------------------------------------------------------- #
-WD_SEARCHES = ["intern", "internship", "co-op", "praktikum"]
+WD_SEARCHES = ["summer intern", "internship", "intern", "co-op"]
 WD_PAGE = 20
-WD_MAX_PAGES = 15
+WD_MAX_PAGES = 30
+WD_INTERN_FACET_RE = re.compile(r"\binterns?\b|co-?op|student|college|campus|early career|university|trainee|placement", re.I)
+WD_COUNTRY_PARAMS = re.compile(r"country", re.I)
 
 
 def _wd_posted(text: str | None) -> int | None:
@@ -146,43 +148,89 @@ def _wd_posted(text: str | None) -> int | None:
     return None
 
 
+def _wd_walk_facets(facets, out=None):
+    """Flatten Workday's (sometimes nested) facet tree into (param, value) pairs."""
+    out = [] if out is None else out
+    for f in facets or []:
+        param = f.get("facetParameter")
+        for v in f.get("values") or []:
+            if "values" in v and v.get("facetParameter"):
+                _wd_walk_facets([v], out)
+            elif param and v.get("id"):
+                out.append((param, v))
+    return out
+
+
+class _Partial(Exception):
+    pass
+
+
 def workday(c: dict) -> list[dict] | None:
     base = f"https://{c['tenant']}.{c['host']}.myworkdayjobs.com"
     api = f"{base}/wday/cxs/{c['tenant']}/{c['site']}"
+
+    def page(facets: dict, text: str, offset: int):
+        return post_json(f"{api}/jobs", {"appliedFacets": facets, "limit": WD_PAGE, "offset": offset, "searchText": text})
+
+    first = page({}, "", 0)
+    if not isinstance(first, dict) or "jobPostings" not in first:
+        return None
+
+    # 1. Restrict to the U.S. when the board exposes a country facet (most do).
+    pairs = _wd_walk_facets(first.get("facets"))
+    us = {}
+    for param, v in pairs:
+        if WD_COUNTRY_PARAMS.search(param) and v.get("descriptor") in ("United States of America", "United States", "USA"):
+            us = {param: [v["id"]]}
+            break
+    # 2. Use the board's own intern / co-op worker-type tags when it has them.
+    intern_facets: dict[str, list[str]] = {}
+    for param, v in pairs:
+        if WD_COUNTRY_PARAMS.search(param) or "location" in param.lower():
+            continue
+        if WD_INTERN_FACET_RE.search(v.get("descriptor", "")):
+            intern_facets.setdefault(param, []).append(v["id"])
+
     found: dict[str, dict] = {}
-    reached = False
-    for term in WD_SEARCHES:
-        dry_pages = 0
-        for page in range(WD_MAX_PAGES):
-            d = post_json(
-                f"{api}/jobs",
-                {"appliedFacets": {}, "limit": WD_PAGE, "offset": page * WD_PAGE, "searchText": term},
-            )
+
+    def collect(facets: dict, text: str, stop_when_dry: bool):
+        dry = 0
+        total = None
+        for i in range(WD_MAX_PAGES):
+            d = page(facets, text, i * WD_PAGE)
             if not isinstance(d, dict) or "jobPostings" not in d:
-                if reached:
-                    # partial fetch: report failure so live roles aren't wrongly closed
-                    return None
-                break
-            reached = True
+                raise _Partial
+            if total is None:
+                total = d.get("total") or 0  # Workday only reports total on the first page
             posts = d["jobPostings"]
             hits = 0
             for p in posts:
-                if "externalPath" not in p:
+                if "externalPath" not in p or not looks_like_internship(p.get("title", "")):
                     continue
-                if looks_like_internship(p.get("title", "")):
-                    hits += 1
-                    found.setdefault(p["externalPath"], p)
-            # Workday search is fuzzy & relevance-ordered: once pages stop
-            # containing internship titles, the rest is noise.
-            dry_pages = 0 if hits else dry_pages + 1
-            if len(posts) < WD_PAGE or dry_pages >= 2:
+                hits += 1
+                # skip roles whose (single) listed location is clearly outside the U.S.
+                lt = p.get("locationsText") or ""
+                if not us and lt and not re.match(r"^\d+ Locations$", lt) and location_clearly_non_us(lt):
+                    continue
+                found.setdefault(p["externalPath"], p)
+            dry = 0 if hits else dry + 1
+            if len(posts) < WD_PAGE or (i + 1) * WD_PAGE >= total or (stop_when_dry and dry >= 3):
                 break
-    if not reached:
-        return None
+
+    try:
+        for param, ids in intern_facets.items():
+            collect({**us, param: ids}, "", stop_when_dry=False)
+        for term in WD_SEARCHES:
+            # Workday text search is fuzzy (can match every job): stop once results go dry
+            collect(us, term, stop_when_dry=True)
+    except _Partial:
+        return None  # partial fetch: report failure so live roles aren't wrongly closed
 
     def detail(item):
         path, p = item
-        info = (get_json(f"{api}{path}", quiet=True) or {}).get("jobPostingInfo") or {}
+        info = (get_json(f"{api}{path}", quiet=True) or {}).get("jobPostingInfo")
+        if not info:
+            raise _Partial  # keys/urls come from the detail call; don't guess
         locs = [info.get("location") or p.get("locationsText")] + list(info.get("additionalLocations") or [])
         country = (info.get("country") or {}).get("descriptor", "")
         if (country and country != "United States of America" and locs[0] and country not in locs[0]
@@ -199,8 +247,11 @@ def workday(c: dict) -> list[dict] | None:
             "country": "United States" if country == "United States of America" else country,
         }
 
-    with ThreadPoolExecutor(6) as ex:
-        return list(ex.map(detail, found.items()))
+    try:
+        with ThreadPoolExecutor(6) as ex:
+            return list(ex.map(detail, found.items()))
+    except _Partial:
+        return None
 
 
 FETCHERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday}

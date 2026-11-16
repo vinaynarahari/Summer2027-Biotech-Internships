@@ -39,6 +39,17 @@ def looks_like_internship(title: str, hint: bool = False) -> bool:
 # --------------------------------------------------------------------------- #
 CATEGORIES = [
     (
+        "Research & Lab Science",  # strong research signals that other groups would steal
+        "🔬",
+        r"preclinical|non-?clinical|lab automation|research core|sample management|toxicolog",
+    ),
+    (
+        "Clinical, Regulatory & Medical Affairs",  # strong clinical signals
+        "🩺",
+        r"medical affairs|med affairs|medical safety|global medical|medical monitoring|clinical pharmacolog|"
+        r"pharmacometric|\bcpp\b|clinical (project )?scientist|clinical science|clinical trial|\bgd\b|global development",
+    ),
+    (
         "Computational Biology, Data & AI",
         "🧬",
         r"bioinformatic|computational|comp ?bio|data scien|data engineer|data analy|machine learning|"
@@ -53,14 +64,15 @@ CATEGORIES = [
         r"marketing|finance|financial|accounting|\bsales\b|human resources|\bhr\b|talent|legal|"
         r"communications|\bcomms\b|business (process|development)|strategy|strategic|\besg\b|"
         r"commercial|controller|\bfp&a\b|treasury|\btax\b|audit|procurement|brand|investor|"
-        r"project manag|program manag|corporate affairs|public affairs|policy|administrative",
+        r"project manag|program manag|corporate affairs|public affairs|policy|administrative|portfolio|"
+        r"business operations|leadership development|\bmba\b",
     ),
     (
         "Clinical, Regulatory & Medical Affairs",
         "🩺",
-        r"clinical|regulatory|medical affairs|pharmacovigilance|drug safety|patient safety|heor|"
+        r"\bclinical|regulatory|medical affairs|pharmacovigilance|drug safety|patient safety|heor|"
         r"health economics|outcomes research|epidemiolog|real[- ]world|medical writing|"
-        r"medical information|\btrials?\b|public health|market access|compliance|pharmacy|patient",
+        r"medical information|\btrials?\b|public health|market access|pharmacy|patient|study start",
     ),
     (
         "Engineering, Manufacturing & Quality",
@@ -208,7 +220,7 @@ US_STATES = {
     "oregon": "OR", "pennsylvania": "PA", "rhode island": "RI", "south carolina": "SC",
     "south dakota": "SD", "tennessee": "TN", "texas": "TX", "utah": "UT", "vermont": "VT",
     "virginia": "VA", "washington": "WA", "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
-    "district of columbia": "DC",
+    "district of columbia": "DC", "puerto rico": "PR",
 }
 US_NAMES = {"united states", "united states of america", "usa", "us", "u.s."}
 
@@ -225,6 +237,12 @@ def clean_location(loc: str) -> str:
     m = re.match(r"^([A-Z][A-Za-z ]+)-([A-Z][^,-]+)$", loc)  # "Belgium-Wavre"
     if m and m.group(1).strip().lower() not in US_NAMES:
         return f"{m.group(2).strip()}, {m.group(1).strip()}"
+    m = re.match(r"^(.+?) - ([A-Z]{2}) - US$", loc)  # "Princeton - NJ - US"
+    if m:
+        city = re.sub(r"\s+\d+.*$", "", m.group(1)).split(" - ")[0]
+        return f"{city}, {m.group(2)}"
+    if re.match(r"^remote - united states", loc, re.I):
+        return "Remote"
     m = re.match(r"^USA? - ([^-]+?) - ([A-Z]{2})$", loc)  # "US - Gaithersburg - MD"
     if m:
         return f"{m.group(1)}, {m.group(2)}"
@@ -250,10 +268,133 @@ def clean_location(loc: str) -> str:
     return ", ".join(b for b in bits if b)
 
 
+LOC_NOISE = re.compile(r"^(hybrid|on-?site|in office|multiple|various)\b", re.I)
+
+
 def clean_locations(locs: list[str]) -> list[str]:
     out = []
     for l in locs:
         c = clean_location(l)
-        if c and c not in out:
+        if c and c not in out and not LOC_NOISE.match(c):
             out.append(c)
+    if len(out) > 1:
+        # drop department names that some boards leak into location lists ("Clinical Development")
+        def placeish(x):
+            return "," in x or re.search(r"remote", x, re.I) or location_is_us(x) is not None or state_of(x) != "Other U.S."
+        kept = [x for x in out if placeish(x)]
+        out = kept or out
     return out or ["Unknown"]
+
+
+# --------------------------------------------------------------------------- #
+# U.S.-only filter
+# --------------------------------------------------------------------------- #
+US_ABBRS = set(US_STATES.values())
+US_CITY_HINTS = re.compile(
+    r"\b(south san francisco|san francisco|boston|cambridge|new york|nyc|san diego|seattle|"
+    r"bay area|philadelphia|chicago|research triangle|rtp|princeton|new brunswick|raritan|"
+    r"rensselaer|tarrytown|thousand oaks|foster city|redwood city|waltham|lexington|watertown|"
+    r"indianapolis|rahway|kenilworth|titusville|spring house|horsham|basking ridge)\b",
+    re.I,
+)
+NON_US_HINT = re.compile(
+    r"\b(canada|ontario|quebec|toronto|vancouver|montr[eé]al|mexico|uk|united kingdom|england|scotland|wales|"
+    r"ireland|germany|france|switzerland|china|india|japan|korea|singapore|australia|brazil|argentina|chile|"
+    r"colombia|peru|belgium|netherlands|spain|portugal|italy|denmark|sweden|norway|finland|poland|israel|"
+    r"czech|czechia|austria|hungary|romania|bulgaria|greece|turkey|t[uü]rkiye|malaysia|thailand|vietnam|"
+    r"philippines|indonesia|taiwan|hong kong|new zealand|south africa|egypt|saudi|uae|dubai|puerto rico)\b",
+    re.I,
+)
+
+
+def location_is_us(loc: str) -> bool | None:
+    """True = U.S., False = clearly not, None = can't tell."""
+    if not loc or loc == "Unknown":
+        return None
+    if re.search(r"united states|\bu\.?s\.?a?\b|\bremote in [A-Z]{2}\b", loc, re.I):
+        return True
+    last = loc.split(",")[-1].strip()
+    if last in US_ABBRS or last.lower() in US_STATES:
+        return True
+    if NON_US_HINT.search(loc):
+        return False
+    if US_CITY_HINTS.search(loc):
+        return True
+    if "," in loc:
+        return False  # "City, Country" that isn't a U.S. state
+    if re.fullmatch(r"remote", loc, re.I):
+        return None
+    return None
+
+
+def is_us(locations: list[str], country: str = "") -> bool:
+    if country:
+        if country == "United States":
+            return True
+        # Workday's country is the primary location; still allow a U.S. secondary location
+        return any(location_is_us(l) for l in locations[1:])
+    verdicts = [location_is_us(l) for l in locations]
+    if any(v is True for v in verdicts):
+        return True
+    if any(v is False for v in verdicts):
+        return False
+    # Only "Remote"/unknown: keep remote roles, drop truly unknown ones
+    return any(re.fullmatch(r"remote", l, re.I) for l in locations)
+
+
+def location_clearly_non_us(loc: str) -> bool:
+    """Conservative check used to skip work before fetching details."""
+    return bool(loc) and location_is_us(loc) is not True and bool(NON_US_HINT.search(loc))
+
+
+# --------------------------------------------------------------------------- #
+# U.S. state for filtering (shared by README filter pages and the website)
+# --------------------------------------------------------------------------- #
+STATE_NAMES = {v: k.title() for k, v in US_STATES.items()}
+STATE_NAMES["DC"] = "Washington DC"
+STATE_NAMES["PR"] = "Puerto Rico"
+CITY_STATE = {
+    "south san francisco": "CA", "san francisco": "CA", "santa clara": "CA", "san diego": "CA",
+    "redwood city": "CA", "foster city": "CA", "thousand oaks": "CA", "oceanside": "CA", "vacaville": "CA",
+    "pleasanton": "CA", "carlsbad": "CA", "fremont": "CA", "san jose": "CA", "irvine": "CA",
+    "boston": "MA", "cambridge": "MA", "waltham": "MA", "lexington": "MA", "norwood": "MA", "andover": "MA",
+    "framingham": "MA", "watertown": "MA", "new york": "NY", "rensselaer": "NY", "tarrytown": "NY",
+    "sleepy hollow": "NY", "hillsboro": "OR", "tucson": "AZ", "indianapolis": "IN", "kalamazoo": "MI",
+    "portage": "MI", "rahway": "NJ", "princeton": "NJ", "new brunswick": "NJ", "raritan": "NJ",
+    "titusville": "NJ", "summit": "NJ", "lawrenceville": "NJ", "parsippany": "NJ", "spring house": "PA",
+    "horsham": "PA", "west point": "PA", "philadelphia": "PA", "seattle": "WA", "bothell": "WA",
+    "research triangle park": "NC", "durham": "NC", "raleigh": "NC", "chicago": "IL", "north chicago": "IL",
+    "lincoln": "NE", "gaithersburg": "MD", "rockville": "MD", "frederick": "MD", "houston": "TX",
+    "boulder": "CO", "salt lake city": "UT", "madison": "WI", "minneapolis": "MN",
+}
+
+
+def state_of(loc: str) -> str:
+    """'Boston, MA' -> 'Massachusetts'; 'Remote' -> 'Remote'; unknown U.S. -> 'Other U.S.'"""
+    if not loc or loc == "Unknown":
+        return "Other U.S."
+    if re.search(r"remote|virtual", loc, re.I):
+        m = re.search(r"Remote in ([A-Z]{2})", loc)
+        return STATE_NAMES.get(m.group(1), "Remote") if m else "Remote"
+    m = re.search(r"\b([A-Z]{2})\s*$", loc)
+    if m and m.group(1) in STATE_NAMES:
+        return STATE_NAMES[m.group(1)]
+    low = loc.lower()
+    for name, ab in US_STATES.items():
+        if re.search(rf"\b{name}\b", low):
+            return STATE_NAMES[ab]
+    for city, ab in CITY_STATE.items():
+        if re.search(rf"\b{city}\b", low):
+            return STATE_NAMES[ab]
+    return "Other U.S."
+
+
+def states_of(locations: list[str]) -> list[str]:
+    out = []
+    for l in locations:
+        if location_clearly_non_us(l):
+            continue
+        s = state_of(l)
+        if s not in out:
+            out.append(s)
+    return out or ["Other U.S."]

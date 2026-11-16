@@ -16,6 +16,7 @@ Internships at companies or institutes working in biotechnology, pharma, life-sc
 
 ## Rules
 
+- **U.S. only**: the role must be located in the U.S. (or U.S.-remote).
 - The posting must be **live** and link directly to the application (not a generic careers page).
 - One issue per role. Use `|` to separate multiple locations.
 - Don't submit roles for terms that have already passed.

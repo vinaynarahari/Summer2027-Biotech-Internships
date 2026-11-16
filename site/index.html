@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Biotech Internships 2027</title>
+<title>US Biotech Internships</title>
 <meta name="description" content="Every live biotech, pharma & life-science internship, updated every 2 hours.">
 <link rel="alternate" type="application/rss+xml" title="New biotech internships" href="feed.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>">
@@ -87,10 +87,12 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
       <div class="eyebrow">Summer 2027 · updated every 2 hours</div>
       <button class="theme" id="theme" type="button" aria-label="Toggle dark mode">◐ Theme</button>
     </div>
-    <h1>Every biotech internship,<br><em>in one place.</em></h1>
-    <p class="lede">Wet lab, comp bio, bioprocess, clinical, regulatory and business internships at biotechs, big pharma, tools companies and research institutes, worldwide. Pulled straight from company job boards as they post.</p>
+    <h1>Every U.S. biotech internship,<br><em>in one place.</em></h1>
+    <p class="lede">Wet lab, comp bio, bioprocess, clinical, regulatory and business internships at biotechs, big pharma, tools companies and research institutes across the U.S. Pulled straight from company job boards as they post.</p>
     <div class="stats">
       <div class="stat"><b id="s-open">–</b><span>open roles</span></div>
+      <div class="stat"><b id="s-summer">–</b><span>summer 2027</span></div>
+      <div class="stat"><b id="s-off">–</b><span>co-op / off-season</span></div>
       <div class="stat"><b id="s-new">–</b><span>new this week</span></div>
       <div class="stat"><b id="s-co">–</b><span>companies hiring</span></div>
       <div class="stat"><b id="s-upd">–</b><span>last update</span></div>
@@ -99,6 +101,7 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
       <a class="btn primary" id="gh" href="#">★ GitHub list</a>
       <a class="btn" id="contrib" href="#">＋ Submit a role</a>
       <a class="btn" href="feed.xml">RSS feed</a>
+      <a class="btn" id="ghfilters" href="#">Filters on GitHub</a>
     </div>
   </div>
 </header>
@@ -108,7 +111,7 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
     <div class="row">
       <input type="search" id="q" placeholder="Search company, role, city… (e.g. “CRISPR Boston”)" autocomplete="off">
       <select id="term" aria-label="Term"></select>
-      <select id="country" aria-label="Country"></select>
+      <select id="country" aria-label="State"></select>
       <select id="sort" aria-label="Sort">
         <option value="new">Newest first</option>
         <option value="co">Company A–Z</option>
@@ -161,16 +164,17 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
   // GitHub links: derive from *.github.io/<repo>/
   const m = location.hostname.match(/^([^.]+)\.github\.io$/);
   const repo = m ? `https://github.com/${m[1]}/${location.pathname.split("/")[1] || ""}` : "https://github.com";
-  $("gh").href = repo; $("contrib").href = repo + "/issues/new/choose";
+  $("gh").href = repo; $("contrib").href = repo + "/issues/new/choose"; $("ghfilters").href = repo + "/blob/main/filters/README.md";
 
+  const STATE_NAMES = {AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming",DC:"Washington DC"};
+  // "region" = U.S. state (the list is U.S.-only)
   const country = loc => {
-    if (!loc || loc === "Unknown") return "Other";
+    if (!loc || loc === "Unknown") return "Other U.S.";
     if (/remote|virtual/i.test(loc)) return "Remote";
-    const parts = loc.split(",").map(s => s.trim());
-    const last = parts[parts.length - 1];
-    if (US.has(last) || /united states|usa/i.test(last)) return "United States";
-    if (parts.length === 1) return "Other";
-    return last.replace(/^Czechia$/,"Czech Republic");
+    const m = loc.match(/\b([A-Z]{2})\s*$/) || loc.match(/Remote in ([A-Z]{2})/);
+    if (m && STATE_NAMES[m[1]]) return STATE_NAMES[m[1]];
+    const full = Object.values(STATE_NAMES).find(n => loc.toLowerCase().includes(n.toLowerCase()));
+    return full || "Other U.S.";
   };
   const ageStr = ts => { const d = Math.floor((Date.now()/1000 - ts)/86400); return d < 1 ? "today" : d < 30 ? d+"d" : Math.floor(d/30)+"mo"; };
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -251,10 +255,12 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
 
   fetch("listings.json", {cache: "no-cache"}).then(r => r.json()).then(data => {
     all = data.listings.map(l => ({...l,
-      _countries: [...new Set(l.locations.map(x => { const c = country(x); return c === "Other" && l.country ? l.country : c; }))],
+      _countries: l.states && l.states.length ? l.states : [...new Set(l.locations.map(country))],
       _hay: [l.company_name, l.title, l.category, ...l.locations, ...l.terms].join(" ").toLowerCase()}));
     const open = all.filter(l => l.active), now = Date.now()/1000;
     $("s-open").textContent = open.length.toLocaleString();
+    $("s-summer").textContent = open.filter(l => !isOff(l)).length.toLocaleString();
+    $("s-off").textContent = open.filter(isOff).length.toLocaleString();
     $("s-new").textContent = open.filter(l => now - l.date_posted < 7*86400).length.toLocaleString();
     $("s-co").textContent = new Set(open.map(l => l.company_name)).size;
     const mins = Math.round((now - data.updated)/60);
@@ -263,7 +269,7 @@ footer{border-top:1px solid var(--line);padding:24px 0 48px;color:var(--muted);f
     const counts = {};
     open.forEach(l => l._countries.forEach(c => counts[c] = (counts[c]||0) + 1));
     const cs = Object.entries(counts).sort((a,b) => b[1]-a[1]);
-    $("country").innerHTML = `<option value="">All locations</option>` + cs.map(([c,n]) => `<option value="${esc(c)}">${esc(c)} (${n})</option>`).join("");
+    $("country").innerHTML = `<option value="">All states</option>` + cs.map(([c,n]) => `<option value="${esc(c)}">${esc(c)} (${n})</option>`).join("");
     $("term").innerHTML = `<option value="">All terms</option><option value="summer">Summer 2027</option><option value="off">Co-op / Off-season</option>`;
     readHash(); sync(); render();
   }).catch(() => { $("empty").hidden = false; $("empty").textContent = "Couldn't load listings."; });

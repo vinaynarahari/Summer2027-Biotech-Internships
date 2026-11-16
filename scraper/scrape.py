@@ -23,6 +23,9 @@ def build_listing(company: dict, raw: dict, now: int) -> dict | None:
     title = raw["title"].strip()
     if not C.looks_like_internship(title, raw.get("is_intern_hint", False)):
         return None
+    locations = C.clean_locations(raw.get("locations", []))
+    if not C.is_us(locations, raw.get("country") or ""):
+        return None
     terms = C.detect_terms(title, raw.get("description", ""))
     if C.is_stale(terms):
         return None
@@ -34,7 +37,7 @@ def build_listing(company: dict, raw: dict, now: int) -> dict | None:
         "company_url": company.get("url", ""),
         "title": title,
         "category": C.categorize(title),
-        "locations": C.clean_locations(raw.get("locations", [])),
+        "locations": locations,
         "country": raw.get("country") or "",
         "terms": terms,
         "url": raw["url"],
@@ -59,7 +62,10 @@ def main() -> None:
     if a.only:
         companies = [c for c in companies if a.only.lower() in c["name"].lower()]
 
-    listings = load_listings()
+    listings = [
+        l for l in load_listings()
+        if l.get("source") != "bot" or l.get("locked") or C.is_us(l["locations"], l.get("country", ""))
+    ]
     by_key = {l["ats_key"]: l for l in listings if l.get("ats_key")}
     by_url = {l["url"]: l for l in listings}
     now = now_utc()

@@ -61,6 +61,9 @@ def new_internship(form: dict, user: str) -> str:
     company = field(form, "company name")
     terms = [t.strip() for t in field(form, "term").split(",") if t.strip()] or detect_terms(title)
     degree = field(form, "degree")
+    from .classify import is_us
+    if not is_us(clean_locations(field(form, "location").split("|"))):
+        fail("This list is U.S.-only: please include at least one U.S. location (e.g. 'Boston, MA' or 'Remote').")
     now = now_utc()
     listings.append(
         {

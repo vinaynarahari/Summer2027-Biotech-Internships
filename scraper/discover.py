@@ -22,7 +22,7 @@ from .http import get_json, post_json
 ROOT = Path(__file__).resolve().parent.parent
 COMPANIES = ROOT / "companies.json"
 
-WD_HOSTS = ["wd1", "wd3", "wd5", "wd12", "wd103", "wd501"]
+WD_HOSTS = ["wd1", "wd3", "wd5", "wd12", "wd103", "wd501", "wd115", "wd108", "wd10", "wd2", "wd8", "wd101"]
 WD_SITES = ["External", "Careers", "careers", "external", "{t}", "{t}careers", "{T}Careers", "{t}_careers", "Search"]
 
 

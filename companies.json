@@ -136,6 +136,13 @@
       "slug": "billiontoone"
     },
     {
+      "name": "Bio-Techne",
+      "ats": "workday",
+      "tenant": "biotechne",
+      "host": "wd5",
+      "site": "biotechne"
+    },
+    {
       "name": "Biogen",
       "ats": "workday",
       "tenant": "biibhr",
@@ -257,6 +264,14 @@
       "slug": "elementbiosciences"
     },
     {
+      "name": "Eli Lilly",
+      "ats": "workday",
+      "tenant": "lilly",
+      "host": "wd115",
+      "site": "LLY",
+      "top": true
+    },
+    {
       "name": "Enveda",
       "ats": "lever",
       "slug": "enveda"
@@ -294,6 +309,14 @@
       "slug": "genedx"
     },
     {
+      "name": "Genentech",
+      "ats": "workday",
+      "tenant": "roche",
+      "host": "wd3",
+      "site": "ROG-A2O-GENE",
+      "top": true
+    },
+    {
       "name": "Generate Biomedicines",
       "ats": "greenhouse",
       "slug": "generatebiomedicines"
@@ -319,6 +342,13 @@
       "host": "wd5",
       "site": "GSKCareers",
       "top": true
+    },
+    {
+      "name": "Halozyme",
+      "ats": "workday",
+      "tenant": "halozyme",
+      "host": "wd115",
+      "site": "HalozymeCareers"
     },
     {
       "name": "Iambic Therapeutics",
@@ -350,6 +380,13 @@
       "tenant": "integralife",
       "host": "wd1",
       "site": "Careers"
+    },
+    {
+      "name": "Ipsen",
+      "ats": "workday",
+      "tenant": "ipsen",
+      "host": "wd103",
+      "site": "Ipsen_Careers"
     },
     {
       "name": "IQVIA",
@@ -384,6 +421,13 @@
       "ats": "greenhouse",
       "slug": "lilasciences",
       "top": true
+    },
+    {
+      "name": "Lonza",
+      "ats": "workday",
+      "tenant": "lonza",
+      "host": "wd3",
+      "site": "Lonza_Careers"
     },
     {
       "name": "Manifold Bio",
@@ -430,6 +474,13 @@
       "slug": "neumora"
     },
     {
+      "name": "Neurocrine Biosciences",
+      "ats": "workday",
+      "tenant": "neurocrine",
+      "host": "wd5",
+      "site": "NeurocrineCareers"
+    },
+    {
       "name": "NewLimit",
       "ats": "greenhouse",
       "slug": "newlimit"
@@ -446,6 +497,13 @@
       "host": "wd3",
       "site": "Novartis_Careers",
       "top": true
+    },
+    {
+      "name": "Novavax",
+      "ats": "workday",
+      "tenant": "novavax",
+      "host": "wd1",
+      "site": "Careers"
     },
     {
       "name": "Nurix",
@@ -527,7 +585,7 @@
       "site": "External"
     },
     {
-      "name": "Roche / Genentech",
+      "name": "Roche",
       "ats": "workday",
       "tenant": "roche",
       "host": "wd3",
@@ -541,6 +599,13 @@
       "host": "wd3",
       "site": "SanofiCareers",
       "top": true
+    },
+    {
+      "name": "Sarepta",
+      "ats": "workday",
+      "tenant": "sarepta",
+      "host": "wd5",
+      "site": "Sarepta_External"
     },
     {
       "name": "Science 37",

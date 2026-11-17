@@ -5,7 +5,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 [← Back to Summer 2027 list](./README.md)
 
 <!-- TABLE_START -->
-### 15 most recently closed roles · updated Nov 17, 2026 00:51 UTC
+### 15 most recently closed roles · updated Nov 17, 2026 00:52 UTC
 
 <table>
 <thead>

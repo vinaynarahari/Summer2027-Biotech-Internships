@@ -302,7 +302,7 @@ NON_US_HINT = re.compile(
     r"ireland|germany|france|switzerland|china|india|japan|korea|singapore|australia|brazil|argentina|chile|"
     r"colombia|peru|belgium|netherlands|spain|portugal|italy|denmark|sweden|norway|finland|poland|israel|"
     r"czech|czechia|austria|hungary|romania|bulgaria|greece|turkey|t[uü]rkiye|malaysia|thailand|vietnam|"
-    r"philippines|indonesia|taiwan|hong kong|new zealand|south africa|egypt|saudi|uae|dubai|puerto rico)\b",
+    r"philippines|indonesia|taiwan|hong kong|new zealand|south africa|egypt|saudi|uae|dubai)\b",
     re.I,
 )
 

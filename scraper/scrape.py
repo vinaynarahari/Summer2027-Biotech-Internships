@@ -22,6 +22,7 @@ MISSES_BEFORE_CLOSE = 2  # consecutive successful runs where the job is gone
 
 MASS_MISS_MIN = 5       # guard only kicks in when this many roles vanish at once
 MASS_MISS_SHARE = 0.6   # ...and they are at least this share of the company's open roles
+GUARD_RUNS = 2          # after this many consecutive guarded runs (~4h), accept it as real
 
 
 def apply_misses(listings: list[dict], company: str, seen_keys: set, now: int, suspicious: list) -> int:
@@ -34,8 +35,12 @@ def apply_misses(listings: list[dict], company: str, seen_keys: set, now: int, s
     open_rows = [l for l in listings if l.get("source") == "bot" and l.get("company_name") == company and l.get("active")]
     missing = [l for l in open_rows if l.get("ats_key") not in seen_keys]
     if len(missing) >= MASS_MISS_MIN and len(missing) >= MASS_MISS_SHARE * len(open_rows):
-        suspicious.append(f"{company} ({len(missing)}/{len(open_rows)})")
-        return 0
+        for l in missing:
+            l["guarded"] = l.get("guarded", 0) + 1
+        # A real mass closure persists: after GUARD_RUNS guarded runs in a row, let misses count.
+        if min(l["guarded"] for l in missing) <= GUARD_RUNS:
+            suspicious.append(f"{company} ({len(missing)}/{len(open_rows)})")
+            return 0
     closed = 0
     for l in missing:
         l["misses"] = l.get("misses", 0) + 1
@@ -126,6 +131,7 @@ def main() -> None:
                     old["locations"], old["country"] = new["locations"], new["country"]
                 old["last_seen"] = now
                 old["misses"] = 0
+                old.pop("guarded", None)
                 if not old.get("active") and old.get("source") == "bot" and not old.get("manually_closed"):
                     old["active"] = True
                     old["date_updated"] = now

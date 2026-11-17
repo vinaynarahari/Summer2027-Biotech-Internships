@@ -70,6 +70,10 @@ class Locations(unittest.TestCase):
         raw = {"key": "x", "title": "Intern, GI, Qingdao", "url": "u", "locations": ["Remote"], "posted": None, "description": ""}
         self.assertIsNone(build_listing({"name": "Takeda"}, raw, 1_800_000_000))
 
+    def test_remote_puerto_rico_title_kept(self):
+        raw = {"key": "x", "title": "Quality Intern - Puerto Rico", "url": "u", "locations": ["Remote"], "posted": None, "description": ""}
+        self.assertIsNotNone(build_listing({"name": "Co"}, raw, 1_800_000_000))
+
     def test_attrax_country_beats_state_lookalike(self):
         # "Madrid, MD" is Spain (from the tile's CSS class), not Maryland.
         self.assertFalse(C.is_us(C.clean_locations(["Madrid, MD"]), "Non-US"))
@@ -103,6 +107,24 @@ class WorkdayPagination(unittest.TestCase):
             self.assertIsNone(ats.workday({"name": "X", "tenant": "x", "host": "wd1", "site": "S"}))
 
 
+class AttraxPagination(unittest.TestCase):
+    def test_keyword_pagination_not_cut_by_earlier_keywords(self):
+        """Codex review: page 1 of keyword B holding only keyword-A jobs must not stop B's pagination."""
+        def tile(i):
+            return (f'<div class="attrax-vacancy-tile  attrax-vacancy-tile--united-states" data-jobid="{i}">'
+                    f'<a class="attrax-vacancy-tile__title" href="/en/job/x-jid-{i}">Intern {i}</a></div>')
+        pages = {("a", 1): [1, 2], ("a", 2): [], ("b", 1): [1, 2], ("b", 2): [3], ("b", 3): []}
+
+        def fake_get_text(url, quiet=False, headers=None):
+            kw = url.split("q=")[1].split("&")[0]
+            pg = int(url.split("page=")[1])
+            return "".join(tile(i) for i in pages.get((kw, pg), []))
+
+        with mock.patch.object(ats, "get_text", fake_get_text):
+            out = ats.attrax({"name": "X", "host": "h", "keywords": ["a", "b"]})
+        self.assertEqual(sorted(j["key"] for j in out), ["ax:h:1", "ax:h:2", "ax:h:3"])
+
+
 class ClosureGuard(unittest.TestCase):
     def rows(self, n):
         return [{"source": "bot", "company_name": "Co", "active": True, "ats_key": f"k{i}", "misses": 1} for i in range(n)]
@@ -113,6 +135,13 @@ class ClosureGuard(unittest.TestCase):
         self.assertEqual(closed, 0)
         self.assertTrue(all(r["active"] and r["misses"] == 1 for r in rows))
         self.assertEqual(len(flags), 1)
+
+    def test_persistent_mass_closure_eventually_counts(self):
+        """Codex review: the guard must not keep genuinely-closed jobs open forever."""
+        rows = self.rows(10)
+        for run in range(3):
+            apply_misses(rows, "Co", seen_keys={"k0", "k1"}, now=1, suspicious=[])
+        self.assertEqual(sum(not r["active"] for r in rows), 8)
 
     def test_normal_closures_still_happen(self):
         rows, flags = self.rows(10), []

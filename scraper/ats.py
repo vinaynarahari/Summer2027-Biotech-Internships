@@ -386,6 +386,7 @@ def attrax(c: dict) -> list[dict] | None:
     found: dict[str, dict] = {}
     reached = False
     for kw in c.get("keywords", ["intern", "internship", "co-op", "2027", "undergraduate", "summer"]):
+        kw_seen: set[str] = set()
         for pg in range(1, 25):
             h = get_text(f"https://{host}/en/jobs?q={quote(kw)}&page={pg}")
             if h is None:
@@ -394,11 +395,12 @@ def attrax(c: dict) -> list[dict] | None:
                 break
             reached = True
             tiles = ATTRAX_TILE.findall(h)
-            new = 0
+            # pagination is per keyword: stop when this keyword's page shows nothing it hasn't shown
+            new = len({jid for _, jid, _ in tiles} - kw_seen)
+            kw_seen.update(jid for _, jid, _ in tiles)
             for classes, jid, body in tiles:
                 if jid in found:
                     continue
-                new += 1
                 a = re.search(r'<a[^>]+class="attrax-vacancy-tile__title[^"]*"[^>]+href="([^"]+)"[^>]*>(.*?)</a>', body, re.S)
                 if not a:
                     continue

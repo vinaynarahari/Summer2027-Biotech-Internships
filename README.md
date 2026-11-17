@@ -11,7 +11,7 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 ---
 
 <!-- TABLE_START -->
-> **533 open roles** at **41 companies**: 393 for Summer 2027 (below) + 140 co-op / off-season ([Off-Season README](./README-Off-Season.md)) · last updated **Nov 17, 2026 00:48 UTC**
+> **533 open roles** at **41 companies**: 393 for Summer 2027 (below) + 140 co-op / off-season ([Off-Season README](./README-Off-Season.md)) · last updated **Nov 17, 2026 00:51 UTC**
 
 ### 🔎 Filter
 

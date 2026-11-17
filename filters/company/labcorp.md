@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**33** open roles · updated Nov 17, 2026 07:58 UTC
+**32** open roles · updated Nov 17, 2026 17:40 UTC
 
 <table>
 <thead>
@@ -17,7 +17,6 @@
 <tr><td>↳</td><td>Intern - Lab</td><td>Dublin, OH</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Dublin-OH/Intern---Lab_2636146-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>Intern - Lab</td><td>Dublin, OH</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Dublin-OH/Intern---Lab_2637444"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>Intern - Lab</td><td>Dublin, OH</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Dublin-OH/Intern---Lab_2637448"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
-<tr><td>↳</td><td>Intern – Real Estate Services 🛂</td><td>USA - Remote - North Carolina<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/USA---Remote---North-Carolina/Intern---Real-Estate-Services_2635895"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>
 <tr><td>↳</td><td>Intern - Lab</td><td>Houston, TX</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern---Lab_2631516"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>6d</td></tr>
 <tr><td>↳</td><td>Co-op - Agentic AI Developer 🛂</td><td>Durham, NC</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>
 <tr><td>↳</td><td>Co-op - Full-Stack Life Sciences Engineer 🛂</td><td>Durham, NC</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>

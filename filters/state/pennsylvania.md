@@ -2,13 +2,14 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**37** open roles · updated Nov 17, 2026 07:58 UTC
+**38** open roles · updated Nov 17, 2026 17:40 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Emerging Technologies CoOp</td><td>Spring House, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Project Management Function Swiftwater PA</td><td>Swiftwater, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Project-Management-Function-Swiftwater-PA_R2864990"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Thermo Fisher Scientific</strong> 🔥</td><td>2027 FLDP Finance Intern</td><td><details><summary><strong>5 locations</strong></summary>Waltham, MA<br>Tewksbury, MA<br>Carlsbad, CA<br>Greenville, NC<br>Pittsburgh, PA</details></td><td>Summer 2027</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/FLDP-Finance-Intern_R-01361452"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>2027 IT &amp; Digital Internship</td><td><details><summary><strong>4 locations</strong></summary>Pittsburgh, PA<br>Frederick, MD<br>Carlsbad, CA<br>Morrisville, NC</details></td><td>Summer 2027</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>

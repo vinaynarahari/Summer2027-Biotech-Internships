@@ -398,3 +398,17 @@ def states_of(locations: list[str]) -> list[str]:
         if s not in out:
             out.append(s)
     return out or ["Other U.S."]
+
+
+FOREIGN_CITY_RE = re.compile(
+    r"\b(qingdao|shanghai|beijing|shenzhen|suzhou|guangzhou|tianjin|tokyo|osaka|kobe|seoul|mumbai|bangalore|"
+    r"bengaluru|hyderabad|pune|london|cambridge uk|oxford|paris|lyon|munich|m[uü]nchen|berlin|frankfurt|basel|"
+    r"zurich|z[uü]rich|geneva|dublin|cork|singapore|sydney|melbourne|toronto|montreal|vancouver|madrid|"
+    r"barcelona|milan|rome|amsterdam|leiden|copenhagen|stockholm|warsaw|prague|brno|budapest|emea|apac|latam)\b",
+    re.I,
+)
+
+
+def title_says_foreign(title: str) -> bool:
+    """'Intern, GI, Qingdao' or '... (EMEA)' — used when the location itself is only 'Remote'."""
+    return bool(NON_US_HINT.search(title) or FOREIGN_CITY_RE.search(title))

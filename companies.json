@@ -2,11 +2,22 @@
   "_comment": "Companies the bot polls. Add one via the 'Add a company' issue form or `python -m scraper.discover \"Name\" --merge`. ats: greenhouse|lever|ashby|workday.",
   "companies": [
     {
+      "name": "4D Molecular Therapeutics",
+      "ats": "greenhouse",
+      "slug": "4dmoleculartherapeutics"
+    },
+    {
       "name": "Abbott",
       "ats": "workday",
       "tenant": "abbott",
       "host": "wd5",
       "site": "abbottcareers",
+      "top": true
+    },
+    {
+      "name": "AbbVie",
+      "ats": "attrax",
+      "host": "careers.abbvie.com",
       "top": true
     },
     {
@@ -20,9 +31,24 @@
       "slug": "absci"
     },
     {
+      "name": "Acadia Pharmaceuticals",
+      "ats": "greenhouse",
+      "slug": "acadiapharmaceuticals"
+    },
+    {
+      "name": "Achilles Therapeutics",
+      "ats": "workable",
+      "slug": "achilles-therapeutics"
+    },
+    {
       "name": "Adaptive Biotechnologies",
       "ats": "greenhouse",
       "slug": "adaptivebiotechnologies"
+    },
+    {
+      "name": "Aditum Bio",
+      "ats": "greenhouse",
+      "slug": "aditumbio"
     },
     {
       "name": "Agilent",
@@ -32,9 +58,24 @@
       "site": "Agilent_Careers"
     },
     {
+      "name": "Akero Therapeutics",
+      "ats": "greenhouse",
+      "slug": "akerotherapeutics"
+    },
+    {
       "name": "Alector",
       "ats": "lever",
       "slug": "alector"
+    },
+    {
+      "name": "Allakos",
+      "ats": "workable",
+      "slug": "allakos"
+    },
+    {
+      "name": "Alnylam Pharmaceuticals",
+      "ats": "greenhouse",
+      "slug": "alnylampharmaceuticals"
     },
     {
       "name": "Altos Labs",
@@ -56,9 +97,19 @@
       "top": true
     },
     {
+      "name": "Amylyx",
+      "ats": "greenhouse",
+      "slug": "amylyx"
+    },
+    {
       "name": "Ansa Biotechnologies",
       "ats": "greenhouse",
       "slug": "ansabiotechnologies"
+    },
+    {
+      "name": "Apogee Therapeutics",
+      "ats": "greenhouse",
+      "slug": "apogeetherapeutics"
     },
     {
       "name": "Arc Institute",
@@ -131,6 +182,16 @@
       "slug": "benchling"
     },
     {
+      "name": "Bicara Therapeutics",
+      "ats": "ashby",
+      "slug": "bicara-therapeutics"
+    },
+    {
+      "name": "Bicycle Therapeutics",
+      "ats": "smartrecruiters",
+      "slug": "bicycletherapeutics"
+    },
+    {
       "name": "BillionToOne",
       "ats": "greenhouse",
       "slug": "billiontoone"
@@ -151,9 +212,29 @@
       "top": true
     },
     {
+      "name": "Bionano Genomics",
+      "ats": "smartrecruiters",
+      "slug": "bionanogenomics"
+    },
+    {
+      "name": "Blueprint Medicines",
+      "ats": "greenhouse",
+      "slug": "blueprintmedicines"
+    },
+    {
+      "name": "Boundless Bio",
+      "ats": "greenhouse",
+      "slug": "boundlessbio"
+    },
+    {
       "name": "BridgeBio",
       "ats": "greenhouse",
       "slug": "bridgebio"
+    },
+    {
+      "name": "Bright Peak Therapeutics",
+      "ats": "greenhouse",
+      "slug": "brightpeaktherapeutics"
     },
     {
       "name": "Bristol Myers Squibb",
@@ -186,11 +267,36 @@
       "slug": "chaidiscovery"
     },
     {
+      "name": "Chroma Medicine",
+      "ats": "greenhouse",
+      "slug": "chromamedicine"
+    },
+    {
+      "name": "Cogent Biosciences",
+      "ats": "greenhouse",
+      "slug": "cogentbiosciences"
+    },
+    {
+      "name": "Color Health",
+      "ats": "ashby",
+      "slug": "color-health"
+    },
+    {
+      "name": "Compass Therapeutics",
+      "ats": "greenhouse",
+      "slug": "compasstherapeutics"
+    },
+    {
       "name": "Corteva",
       "ats": "workday",
       "tenant": "corteva",
       "host": "wd5",
       "site": "Corteva"
+    },
+    {
+      "name": "Cradle Bio",
+      "ats": "ashby",
+      "slug": "cradlebio"
     },
     {
       "name": "CRISPR Therapeutics",
@@ -225,6 +331,16 @@
       "slug": "deepgenomics"
     },
     {
+      "name": "Disc Medicine",
+      "ats": "greenhouse",
+      "slug": "discmedicine"
+    },
+    {
+      "name": "Dispatch Bio",
+      "ats": "greenhouse",
+      "slug": "dispatchbio"
+    },
+    {
       "name": "DNA Script",
       "ats": "greenhouse",
       "slug": "dnascript"
@@ -233,6 +349,11 @@
       "name": "Dotmatics",
       "ats": "greenhouse",
       "slug": "dotmatics"
+    },
+    {
+      "name": "Dyne Therapeutics",
+      "ats": "greenhouse",
+      "slug": "dynetherapeutics"
     },
     {
       "name": "Dyno Therapeutics",
@@ -264,6 +385,11 @@
       "slug": "elementbiosciences"
     },
     {
+      "name": "ElevateBio",
+      "ats": "greenhouse",
+      "slug": "elevatebio"
+    },
+    {
       "name": "Eli Lilly",
       "ats": "workday",
       "tenant": "lilly",
@@ -272,9 +398,19 @@
       "top": true
     },
     {
+      "name": "Entrada Therapeutics",
+      "ats": "greenhouse",
+      "slug": "entradatherapeutics"
+    },
+    {
       "name": "Enveda",
       "ats": "lever",
       "slug": "enveda"
+    },
+    {
+      "name": "Erasca",
+      "ats": "greenhouse",
+      "slug": "erasca"
     },
     {
       "name": "Exact Sciences",
@@ -302,6 +438,11 @@
       "name": "Freenome",
       "ats": "greenhouse",
       "slug": "freenome"
+    },
+    {
+      "name": "Fulcrum Therapeutics",
+      "ats": "greenhouse",
+      "slug": "fulcrumtherapeutics"
     },
     {
       "name": "GeneDx",
@@ -382,6 +523,11 @@
       "site": "Careers"
     },
     {
+      "name": "Iovance Biotherapeutics",
+      "ats": "greenhouse",
+      "slug": "iovancebiotherapeutics"
+    },
+    {
       "name": "Ipsen",
       "ats": "workday",
       "tenant": "ipsen",
@@ -410,11 +556,41 @@
       "top": true
     },
     {
+      "name": "Joyn Bio",
+      "ats": "lever",
+      "slug": "joynbio"
+    },
+    {
+      "name": "Korro Bio",
+      "ats": "lever",
+      "slug": "korrobio"
+    },
+    {
+      "name": "Kura Oncology",
+      "ats": "greenhouse",
+      "slug": "kuraoncology"
+    },
+    {
+      "name": "Kymera Therapeutics",
+      "ats": "greenhouse",
+      "slug": "kymeratherapeutics"
+    },
+    {
       "name": "Labcorp",
       "ats": "workday",
       "tenant": "labcorp",
       "host": "wd1",
       "site": "External"
+    },
+    {
+      "name": "Legend Biotech",
+      "ats": "smartrecruiters",
+      "slug": "legendbiotech"
+    },
+    {
+      "name": "Life Edit Therapeutics",
+      "ats": "greenhouse",
+      "slug": "lifeedittherapeutics"
     },
     {
       "name": "Lila Sciences",
@@ -430,9 +606,19 @@
       "site": "Lonza_Careers"
     },
     {
+      "name": "Lyell Immunopharma",
+      "ats": "greenhouse",
+      "slug": "lyellimmunopharma"
+    },
+    {
       "name": "Manifold Bio",
       "ats": "greenhouse",
       "slug": "manifoldbio"
+    },
+    {
+      "name": "MBX Biosciences",
+      "ats": "greenhouse",
+      "slug": "mbxbiosciences"
     },
     {
       "name": "Medtronic",
@@ -449,6 +635,11 @@
       "host": "wd5",
       "site": "SearchJobs",
       "top": true
+    },
+    {
+      "name": "Mirum Pharmaceuticals",
+      "ats": "greenhouse",
+      "slug": "mirumpharmaceuticals"
     },
     {
       "name": "Moderna",
@@ -511,9 +702,29 @@
       "slug": "nurix"
     },
     {
+      "name": "Obsidian Therapeutics",
+      "ats": "greenhouse",
+      "slug": "obsidiantherapeutics"
+    },
+    {
+      "name": "Octant Bio",
+      "ats": "greenhouse",
+      "slug": "octantbio"
+    },
+    {
+      "name": "ORIC Pharmaceuticals",
+      "ats": "smartrecruiters",
+      "slug": "oricpharmaceuticals"
+    },
+    {
       "name": "Owkin",
       "ats": "ashby",
       "slug": "owkin"
+    },
+    {
+      "name": "Pairwise",
+      "ats": "greenhouse",
+      "slug": "pairwise"
     },
     {
       "name": "Parse Biosciences",
@@ -534,6 +745,11 @@
       "top": true
     },
     {
+      "name": "Pioneer Labs",
+      "ats": "lever",
+      "slug": "pioneerlabs"
+    },
+    {
       "name": "Pivot Bio",
       "ats": "greenhouse",
       "slug": "pivotbio"
@@ -547,6 +763,11 @@
       "name": "Profluent",
       "ats": "greenhouse",
       "slug": "profluent"
+    },
+    {
+      "name": "ProKidney",
+      "ats": "greenhouse",
+      "slug": "prokidney"
     },
     {
       "name": "Recursion",
@@ -563,9 +784,19 @@
       "top": true
     },
     {
+      "name": "REGENXBIO",
+      "ats": "lever",
+      "slug": "regenxbio"
+    },
+    {
       "name": "Relay Therapeutics",
       "ats": "greenhouse",
       "slug": "relaytherapeutics"
+    },
+    {
+      "name": "Replimune",
+      "ats": "ashby",
+      "slug": "replimune"
     },
     {
       "name": "Retro Biosciences",
@@ -593,6 +824,11 @@
       "top": true
     },
     {
+      "name": "Rome Therapeutics",
+      "ats": "greenhouse",
+      "slug": "rometherapeutics"
+    },
+    {
       "name": "Sanofi",
       "ats": "workday",
       "tenant": "sanofi",
@@ -606,6 +842,11 @@
       "tenant": "sarepta",
       "host": "wd5",
       "site": "Sarepta_External"
+    },
+    {
+      "name": "Scholar Rock",
+      "ats": "lever",
+      "slug": "scholarrock"
     },
     {
       "name": "Science 37",
@@ -638,6 +879,11 @@
       "slug": "singulargenomics"
     },
     {
+      "name": "Stoke Therapeutics",
+      "ats": "greenhouse",
+      "slug": "stoketherapeutics"
+    },
+    {
       "name": "Strand Therapeutics",
       "ats": "greenhouse",
       "slug": "strandtherapeutics"
@@ -650,9 +896,30 @@
       "site": "StrykerCareers"
     },
     {
+      "name": "Summit Therapeutics",
+      "ats": "greenhouse",
+      "slug": "summittherapeutics"
+    },
+    {
       "name": "Synthego",
       "ats": "lever",
       "slug": "synthego"
+    },
+    {
+      "name": "Takeda",
+      "ats": "radancy",
+      "host": "jobs.takeda.com",
+      "top": true
+    },
+    {
+      "name": "Tango Therapeutics",
+      "ats": "greenhouse",
+      "slug": "tangotherapeutics"
+    },
+    {
+      "name": "Tenaya Therapeutics",
+      "ats": "greenhouse",
+      "slug": "tenayatherapeutics"
     },
     {
       "name": "Tessera Therapeutics",
@@ -668,9 +935,19 @@
       "top": true
     },
     {
+      "name": "Treeline Biosciences",
+      "ats": "greenhouse",
+      "slug": "treelinebiosciences"
+    },
+    {
       "name": "Twist Bioscience",
       "ats": "greenhouse",
       "slug": "twistbioscience"
+    },
+    {
+      "name": "Tyra Biosciences",
+      "ats": "ashby",
+      "slug": "tyrabiosciences"
     },
     {
       "name": "Ultima Genomics",
@@ -681,6 +958,16 @@
       "name": "Valo Health",
       "ats": "greenhouse",
       "slug": "valohealth"
+    },
+    {
+      "name": "Variant Bio",
+      "ats": "greenhouse",
+      "slug": "variantbio"
+    },
+    {
+      "name": "Vaxcyte",
+      "ats": "greenhouse",
+      "slug": "vaxcyte"
     },
     {
       "name": "Veeva",

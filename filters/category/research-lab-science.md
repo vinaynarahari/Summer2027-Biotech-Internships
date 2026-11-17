@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**79** open roles · updated Nov 16, 2026 23:30 UTC
+**85** open roles · updated Nov 17, 2026 00:48 UTC
 
 _Includes co-op / off-season roles (see the Term column)._
 
@@ -11,6 +11,12 @@ _Includes co-op / off-season roles (see the Term column)._
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Biologics Analytical Development Co-Op (July-Dec)</td><td>Waltham, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-biologics-analytical-development-co-op-july-dec-in-waltham-ma-jid-34905"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Formulation Sciences Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-formulation-sciences-intern-phd-in-north-chicago-il-jid-34812"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 PDS&amp;T Bioassay Scientist Co-Op (June - Dec)</td><td>Irvine, CA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-pds-and-t-bioassay-scientist-co-op-june-dec-in-irvine-ca-jid-34906"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 PDS&amp;T Cell Line Development Co-Op (June - Dec)</td><td>Worcester, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-pds-and-t-cell-line-development-co-op-june-dec-in-worcester-ma-jid-34907"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Product Development, Science, and Technology Intern (Undergraduate)</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-product-development-science-and-technology-intern-undergraduate-in-north-chicago-il-jid-34909"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Synthetic Chemistry Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-synthetic-chemistry-intern-phd-in-north-chicago-il-jid-34808"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Cell Therapy, Plan to Deliver Process Intern</td><td>US – Tarzana – CA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Cell-Therapy--Plan-to-Deliver-Process-Intern_R-263847"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Coop Gene Therapy Characterization Waltham MA</td><td>Waltham, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Summer-Coop-Gene-Therapy-Characterization-Waltham-MA_R2865359"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Vertex Pharmaceuticals</strong> 🔥</td><td>Summer Intern 2027, Process Chemistry - San Diego 🛂</td><td>San Diego, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/San-Diego-CA/Summer-Intern-2027--Process-Chemistry---San-Diego_REQ-31307-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>

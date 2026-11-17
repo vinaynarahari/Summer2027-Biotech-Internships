@@ -16,7 +16,8 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
 from .classify import location_clearly_non_us, looks_like_internship
-from .http import get_json, post_json
+from .http import get_json, get_json_browser, get_text, post_json
+from urllib.parse import quote
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -254,7 +255,175 @@ def workday(c: dict) -> list[dict] | None:
         return None
 
 
-FETCHERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday}
+# --------------------------------------------------------------------------- #
+# SmartRecruiters (public postings API)
+# --------------------------------------------------------------------------- #
+def smartrecruiters(c: dict) -> list[dict] | None:
+    out: dict[str, dict] = {}
+    reached = False
+    for q in ("intern", "co-op", "internship"):
+        for offset in range(0, 1000, 100):
+            d = get_json(f"https://api.smartrecruiters.com/v1/companies/{c['slug']}/postings?limit=100&offset={offset}&q={quote(q)}")
+            if not isinstance(d, dict) or "content" not in d:
+                if reached:
+                    return None
+                break
+            reached = True
+            for j in d["content"]:
+                loc = j.get("location") or {}
+                parts = [loc.get("city"), loc.get("region"), loc.get("country", "").upper() if loc.get("country") else None]
+                locs = [", ".join(x for x in parts if x)]
+                if loc.get("remote"):
+                    locs.append("Remote")
+                country = "United States" if (loc.get("country") or "").lower() == "us" else (loc.get("country") or "").upper()
+                out.setdefault(j["id"], {
+                    "key": f"sr:{c['slug']}:{j['id']}",
+                    "title": j["name"],
+                    "url": f"https://jobs.smartrecruiters.com/{c['slug']}/{j['id']}",
+                    "locations": [l for l in locs if l],
+                    "posted": iso_to_unix(j.get("releasedDate")),
+                    "description": "",
+                    "is_intern_hint": "intern" in ((j.get("typeOfEmployment") or {}).get("label") or "").lower(),
+                    "country": country,
+                })
+            if offset + 100 >= d.get("totalFound", 0):
+                break
+    return list(out.values()) if reached else None
+
+
+# --------------------------------------------------------------------------- #
+# Workable (apply.workable.com public API)
+# --------------------------------------------------------------------------- #
+def workable(c: dict) -> list[dict] | None:
+    out, token, reached = [], None, False
+    for _ in range(30):
+        body = {"query": "", "location": [], "department": [], "worktype": [], "remote": []}
+        if token:
+            body["token"] = token
+        d = post_json(f"https://apply.workable.com/api/v3/accounts/{c['slug']}/jobs", body)
+        if not isinstance(d, dict) or "results" not in d:
+            if reached:
+                return None
+            break
+        reached = True
+        for j in d["results"]:
+            locs = []
+            for l in j.get("locations") or [j.get("location") or {}]:
+                locs.append(", ".join(x for x in (l.get("city"), l.get("region"), l.get("country")) if x))
+            if j.get("remote"):
+                locs.append("Remote")
+            cc = ((j.get("location") or {}).get("countryCode") or "").upper()
+            out.append({
+                "key": f"wk:{c['slug']}:{j['shortcode']}",
+                "title": j["title"],
+                "url": f"https://apply.workable.com/{c['slug']}/j/{j['shortcode']}/",
+                "locations": [l for l in locs if l],
+                "posted": iso_to_unix(j.get("published")),
+                "description": "",
+                "is_intern_hint": (j.get("type") or "").lower() == "internship",
+                "country": "United States" if cc == "US" else (j.get("location") or {}).get("country", ""),
+            })
+        token = d.get("nextPage")
+        if not token:
+            break
+    return out if reached else None
+
+
+# --------------------------------------------------------------------------- #
+# Radancy / TalentBrew career sites (e.g. jobs.takeda.com)
+# --------------------------------------------------------------------------- #
+RADANCY_ITEM = re.compile(
+    r'<a[^>]+href="(/job/[^"]+)"[^>]*data-job-id="(\d+)"[^>]*>(.*?)</a>', re.S
+)
+
+
+def radancy(c: dict) -> list[dict] | None:
+    host = c["host"]
+    found: dict[str, dict] = {}
+    reached = False
+    for kw in c.get("keywords", ["intern", "internship", "co-op"]):
+        for pg in range(1, 30):
+            url = (
+                f"https://{host}/search-jobs/results?ActiveFacetID=0&CurrentPage={pg}&RecordsPerPage=100"
+                f"&Distance=50&RadiusUnitType=0&Keywords={quote(kw)}&Location=&ShowRadius=False&IsPagination=False"
+                "&FacetType=0&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters"
+                "&SortCriteria=0&SortDirection=0&SearchType=5"
+            )
+            d = get_json_browser(url, headers={"X-Requested-With": "XMLHttpRequest"})
+            if not isinstance(d, dict) or "results" not in d:
+                if reached:
+                    return None
+                break
+            reached = True
+            html_ = d["results"] or ""
+            items = RADANCY_ITEM.findall(html_)
+            for href, jid, inner in items:
+                title = strip_html((re.search(r'<h2[^>]*>(.*?)</h2>', inner, re.S) or [None, ""])[1])
+                loc = strip_html((re.search(r'class="(?:job-)?location"[^>]*>(.*?)</span>', inner, re.S) or [None, ""])[1])
+                found.setdefault(jid, {
+                    "key": f"rd:{host}:{jid}",
+                    "title": title,
+                    "url": f"https://{host}{href}",
+                    "locations": [loc] if loc else [],
+                    "posted": None,
+                    "description": "",
+                    "is_intern_hint": False,
+                })
+            total = int((re.search(r'data-total-results="(\d+)"', html_) or [0, 0])[1])
+            if not items or pg * 100 >= total:
+                break
+    return list(found.values()) if reached else None
+
+
+# --------------------------------------------------------------------------- #
+# Attrax career sites (e.g. careers.abbvie.com): server-rendered tiles
+# --------------------------------------------------------------------------- #
+ATTRAX_TILE = re.compile(r'<div class="attrax-vacancy-tile ([^"]*)" data-jobid="(\d+)">(.*?)(?=<div class="attrax-vacancy-tile |\Z)', re.S)
+
+
+def attrax(c: dict) -> list[dict] | None:
+    host = c["host"]
+    found: dict[str, dict] = {}
+    reached = False
+    for kw in c.get("keywords", ["intern", "internship", "co-op", "2027", "undergraduate", "summer"]):
+        for pg in range(1, 25):
+            h = get_text(f"https://{host}/en/jobs?q={quote(kw)}&page={pg}")
+            if h is None:
+                if reached:
+                    return None
+                break
+            reached = True
+            tiles = ATTRAX_TILE.findall(h)
+            new = 0
+            for classes, jid, body in tiles:
+                if jid in found:
+                    continue
+                new += 1
+                a = re.search(r'<a[^>]+class="attrax-vacancy-tile__title[^"]*"[^>]+href="([^"]+)"[^>]*>(.*?)</a>', body, re.S)
+                if not a:
+                    continue
+                loc = re.search(r'attrax-vacancy-tile__location-freetext.*?__item-value">\s*(.*?)\s*</p>', body, re.S)
+                us = "attrax-vacancy-tile--united-states" in f"attrax-vacancy-tile--x {classes}" or "--united-states" in classes
+                found[jid] = {
+                    "key": f"ax:{host}:{jid}",
+                    "title": strip_html(a.group(2)),
+                    "url": f"https://{host}{a.group(1)}",
+                    "locations": [strip_html(loc.group(1))] if loc else [],
+                    "posted": None,
+                    "description": "",
+                    "is_intern_hint": False,
+                    # the tile's CSS classes carry the country ("Madrid, MD" is Spain, not Maryland)
+                    "country": "United States" if us else "Non-US",
+                }
+            if not new:
+                break
+    return list(found.values()) if reached else None
+
+
+FETCHERS = {
+    "greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday,
+    "smartrecruiters": smartrecruiters, "workable": workable, "radancy": radancy, "attrax": attrax,
+}
 
 
 def fetch(company: dict) -> list[dict] | None:

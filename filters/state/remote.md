@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**33** open roles · updated Nov 16, 2026 23:30 UTC
+**34** open roles · updated Nov 17, 2026 00:48 UTC
 
 <table>
 <thead>
@@ -35,6 +35,7 @@
 <tr><td>↳</td><td>Grad Intern - Biostatistics (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>21d</td></tr>
 <tr><td><strong>Stryker</strong></td><td>Summer 2027 Internship - Mechanical Engineer</td><td>Massachusetts, Virtual Address</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>25d</td></tr>
 <tr><td><strong>Amgen</strong> 🔥</td><td>Undergrad Co-op – Finance/Accounting</td><td>United States - Remote</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Co-op---Finance-Accounting_R-258006"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>28d</td></tr>
+<tr><td><strong>REGENXBIO</strong></td><td>People Intern</td><td>Rockville, MD<br>Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://jobs.lever.co/regenxbio/4669880d-7813-47ec-ad05-159129ae7d3a"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Viatris</strong></td><td>Student Worker</td><td>United States Remote Office</td><td>Summer 2027</td><td><div align="center"><a href="https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Stryker</strong></td><td>Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual</td><td>Florida, Virtual Address</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Summer-2027-Internship---RA-QA---Post-Market-Regulatory-Affairs---Virtual_R572836-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td><strong>Thermo Fisher Scientific</strong> 🔥</td><td>Field Sales &amp; Services Intern</td><td>Remote, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Field-Sales---Services-Intern_R-01367380"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>

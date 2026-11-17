@@ -65,12 +65,73 @@ def try_workday(tenant: str):
                 return {"ats": "workday", "tenant": tenant, "host": host, "site": site}
 
 
-def discover(name: str, workday: bool = False) -> dict | None:
-    for slug in slug_variants(name):
-        for fn in (try_greenhouse, try_lever, try_ashby):
+def try_smartrecruiters(slug: str):
+    d = get_json(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=1", quiet=True)
+    if isinstance(d, dict) and d.get("totalFound", 0) > 0:
+        return {"ats": "smartrecruiters", "slug": slug}
+
+
+def try_workable(slug: str):
+    d = post_json(f"https://apply.workable.com/api/v3/accounts/{slug}/jobs",
+                  {"query": "", "location": [], "department": [], "worktype": [], "remote": []}, quiet=True)
+    if isinstance(d, dict) and "results" in d:
+        return {"ats": "workable", "slug": slug}
+
+
+BIO_RE = re.compile(
+    r"scien|biolog|chemi|assay|clinical|regulatory|\bgmp\b|\bqc\b|quality control|bioinformatic|"
+    r"computational bio|genom|protein|antibod|cell|gene|crispr|molecular|pharma|formulation|cmc|"
+    r"bioprocess|upstream|downstream|research associate|translational|toxicolog|immunolog|oncolog|"
+    r"medical|lab|sequencing|diagnost|vector|mrna|biolog|drug|patient|trial",
+    re.I,
+)
+
+
+def sample_titles(hit: dict) -> list[str]:
+    from . import ats
+    jobs = ats.fetch({"name": "?", **hit}) or []
+    return [j["title"] for j in jobs[:60]]
+
+
+def bio_score(titles: list[str]) -> float:
+    return sum(bool(BIO_RE.search(t)) for t in titles) / len(titles) if titles else 0.0
+
+
+def name_matches(name: str, board_name: str | None) -> bool:
+    if not board_name:
+        return True
+    a = re.sub(r"[^a-z0-9]", "", name.lower())
+    b = re.sub(r"[^a-z0-9]", "", board_name.lower())
+    return a[:6] in b or b[:6] in a
+
+
+def slug_variants_all(name: str) -> list[str]:
+    base = slug_variants(name)
+    words = [w for w in re.sub(r"[^A-Za-z0-9 ]", "", name).split() if w.lower() not in {"inc", "the", "co"}]
+    camel = "".join(w[:1].upper() + w[1:] for w in words)
+    return list(dict.fromkeys(base + [camel]))
+
+
+def discover(name: str, workday: bool = False, strict: bool = False) -> dict | None:
+    """strict=True: only accept full-name slugs, matching board names and bio-looking job titles."""
+    variants = slug_variants_all(name)
+    if strict:
+        variants = [v for v in variants if len(v) >= 5 and (v.replace("-", "").lower() == re.sub(r"[^a-z0-9]", "", name.lower()) or "-" in v or v[0].isupper())]
+    for slug in variants:
+        for fn in (try_greenhouse, try_lever, try_ashby, try_workable, try_smartrecruiters):
             hit = fn(slug)
-            if hit:
-                return {"name": name, **hit}
+            if not hit:
+                continue
+            if strict:
+                if not name_matches(name, hit.get("board_name")):
+                    continue
+                titles = sample_titles(hit)
+                hit["_bio"] = round(bio_score(titles), 2)
+                hit["_n"] = len(titles)
+                hit["_sample"] = titles[:4]
+                if titles and hit["_bio"] < 0.15:
+                    continue
+            return {"name": name, **hit}
     if workday:
         for slug in slug_variants(name)[:1]:
             hit = try_workday(slug)
@@ -85,13 +146,14 @@ def main() -> None:
     ap.add_argument("--file")
     ap.add_argument("--merge", action="store_true")
     ap.add_argument("--workday", action="store_true", help="also brute-force Workday tenants (slow)")
+    ap.add_argument("--strict", action="store_true", help="verify board name + biotech-looking job titles")
     a = ap.parse_args()
     names = list(a.names)
     if a.file:
         names += [l.strip() for l in Path(a.file).read_text().splitlines() if l.strip() and not l.startswith("#")]
 
     with ThreadPoolExecutor(16) as ex:
-        hits = list(ex.map(lambda n: discover(n, a.workday), names))
+        hits = list(ex.map(lambda n: discover(n, a.workday, a.strict), names))
 
     found = [h for h in hits if h]
     missing = [n for n, h in zip(names, hits) if not h]
@@ -104,7 +166,8 @@ def main() -> None:
         have = {c["name"].lower() for c in data["companies"]}
         for h in found:
             if h["name"].lower() not in have:
-                h.pop("board_name", None)
+                for k in ("board_name", "_bio", "_n", "_sample"):
+                    h.pop(k, None)
                 data["companies"].append(h)
         data["companies"].sort(key=lambda c: c["name"].lower())
         COMPANIES.write_text(json.dumps(data, indent=2) + "\n")

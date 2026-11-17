@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import uuid
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -19,12 +20,40 @@ from .store import COMPANIES, load_listings, save_listings
 MISSES_BEFORE_CLOSE = 2  # consecutive successful runs where the job is gone
 
 
+MASS_MISS_MIN = 5       # guard only kicks in when this many roles vanish at once
+MASS_MISS_SHARE = 0.6   # ...and they are at least this share of the company's open roles
+
+
+def apply_misses(listings: list[dict], company: str, seen_keys: set, now: int, suspicious: list) -> int:
+    """Count a 'miss' for each open bot listing not seen this run; close after N misses.
+
+    Guard: if most of a company's open roles vanish in one run, that is far more
+    likely a scraper/ATS glitch (pagination, rate limit, site change) than a real
+    mass closure, so record nothing and flag it instead.
+    """
+    open_rows = [l for l in listings if l.get("source") == "bot" and l.get("company_name") == company and l.get("active")]
+    missing = [l for l in open_rows if l.get("ats_key") not in seen_keys]
+    if len(missing) >= MASS_MISS_MIN and len(missing) >= MASS_MISS_SHARE * len(open_rows):
+        suspicious.append(f"{company} ({len(missing)}/{len(open_rows)})")
+        return 0
+    closed = 0
+    for l in missing:
+        l["misses"] = l.get("misses", 0) + 1
+        if l["misses"] >= MISSES_BEFORE_CLOSE:
+            l["active"] = False
+            l["date_updated"] = now
+            closed += 1
+    return closed
+
+
 def build_listing(company: dict, raw: dict, now: int) -> dict | None:
     title = raw["title"].strip()
     if not C.looks_like_internship(title, raw.get("is_intern_hint", False)):
         return None
     locations = C.clean_locations(raw.get("locations", []))
     if not C.is_us(locations, raw.get("country") or ""):
+        return None
+    if all(re.fullmatch(r"remote|unknown", l, re.I) for l in locations) and C.title_says_foreign(title):
         return None
     terms = C.detect_terms(title, raw.get("description", ""))
     if C.is_stale(terms):
@@ -77,7 +106,7 @@ def main() -> None:
             c = futs[f]
             results[c["name"]] = f.result()
 
-    added, reopened, closed, failed = [], 0, 0, []
+    added, reopened, closed, failed, suspicious = [], 0, 0, [], []
     for c in companies:
         raws = results.get(c["name"])
         if raws is None:
@@ -109,23 +138,13 @@ def main() -> None:
             added.append(new)
 
         # close bot listings for this company that disappeared from the board
-        prefix_company = c["name"]
-        for l in listings:
-            if (
-                l.get("source") == "bot"
-                and l.get("company_name") == prefix_company
-                and l.get("active")
-                and l.get("ats_key") not in seen_keys
-            ):
-                l["misses"] = l.get("misses", 0) + 1
-                if l["misses"] >= MISSES_BEFORE_CLOSE:
-                    l["active"] = False
-                    l["date_updated"] = now
-                    closed += 1
+        closed += apply_misses(listings, c["name"], seen_keys, now, suspicious)
 
     print(f"companies: {len(companies)}  failed: {len(failed)}  new: {len(added)}  closed: {closed}  reopened: {reopened}")
     if failed:
         print("  unreachable:", ", ".join(sorted(failed)))
+    if suspicious:
+        print("  ⚠ mass-disappearance guard (not counting misses):", ", ".join(suspicious))
     for l in sorted(added, key=lambda x: x["company_name"]):
         print(f"  + {l['company_name']}: {l['title']}  [{l['category']} | {', '.join(l['terms'])} | {l['locations'][0]}]")
 

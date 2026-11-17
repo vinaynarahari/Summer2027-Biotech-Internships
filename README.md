@@ -11,29 +11,29 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 ---
 
 <!-- TABLE_START -->
-> **515 open roles** at **38 companies**: 386 for Summer 2027 (below) + 129 co-op / off-season ([Off-Season README](./README-Off-Season.md)) · last updated **Nov 16, 2026 23:30 UTC**
+> **533 open roles** at **41 companies**: 393 for Summer 2027 (below) + 140 co-op / off-season ([Off-Season README](./README-Off-Season.md)) · last updated **Nov 17, 2026 00:48 UTC**
 
 ### 🔎 Filter
 
-**Quick:** [🆕 New this week](filters/new-this-week.md) (98) · [🔥 Top companies](filters/top-companies.md) (319) · [🌐 No visa restriction stated](filters/no-visa-restrictions.md) (443) · [🌍 Co-op / off-season](README-Off-Season.md) (129)
+**Quick:** [🆕 New this week](filters/new-this-week.md) (115) · [🔥 Top companies](filters/top-companies.md) (336) · [🌐 No visa restriction stated](filters/no-visa-restrictions.md) (461) · [🌍 Co-op / off-season](README-Off-Season.md) (140)
 
-**State:** [Massachusetts](filters/state/massachusetts.md) (128) · [California](filters/state/california.md) (84) · [New Jersey](filters/state/new-jersey.md) (45) · [Pennsylvania](filters/state/pennsylvania.md) (37) · [Remote](filters/state/remote.md) (33) · [Michigan](filters/state/michigan.md) (31) · [Maryland](filters/state/maryland.md) (28) · [Ohio](filters/state/ohio.md) (24) · [North Carolina](filters/state/north-carolina.md) (21) · [New York](filters/state/new-york.md) (18) · [Illinois](filters/state/illinois.md) (15) · [Indiana](filters/state/indiana.md) (11) · [all states & companies →](filters/README.md)
+**State:** [Massachusetts](filters/state/massachusetts.md) (137) · [California](filters/state/california.md) (85) · [New Jersey](filters/state/new-jersey.md) (45) · [Pennsylvania](filters/state/pennsylvania.md) (37) · [Remote](filters/state/remote.md) (34) · [Michigan](filters/state/michigan.md) (31) · [Maryland](filters/state/maryland.md) (30) · [Ohio](filters/state/ohio.md) (24) · [Illinois](filters/state/illinois.md) (21) · [North Carolina](filters/state/north-carolina.md) (21) · [New York](filters/state/new-york.md) (18) · [Indiana](filters/state/indiana.md) (11) · [all states & companies →](filters/README.md)
 
 **Want to combine filters (state + category + keyword)?** Use the [website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/).
 
 ---
 
-### Browse 386 Summer 2027 Internship Roles by Category
+### Browse 393 Summer 2027 Internship Roles by Category
 
-🔬 **[Research & Lab Science](#-research--lab-science-internship-roles)** (64)
+🔬 **[Research & Lab Science](#-research--lab-science-internship-roles)** (67)
 
-🧬 **[Computational Biology, Data & AI](#-computational-biology-data--ai-internship-roles)** (64)
+🧬 **[Computational Biology, Data & AI](#-computational-biology-data--ai-internship-roles)** (65)
 
-🏭 **[Engineering, Manufacturing & Quality](#-engineering-manufacturing--quality-internship-roles)** (68)
+🏭 **[Engineering, Manufacturing & Quality](#-engineering-manufacturing--quality-internship-roles)** (69)
 
 🩺 **[Clinical, Regulatory & Medical Affairs](#-clinical-regulatory--medical-affairs-internship-roles)** (34)
 
-💼 **[Business, Commercial & Operations](#-business-commercial--operations-internship-roles)** (156)
+💼 **[Business, Commercial & Operations](#-business-commercial--operations-internship-roles)** (158)
 
 ---
 
@@ -46,6 +46,9 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Formulation Sciences Intern (PhD) 🎓</td><td>North Chicago, IL</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-formulation-sciences-intern-phd-in-north-chicago-il-jid-34812"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Product Development, Science, and Technology Intern (Undergraduate)</td><td>North Chicago, IL</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-product-development-science-and-technology-intern-undergraduate-in-north-chicago-il-jid-34909"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Synthetic Chemistry Intern (PhD) 🎓</td><td>North Chicago, IL</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-synthetic-chemistry-intern-phd-in-north-chicago-il-jid-34808"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Cell Therapy, Plan to Deliver Process Intern</td><td>US – Tarzana – CA</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Cell-Therapy--Plan-to-Deliver-Process-Intern_R-263847"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Coop Gene Therapy Characterization Waltham MA</td><td>Waltham, MA</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Summer-Coop-Gene-Therapy-Characterization-Waltham-MA_R2865359"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Vertex Pharmaceuticals</strong> 🔥</td><td>Summer Intern 2027, Process Chemistry - San Diego 🛂</td><td>San Diego, CA</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/San-Diego-CA/Summer-Intern-2027--Process-Chemistry---San-Diego_REQ-31307-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
@@ -122,7 +125,8 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>AstraZeneca</strong> 🔥</td><td>Statistics Summer Intern</td><td>Gaithersburg, MD</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Statistics-Summer-Intern_R-264440"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td><strong>AstraZeneca</strong> 🔥</td><td>Commercial IT Intern, Undergraduate</td><td>Wilmington, DE<br>Gaithersburg, MD</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/Commercial-IT-Intern--Undergraduate_R-264455"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>Statistics Summer Intern</td><td>Gaithersburg, MD</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Statistics-Summer-Intern_R-264440"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Labcorp</strong></td><td>Intern - People Analytics 🛂</td><td>Durham, NC</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---People-Analytics_2640527"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Regeneron</strong> 🔥</td><td>2027 Summer Intern Environment, Health &amp; Safety Training &amp; Analytics</td><td>TARRYTOWN</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Workplace Strategy &amp; Planning Analytics</td><td>TARRYTOWN</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
@@ -181,8 +185,8 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><td>↳</td><td>Summer 2027 Internship - Software Engineering - Indiana</td><td>Fort Wayne, IN</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Summer 2027 Internship - Software Engineering - Michigan</td><td>Portage, MI</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td><strong>Xaira Therapeutics</strong> 🔥</td><td>AI Scientist Intern, Computational Protein Design</td><td>Seattle, WA<br>South San Francisco, CA</td><td><div align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td><strong>Multiply Labs</strong></td><td>Robotics Software Intern</td><td>San Francisco</td><td><div align="center"><a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>8mo</td></tr>
-<tr><td>↳</td><td>Software Intern</td><td>San Francisco</td><td><div align="center"><a href="https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>8mo</td></tr>
+<tr><td><strong>Multiply Labs</strong></td><td>Robotics Software Intern</td><td>San Francisco</td><td><div align="center"><a href="https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9mo</td></tr>
+<tr><td>↳</td><td>Software Intern</td><td>San Francisco</td><td><div align="center"><a href="https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9mo</td></tr>
 <tr><td><strong>Ginkgo Bioworks</strong> 🔥</td><td>Software Graduate Intern, Autonomous Lab</td><td>Emeryville, CA</td><td><div align="center"><a href="https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9mo</td></tr>
 <tr><td>↳</td><td>Software Intern, Autonomous Lab</td><td>Emeryville, CA</td><td><div align="center"><a href="https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9mo</td></tr>
 <tr><td><strong>Enveda</strong></td><td>Data Science Intern</td><td>Remote</td><td><div align="center"><a href="https://jobs.lever.co/enveda/f1c510ba-349c-45fc-97a2-bd379954243b"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>47mo</td></tr>
@@ -198,6 +202,7 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Drug Substance Engineering Intern (PhD) 🎓</td><td>North Chicago, IL</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-drug-substance-engineering-intern-phd-in-north-chicago-il-jid-34809"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Operations Sustainability Intern</td><td>Gaithersburg, MD</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Operations-Sustainability-Intern_R-264451"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Regeneron</strong> 🔥</td><td>2027 Summer Intern Engineering, Design, &amp; Construction</td><td>TARRYTOWN</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Engineering--Design----Construction_R53155-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Labcorp</strong></td><td>Intern - Assay Development &amp; Validation</td><td>Torrance, CA</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Torrance-CA/Intern---Assay-Development---Validation_2640398"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
@@ -324,6 +329,7 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>Veteran SkillBridge Program Intern</td><td>North Chicago, IL</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/veteran-skillbridge-program-intern-in-north-chicago-il-jid-2680"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Amgen</strong> 🔥</td><td>Undergrad Intern – R&amp;D Execution, Operations &amp; Strategy (Summer 2027)</td><td>United States - Remote</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-Execution--Operations---Strategy--Summer-2027-_R-259964"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Corteva</strong></td><td>Commercial Sales Intern 🛂</td><td>Indianapolis, IN</td><td><div align="center"><a href="https://corteva.wd5.myworkdayjobs.com/Corteva/job/Indianapolis-Indiana-United-States/Commercial-Sales-Intern_247524W"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Labcorp</strong></td><td>Intern - Sales Operations 🛂</td><td>Westborough, MA</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Sales-Operations_2637883"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
@@ -393,6 +399,7 @@ The list is **updated automatically every 2 hours**. A bot polls the career page
 <tr><td>↳</td><td>2027 Summer Internship Opportunities, Morristown, NJ</td><td>Morristown, NJ</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Summer-Intern-Opportunities--Morristown--NJ_R2871001"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>2027 Summer Internship Opportunities, Waltham, MA</td><td>Waltham, MA</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Summer-Internship-Opportunities--Waltham--MA_R2871180"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Undergraduate Summer Internships in Frederick, MD</td><td>Frederick, MD</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Frederick---MD/Undergraduate-Summer-Internships-in-Frederick--MD_R-260811"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
+<tr><td><strong>REGENXBIO</strong></td><td>People Intern</td><td>Rockville, MD<br>Remote</td><td><div align="center"><a href="https://jobs.lever.co/regenxbio/4669880d-7813-47ec-ad05-159129ae7d3a"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Moderna</strong> 🔥</td><td>Intern, Biometrics 🛂</td><td>Cambridge, MA</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Viatris</strong></td><td>Student Worker</td><td>United States Remote Office</td><td><div align="center"><a href="https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Abbott</strong> 🔥</td><td>Corporate Internship - Global Marketing and External Affairs - Summer 2027</td><td>Abbott Park, IL</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Corporate-Internship---Global-Marketing-and-External-Affairs---Summer-2027_31163473"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>

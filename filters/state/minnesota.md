@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**11** open roles · updated Nov 17, 2026 17:40 UTC
+**10** open roles · updated Nov 18, 2026 01:00 UTC
 
 <table>
 <thead>
@@ -17,7 +17,6 @@
 <tr><td><strong>Labcorp</strong></td><td>Intern - Toxicology</td><td>Saint Paul, MN</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Saint-Paul-MN/Intern---Toxicology_2631805"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Intern - Toxicology</td><td>Saint Paul, MN</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Saint-Paul-MN/Intern---Toxicology_2630326"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td><strong>Abbott</strong> 🔥</td><td>2027 Winter Engineering Co-Op</td><td><details><summary><strong>5 locations</strong></summary>St. Paul, MN<br>Sylmar, CA<br>Irving, TX<br>Pleasanton, CA<br>Plymouth, MN</details></td><td>Winter 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Abbott Nutrition Consumer Sales Internship Summer 2027</td><td><details><summary><strong>4 locations</strong></summary>Columbus, OH<br>Cincinnati, OH<br>Minneapolis, MN<br>Rogers, MN</details></td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Consumer-Sales-Internship-Summer-2027_31160319"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td><strong>Stryker</strong></td><td>Summer 2027 Intern - Marketing - Minnesota</td><td>Bloomington, MN</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Summer-2027-Intern---Marketing---Minnesota_R572990"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Summer 2027 Internship - Joint Replacement Sales - Minneapolis, MN</td><td>Minneapolis, MN</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Minneapolis-Minnesota/Summer-2027-Internship---Joint-Replacement-Sales---Minneapolis--MN_R572775"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>

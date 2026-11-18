@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**12** open roles · updated Nov 17, 2026 17:40 UTC
+**10** open roles · updated Nov 18, 2026 01:00 UTC
 
 <table>
 <thead>
@@ -19,7 +19,5 @@
 <tr><td>↳</td><td>Nutrition Brand Management Intern - Infant and Adult - Summer 2027</td><td>Columbus, OH</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>2027 Winter Engineering Co-Op</td><td><details><summary><strong>5 locations</strong></summary>St. Paul, MN<br>Sylmar, CA<br>Irving, TX<br>Pleasanton, CA<br>Plymouth, MN</details></td><td>Winter 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>CRM Clinical Field Intern - Summer 2027</td><td>Abbott Park, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Abbott Nutrition Consumer Sales Internship Summer 2027</td><td><details><summary><strong>4 locations</strong></summary>Columbus, OH<br>Cincinnati, OH<br>Minneapolis, MN<br>Rogers, MN</details></td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Consumer-Sales-Internship-Summer-2027_31160319"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Abbott Nutrition Inside Sales Internship Health Care Professionals (HCP) Summer 2027</td><td>Columbus, OH</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Abbott-Nutrition-Inside-Sales-Internship-Health-Care-Professionals--HCP--Summer-2027_31160320"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

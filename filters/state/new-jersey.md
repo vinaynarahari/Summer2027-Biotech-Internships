@@ -2,13 +2,14 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**43** open roles · updated Nov 17, 2026 17:40 UTC
+**44** open roles · updated Nov 18, 2026 01:00 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Patient-Driven Medicines Development, Morristown, NJ</td><td>Morristown, NJ</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Summer-Intern-Patient-Driven-Medicines-Development--Morristown--NJ_R2852481"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Global Communications - Intern</td><td>Rahway, NJ</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Communications---Intern_R419876"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Zoetis</strong></td><td>Commercial Operations Business Analyst Intern</td><td>Parsippany</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Commercial-Operations-Business-Analyst-Intern_JR00022060-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Global Commercial ZTD Intern</td><td>Parsippany</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Global-Commercial-ZTD-Intern_JR00022061-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>

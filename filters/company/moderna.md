@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**36** open roles · updated Nov 17, 2026 17:40 UTC
+**35** open roles · updated Nov 18, 2026 01:00 UTC
 
 <table>
 <thead>
@@ -32,7 +32,6 @@
 <tr><td>↳</td><td>Co-Op, Protein Design 🛂</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Intern, Oncology Biostatistics 🛂</td><td>Cambridge, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Intern--Oncology-Biostatistics_R19867-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Co-Op, Bacteriology</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Bacteriology_R19883"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>Co-Op, Bioanalytics 🛂</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Bioanalytics_R19882"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Co-Op, Clinical Cytometry</td><td>Norwood, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Clinical-Cytometry_R19860"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Co-Op, Platform Biology Integration</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Co-Op, Bioanalytics 🛂</td><td>Norwood, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Co-Op--Bioanalytics_R19859"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>

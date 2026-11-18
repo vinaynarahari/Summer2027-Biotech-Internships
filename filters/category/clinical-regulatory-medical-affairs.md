@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**33** open roles · updated Nov 17, 2026 17:40 UTC
+**38** open roles · updated Nov 18, 2026 01:00 UTC
 
 _Includes co-op / off-season roles (see the Term column)._
 
@@ -11,6 +11,11 @@ _Includes co-op / off-season roles (see the Term column)._
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>AstraZeneca</strong> 🔥</td><td>Global Medical Affairs Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Medical-Affairs-Intern_R-264551"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td>↳</td><td>Oncology Regulatory Affairs Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Oncology-Regulatory-Affairs-Intern_R-264547"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td>↳</td><td>Summer 2027 Clinical Supply Chain Coordinator Intern</td><td>Boston, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Summer-2027-Clinical-Supply-Chain-Coordinator-Intern_R-264542"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Genentech</strong> 🔥</td><td>2027 Summer Intern - Clinical Pharmacology Department</td><td>South San Francisco</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Intern_202611-129404"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Patient-Driven Medicines Development, Morristown, NJ</td><td>Morristown, NJ</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Summer-Intern-Patient-Driven-Medicines-Development--Morristown--NJ_R2852481"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Amgen</strong> 🔥</td><td>Grad Intern - Global Patient Safety (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Global-Patient-Safety--Summer-2027-_R-260757"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>7d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Early Oncology Clinical Development Intern, PharmD and PhD 🎓</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Early-Oncology-Clinical-Development-Intern--PharmD-and-PhD_R-263864"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>8d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, Real-World Evidence Hematology Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Real-World-Evidence-Hematology-Intern_R-263840"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>8d</td></tr>

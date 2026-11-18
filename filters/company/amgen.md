@@ -2,14 +2,15 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**39** open roles · updated Nov 18, 2026 10:14 UTC
+**40** open roles · updated Nov 18, 2026 18:53 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Amgen</strong> 🔥</td><td>Grad Intern - Inflammation (Summer 2027)</td><td>South San Francisco, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Amgen</strong> 🔥</td><td>INTERN/Global Patient Safety (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/INTERN-Global-Patient-Safety--Summer-2027-_R-260517"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>Grad Intern - Inflammation (Summer 2027)</td><td>South San Francisco, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Grad Intern - Inflammation R&amp;D (Summer 2027)</td><td>South San Francisco, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Inflammation-R-D--Summer-2027-_R-261887"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Grad Intern - Product Quality / Global Chemistry Manufacturing &amp; Controls Statistician (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Product-Quality---Global-Chemistry-Manufacturing---Controls-Statistician--Summer-2027-_R-261900"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Grad Intern - Quantitative Pharmacology (Summer 2027)</td><td>South San Francisco, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Quantitative-Pharmacology--Summer-2027-_R-261804"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>

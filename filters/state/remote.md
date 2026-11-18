@@ -2,13 +2,17 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**35** open roles · updated Nov 18, 2026 10:14 UTC
+**39** open roles · updated Nov 18, 2026 18:53 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>Amgen</strong> 🔥</td><td>INTERN/Global Patient Safety (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/INTERN-Global-Patient-Safety--Summer-2027-_R-260517"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td><strong>Bristol Myers Squibb</strong> 🔥</td><td>Data Science Intern (MS/PhD)-Summer 2027 🛂 🎓</td><td>Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Remote---United-States---US/Data-Science-Intern--MS-PhD--Summer-2027_R1608664"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>Data Science Intern (Undergrad)-Summer 2027 🛂</td><td>Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Remote---United-States---US/Data-Science-Intern--Undergrad--Summer-2027_R1608665"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td><strong>Labcorp</strong></td><td>Intern - Bioinformatics 🛂</td><td>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Intern---Bioinformatics_2639114"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Amgen</strong> 🔥</td><td>Grad Intern - Product Quality / Global Chemistry Manufacturing &amp; Controls Statistician (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Product-Quality---Global-Chemistry-Manufacturing---Controls-Statistician--Summer-2027-_R-261900"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Undergrad Intern - Change Readiness and Organization Effectiveness (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Change-Readiness-and-Organization-Effectiveness--Summer-2027-_R-261940"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Undergrad Intern – R&amp;D EOS | Global Program Management (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td><div align="center"><a href="https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---R-D-EOS---Global-Program-Management--Summer-2027-_R-260924"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>

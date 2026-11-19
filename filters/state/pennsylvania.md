@@ -2,13 +2,14 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**39** open roles · updated Nov 19, 2026 10:25 UTC
+**40** open roles · updated Nov 19, 2026 20:41 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
+<tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Process Engineering Swiftwater PA</td><td>Swiftwater, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Technology 2027 Spring Co-Op</td><td><details><summary><strong>10 locations</strong></summary>New Brunswick, NJ<br>Spring House, PA<br>Titusville, NJ<br>Shepherdsville, KY<br>Irvine, CA<br>Horsham, PA<br>West Chester, PA<br>Fort Washington, PA<br>Santa Clara, CA<br>Raritan, NJ</details></td><td>Spring 2027</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Finance MBA - Intern (Hybrid) 🎓</td><td>Rahway, NJ<br>Upper Gwynedd, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Finance-MBA---Intern--Hybrid-_R413022"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Emerging Technologies CoOp</td><td>Spring House, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>

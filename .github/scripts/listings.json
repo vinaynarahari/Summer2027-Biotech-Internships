@@ -1,5 +1,230 @@
 [
   {
+    "id": "8b2085b5-dd5e-4bd0-9009-7a78a3520a60",
+    "source": "bot",
+    "ats_key": "wd:sanofi:R2865029",
+    "company_name": "Sanofi",
+    "company_url": "",
+    "title": "2027 Summer Intern Biostatistics Bayesian borrowing Cambridge MA",
+    "category": "Computational Biology, Data & AI",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Bayesian-borrowing-Cambridge-MA_R2865029",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "4e731d57-17af-4dd9-9579-efa75ebb44f7",
+    "source": "bot",
+    "ats_key": "wd:sanofi:R2863610",
+    "company_name": "Sanofi",
+    "company_url": "",
+    "title": "2027 Summer Intern Process Engineering Swiftwater PA",
+    "category": "Engineering, Manufacturing & Quality",
+    "locations": [
+      "Swiftwater, PA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "953d785d-2ede-40fb-9c9f-cbf6252185b4",
+    "source": "bot",
+    "ats_key": "wd:roche:202611-128312",
+    "company_name": "Roche",
+    "company_url": "",
+    "title": "2027 Summer Intern - Software Applications and Pipelines (R&D Internal Solutions, Computational Science and Informatics)",
+    "category": "Computational Biology, Data & AI",
+    "locations": [
+      "Santa Clara"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Software-Applications-and-Pipelines--R-D-Internal-Solutions--Computational-Science-and-Informatics-_202611-128312",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "a7c697a4-533a-4f1e-abd0-6c6595f1ef1f",
+    "source": "bot",
+    "ats_key": "wd:labcorp:2638059",
+    "company_name": "Labcorp",
+    "company_url": "",
+    "title": "Intern - Product Owner",
+    "category": "Business, Commercial & Operations",
+    "locations": [
+      "Durham, NC"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Does Not Offer Sponsorship",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "26c6257f-e243-4ccd-b602-5d2f72fd6f21",
+    "source": "bot",
+    "ats_key": "wd:roche:202611-129534",
+    "company_name": "Genentech",
+    "company_url": "",
+    "title": "2027 Summer Intern - Synthetic Molecule Analytical Chemistry (SMAC), Synthetic Molecule Pharmaceutical Sciences (SMPS), gRED",
+    "category": "Research & Lab Science",
+    "locations": [
+      "South San Francisco"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Synthetic-Molecule-Analytical-Chemistry--SMAC---Synthetic-Molecule-Pharmaceutical-Sciences--SMPS---gRED_202611-129534",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "b2fed874-b37f-4851-bf8a-7bba7a4afa15",
+    "source": "bot",
+    "ats_key": "wd:bristolmyerssquibb:R1608732",
+    "company_name": "Bristol Myers Squibb",
+    "company_url": "",
+    "title": "Summer 2027 Intern, Engineered Cell Therapy Discovery",
+    "category": "Engineering, Manufacturing & Quality",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Engineered-Cell-Therapy-Discovery_R1608732",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "a2764d22-bbfc-47e4-b6fc-f6701dec3cc0",
+    "source": "bot",
+    "ats_key": "wd:bristolmyerssquibb:R1608729",
+    "company_name": "Bristol Myers Squibb",
+    "company_url": "",
+    "title": "Summer 2027 Intern, Nucleic Acid & Delivery Research",
+    "category": "Research & Lab Science",
+    "locations": [
+      "Cambridge Crossing, MA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Cambridge-Crossing---MA---US/Summer-2027-Intern--Nucleic-Acid---Delivery-Research_R1608729",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "95501078-9502-4ded-9ad1-e26356f005d3",
+    "source": "bot",
+    "ats_key": "wd:bristolmyerssquibb:R1608728",
+    "company_name": "Bristol Myers Squibb",
+    "company_url": "",
+    "title": "Summer 2027 Intern, Cell Therapy Research (Discovery & Engineering)",
+    "category": "Engineering, Manufacturing & Quality",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Cell-Therapy-Research--Discovery---Engineering-_R1608728",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
+    "id": "46464814-98aa-4b90-b7ac-234f3773c27d",
+    "source": "bot",
+    "ats_key": "wd:amgen:R-261996",
+    "company_name": "Amgen",
+    "company_url": "",
+    "title": "Grad Intern – Biophysical Assay Technology Development (Summer 2027)",
+    "category": "Research & Lab Science",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "country": "United States",
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Grad-Intern---Biophysical-Assay-Technology-Development--Summer-2027-_R-261996",
+    "active": true,
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "date_posted": 1795046400,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0
+  },
+  {
     "id": "15c46ee2-2fa3-4c25-b244-81ac9e53b916",
     "source": "bot",
     "ats_key": "wd:zoetis:JR00022138",
@@ -21,7 +246,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -46,7 +271,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -71,7 +296,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -96,7 +321,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -121,7 +346,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -149,7 +374,7 @@
     ],
     "date_posted": 1794960000,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -174,7 +399,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -200,7 +425,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795083826,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -234,7 +459,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -259,7 +484,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -284,7 +509,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -309,7 +534,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -337,7 +562,7 @@
     ],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -364,7 +589,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -389,7 +614,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -414,7 +639,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -439,7 +664,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -464,7 +689,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -489,7 +714,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -514,7 +739,7 @@
     "degrees": [],
     "date_posted": 1794960000,
     "date_updated": 1795027937,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -566,7 +791,7 @@
     ],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -593,7 +818,7 @@
     ],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -620,7 +845,7 @@
     ],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -645,7 +870,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -670,7 +895,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -695,7 +920,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -720,7 +945,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -745,7 +970,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -770,7 +995,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -795,7 +1020,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -820,7 +1045,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -845,7 +1070,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -870,7 +1095,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -895,7 +1120,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -920,7 +1145,7 @@
     "degrees": [],
     "date_posted": 1794876296,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -945,7 +1170,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -970,7 +1195,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794937104,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -995,7 +1220,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1020,7 +1245,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1045,7 +1270,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794937104,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1070,7 +1295,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794937104,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1095,7 +1320,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1120,7 +1345,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1145,7 +1370,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1170,7 +1395,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794937104,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1195,7 +1420,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1220,7 +1445,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1245,7 +1470,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1270,7 +1495,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1295,7 +1520,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1320,7 +1545,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1345,7 +1570,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1370,7 +1595,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1395,7 +1620,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1420,7 +1645,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794937104,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1445,7 +1670,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1470,7 +1695,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1495,7 +1720,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1520,7 +1745,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1545,7 +1770,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1570,7 +1795,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1595,7 +1820,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1620,7 +1845,7 @@
     "degrees": [],
     "date_posted": 1794873600,
     "date_updated": 1794963536,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1645,7 +1870,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1670,7 +1895,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1695,7 +1920,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1720,7 +1945,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1745,7 +1970,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1771,7 +1996,7 @@
     "date_posted": 1794805200,
     "date_updated": 1794871544,
     "last_seen": 1795083826,
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "2e0e5d7b-ef91-4cb9-ab9d-26e7004fee20",
@@ -1795,7 +2020,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1820,7 +2045,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1845,7 +2070,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1874,7 +2099,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1899,7 +2124,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1924,7 +2149,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1949,7 +2174,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1974,7 +2199,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -1999,7 +2224,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2024,7 +2249,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2050,7 +2275,7 @@
     "date_posted": 1794805200,
     "date_updated": 1794871544,
     "last_seen": 1795083826,
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "79247ec8-d4b4-4400-ada3-34cdc6a42a6b",
@@ -2074,7 +2299,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2099,7 +2324,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2125,7 +2350,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2150,7 +2375,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2175,7 +2400,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2200,7 +2425,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2225,7 +2450,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2251,7 +2476,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2276,7 +2501,7 @@
     "degrees": [],
     "date_posted": 1794805200,
     "date_updated": 1794871544,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2301,7 +2526,7 @@
     "degrees": [],
     "date_posted": 1794787200,
     "date_updated": 1794902221,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2326,7 +2551,7 @@
     "degrees": [],
     "date_posted": 1794787200,
     "date_updated": 1794902221,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2350,7 +2575,7 @@
     "degrees": [],
     "date_posted": 1794583409,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -2375,7 +2600,7 @@
     "degrees": [],
     "date_posted": 1794583400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -2400,7 +2625,7 @@
     "degrees": [],
     "date_posted": 1794583392,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -2425,7 +2650,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2450,7 +2675,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2475,7 +2700,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2500,7 +2725,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2525,7 +2750,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2550,7 +2775,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2575,7 +2800,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2602,7 +2827,7 @@
     ],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2627,7 +2852,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2655,7 +2880,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2682,7 +2907,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2707,7 +2932,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2757,7 +2982,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2812,7 +3037,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -2863,7 +3088,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2888,7 +3113,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2938,7 +3163,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794801453,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -2981,14 +3206,14 @@
       "Summer 2027"
     ],
     "url": "https://corteva.wd5.myworkdayjobs.com/Corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1794546000,
-    "date_updated": 1794799239,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1,
+    "misses": 2,
     "country": "United States"
   },
   {
@@ -3018,7 +3243,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3043,7 +3268,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3068,7 +3293,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3093,7 +3318,7 @@
     "degrees": [],
     "date_posted": 1794546000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3118,7 +3343,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3170,7 +3395,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -3196,7 +3421,7 @@
     ],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3221,7 +3446,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3246,7 +3471,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3271,7 +3496,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3297,7 +3522,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3324,7 +3549,7 @@
     ],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3349,7 +3574,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3376,7 +3601,7 @@
     ],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3401,7 +3626,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3426,7 +3651,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3451,7 +3676,7 @@
     "degrees": [],
     "date_posted": 1794459600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3476,7 +3701,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3501,7 +3726,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3576,7 +3801,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3602,7 +3827,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3627,7 +3852,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3647,14 +3872,14 @@
       "Summer 2027"
     ],
     "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1794373200,
-    "date_updated": 1794801453,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1
+    "misses": 2
   },
   {
     "id": "a9f1e90e-4df5-4f7a-b201-5cbf9d6b1891",
@@ -3672,14 +3897,14 @@
       "Summer 2027"
     ],
     "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1794373200,
-    "date_updated": 1794801453,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1
+    "misses": 2
   },
   {
     "id": "a4a81bf9-baed-4b33-acd8-f7196b73f41a",
@@ -3697,14 +3922,14 @@
       "Summer 2027"
     ],
     "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1794373200,
-    "date_updated": 1794801453,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1
+    "misses": 2
   },
   {
     "id": "6b68cbac-3b9c-4078-aebd-7c2270ee3c8a",
@@ -3727,7 +3952,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3783,7 +4008,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3808,7 +4033,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3833,7 +4058,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3858,7 +4083,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3883,7 +4108,7 @@
     "degrees": [],
     "date_posted": 1794373200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3908,7 +4133,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3933,7 +4158,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -3985,7 +4210,7 @@
     "date_posted": 1794286800,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": "United States"
   },
   {
@@ -4010,7 +4235,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -4034,7 +4259,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4059,7 +4284,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4084,7 +4309,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4136,7 +4361,7 @@
     "date_posted": 1794286800,
     "date_updated": 1794801453,
     "last_seen": 1795083826,
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "5e5c586d-d23c-4438-9947-de9077ecdafe",
@@ -4159,7 +4384,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4186,7 +4411,7 @@
     ],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4212,7 +4437,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4237,7 +4462,7 @@
     "degrees": [],
     "date_posted": 1794286800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4262,7 +4487,7 @@
     "degrees": [],
     "date_posted": 1794249076,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -4287,7 +4512,7 @@
     "degrees": [],
     "date_posted": 1794248995,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -4362,7 +4587,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4387,7 +4612,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4438,7 +4663,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -4463,7 +4688,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794801453,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -4487,7 +4712,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4512,7 +4737,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4541,7 +4766,7 @@
     "date_posted": 1794200400,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": "United States"
   },
   {
@@ -4565,7 +4790,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4590,7 +4815,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4615,7 +4840,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4640,7 +4865,7 @@
     "degrees": [],
     "date_posted": 1794200400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4665,7 +4890,7 @@
     "degrees": [],
     "date_posted": 1794114000,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4690,7 +4915,7 @@
     "degrees": [],
     "date_posted": 1793992748,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -4741,7 +4966,7 @@
     "degrees": [],
     "date_posted": 1793941200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -4765,7 +4990,7 @@
     "degrees": [],
     "date_posted": 1793941200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4815,7 +5040,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4840,7 +5065,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4865,7 +5090,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4890,7 +5115,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4915,7 +5140,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4941,7 +5166,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -4965,7 +5190,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -4990,7 +5215,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5015,7 +5240,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5041,7 +5266,7 @@
     "date_posted": 1793854800,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": "United States"
   },
   {
@@ -5065,7 +5290,7 @@
     "degrees": [],
     "date_posted": 1793854800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5092,7 +5317,7 @@
     ],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5117,7 +5342,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5167,7 +5392,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5194,7 +5419,7 @@
     ],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5221,7 +5446,7 @@
     ],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5247,7 +5472,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5272,7 +5497,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5352,7 +5577,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5377,7 +5602,7 @@
     "degrees": [],
     "date_posted": 1793768400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5403,7 +5628,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5428,7 +5653,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5478,7 +5703,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5503,7 +5728,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5553,7 +5778,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5629,7 +5854,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -5653,7 +5878,7 @@
     "degrees": [],
     "date_posted": 1793682000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5679,7 +5904,7 @@
     "degrees": [],
     "date_posted": 1793626624,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -5706,7 +5931,7 @@
     "date_posted": 1793626606,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": ""
   },
   {
@@ -5730,7 +5955,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5759,7 +5984,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5784,7 +6009,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5809,7 +6034,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5834,7 +6059,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5859,7 +6084,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5909,7 +6134,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5934,7 +6159,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5960,7 +6185,7 @@
     "degrees": [],
     "date_posted": 1793595600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -5985,7 +6210,7 @@
     "degrees": [],
     "date_posted": 1793505600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6011,7 +6236,7 @@
     "degrees": [],
     "date_posted": 1793388154,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6037,7 +6262,7 @@
     "degrees": [],
     "date_posted": 1793364490,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6063,7 +6288,7 @@
     "degrees": [],
     "date_posted": 1793363762,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6088,7 +6313,7 @@
     "degrees": [],
     "date_posted": 1793363736,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6113,7 +6338,7 @@
     "degrees": [],
     "date_posted": 1793332800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6138,7 +6363,7 @@
     "degrees": [],
     "date_posted": 1793332800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6163,7 +6388,7 @@
     "degrees": [],
     "date_posted": 1793332800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6188,7 +6413,7 @@
     "degrees": [],
     "date_posted": 1793332800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6213,7 +6438,7 @@
     "degrees": [],
     "date_posted": 1793332800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6238,7 +6463,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6264,7 +6489,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6288,7 +6513,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6313,7 +6538,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6338,7 +6563,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6357,14 +6582,14 @@
       "Summer 2027"
     ],
     "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Oncology--Lung-Franchise-Intern_R-263086",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1793246400,
-    "date_updated": 1794799239,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1,
+    "misses": 2,
     "country": "United States"
   },
   {
@@ -6382,14 +6607,14 @@
       "Summer 2027"
     ],
     "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Oncology-Medical-Diagnostics-Intern_R-263075",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
     "date_posted": 1793246400,
-    "date_updated": 1794799239,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1,
+    "misses": 2,
     "country": "United States"
   },
   {
@@ -6413,7 +6638,7 @@
     "degrees": [],
     "date_posted": 1793246400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6439,7 +6664,7 @@
     "degrees": [],
     "date_posted": 1793206517,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6464,7 +6689,7 @@
     "degrees": [],
     "date_posted": 1793206490,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6489,7 +6714,7 @@
     "degrees": [],
     "date_posted": 1793206456,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6540,7 +6765,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6566,7 +6791,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6593,7 +6818,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6618,7 +6843,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6644,7 +6869,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6670,7 +6895,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6696,7 +6921,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6721,7 +6946,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6746,7 +6971,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6771,7 +6996,7 @@
     "degrees": [],
     "date_posted": 1793160000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6795,7 +7020,7 @@
     "degrees": [],
     "date_posted": 1793108078,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6820,7 +7045,7 @@
     "degrees": [],
     "date_posted": 1793107950,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -6845,7 +7070,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6870,7 +7095,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6898,7 +7123,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -6924,7 +7149,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -6997,7 +7222,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7022,7 +7247,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7048,7 +7273,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1795053169,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 1
   },
   {
@@ -7066,16 +7291,16 @@
       "Summer 2027"
     ],
     "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/XMLNAME-2027-Summer-Intern--Medical-Writing-Operations--PhD-_R-262924-1",
-    "active": true,
+    "active": false,
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
       "PhD"
     ],
     "date_posted": 1793073600,
-    "date_updated": 1794799239,
+    "date_updated": 1795120772,
     "last_seen": 1795053169,
-    "misses": 1,
+    "misses": 2,
     "country": "United States"
   },
   {
@@ -7099,7 +7324,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7124,7 +7349,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7149,7 +7374,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7174,7 +7399,7 @@
     "degrees": [],
     "date_posted": 1793073600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7199,7 +7424,7 @@
     "degrees": [],
     "date_posted": 1793052186,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7226,7 +7451,7 @@
     "degrees": [],
     "date_posted": 1793047910,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7252,7 +7477,7 @@
     "degrees": [],
     "date_posted": 1793047897,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7277,7 +7502,7 @@
     "degrees": [],
     "date_posted": 1793047856,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7327,7 +7552,7 @@
     "degrees": [],
     "date_posted": 1793047812,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7352,7 +7577,7 @@
     "degrees": [],
     "date_posted": 1793047799,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7377,7 +7602,7 @@
     "degrees": [],
     "date_posted": 1793047672,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7403,7 +7628,7 @@
     "degrees": [],
     "date_posted": 1792987200,
     "date_updated": 1794801453,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -7452,7 +7677,7 @@
     "degrees": [],
     "date_posted": 1792987200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7477,7 +7702,7 @@
     "degrees": [],
     "date_posted": 1792987200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7502,7 +7727,7 @@
     "degrees": [],
     "date_posted": 1792987200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7529,7 +7754,7 @@
     ],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7556,7 +7781,7 @@
     ],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7606,7 +7831,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7631,7 +7856,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7656,7 +7881,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7681,7 +7906,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7706,7 +7931,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7732,7 +7957,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -7782,7 +8007,7 @@
     "degrees": [],
     "date_posted": 1792728000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -7806,7 +8031,7 @@
     "degrees": [],
     "date_posted": 1792693505,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -7831,7 +8056,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7856,7 +8081,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7881,7 +8106,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7906,7 +8131,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7931,7 +8156,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7956,7 +8181,7 @@
     "degrees": [],
     "date_posted": 1792641600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -7982,7 +8207,7 @@
     "degrees": [],
     "date_posted": 1792555200,
     "date_updated": 1794801453,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8006,7 +8231,7 @@
     "degrees": [],
     "date_posted": 1792555200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8031,7 +8256,7 @@
     "degrees": [],
     "date_posted": 1792555200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8056,7 +8281,7 @@
     "degrees": [],
     "date_posted": 1792468800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8082,7 +8307,7 @@
     "degrees": [],
     "date_posted": 1792468800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8137,7 +8362,7 @@
     ],
     "date_posted": 1792382400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8163,7 +8388,7 @@
     "date_posted": 1792382400,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": "United States"
   },
   {
@@ -8187,7 +8412,7 @@
     "degrees": [],
     "date_posted": 1792382400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8237,7 +8462,7 @@
     "degrees": [],
     "date_posted": 1792382400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8287,7 +8512,7 @@
     "degrees": [],
     "date_posted": 1792123200,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8312,7 +8537,7 @@
     "degrees": [],
     "date_posted": 1792123200,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8337,7 +8562,7 @@
     "degrees": [],
     "date_posted": 1792123200,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8362,7 +8587,7 @@
     "degrees": [],
     "date_posted": 1792123200,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8388,7 +8613,7 @@
     "degrees": [],
     "date_posted": 1792123200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8437,7 +8662,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8462,7 +8687,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8487,7 +8712,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8512,7 +8737,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8537,7 +8762,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8562,7 +8787,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8615,7 +8840,7 @@
     ],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8641,7 +8866,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8665,7 +8890,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8690,7 +8915,7 @@
     "degrees": [],
     "date_posted": 1792036800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8716,7 +8941,7 @@
     "degrees": [],
     "date_posted": 1791950400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8740,7 +8965,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8765,7 +8990,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8790,7 +9015,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8815,7 +9040,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8841,7 +9066,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8866,7 +9091,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8891,7 +9116,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -8915,7 +9140,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8940,7 +9165,7 @@
     "degrees": [],
     "date_posted": 1791518400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -8992,7 +9217,7 @@
     "degrees": [],
     "date_posted": 1791432000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9017,7 +9242,7 @@
     "degrees": [],
     "date_posted": 1791345600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9067,7 +9292,7 @@
     "degrees": [],
     "date_posted": 1791345600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9094,7 +9319,7 @@
     ],
     "date_posted": 1791345600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9119,7 +9344,7 @@
     "degrees": [],
     "date_posted": 1791259200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9144,7 +9369,7 @@
     "degrees": [],
     "date_posted": 1791259200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9169,7 +9394,7 @@
     "degrees": [],
     "date_posted": 1791172800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9195,7 +9420,7 @@
     "date_posted": 1791172800,
     "date_updated": 1794799239,
     "last_seen": 1795083826,
-    "misses": 0,
+    "misses": 1,
     "country": "United States"
   },
   {
@@ -9245,7 +9470,7 @@
     "degrees": [],
     "date_posted": 1791172800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9270,7 +9495,7 @@
     "degrees": [],
     "date_posted": 1791172800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9299,7 +9524,7 @@
     ],
     "date_posted": 1791172800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9324,7 +9549,7 @@
     "degrees": [],
     "date_posted": 1791172800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9349,7 +9574,7 @@
     "degrees": [],
     "date_posted": 1790919703,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -9374,7 +9599,7 @@
     "degrees": [],
     "date_posted": 1790919349,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -9400,7 +9625,7 @@
     "degrees": [],
     "date_posted": 1790913600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9425,7 +9650,7 @@
     "degrees": [],
     "date_posted": 1790913600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9450,7 +9675,7 @@
     "degrees": [],
     "date_posted": 1790913600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9475,7 +9700,7 @@
     "degrees": [],
     "date_posted": 1790913600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9499,7 +9724,7 @@
     "degrees": [],
     "date_posted": 1790913600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9524,7 +9749,7 @@
     "degrees": [],
     "date_posted": 1790879474,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -9549,7 +9774,7 @@
     "degrees": [],
     "date_posted": 1790827200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9574,7 +9799,7 @@
     "degrees": [],
     "date_posted": 1790827200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9599,7 +9824,7 @@
     "degrees": [],
     "date_posted": 1790827200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9626,7 +9851,7 @@
     "degrees": [],
     "date_posted": 1790772393,
     "date_updated": 1794876296,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9725,7 +9950,7 @@
     "degrees": [],
     "date_posted": 1790740800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9750,7 +9975,7 @@
     "degrees": [],
     "date_posted": 1790740800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9775,7 +10000,7 @@
     "degrees": [],
     "date_posted": 1790740800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9801,7 +10026,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -9825,7 +10050,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9850,7 +10075,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9875,7 +10100,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9900,7 +10125,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9925,7 +10150,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9950,7 +10175,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -9975,7 +10200,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10000,7 +10225,7 @@
     "degrees": [],
     "date_posted": 1790654400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10026,7 +10251,7 @@
     "degrees": [],
     "date_posted": 1790568000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10053,7 +10278,7 @@
     ],
     "date_posted": 1790568000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10079,7 +10304,7 @@
     "degrees": [],
     "date_posted": 1790568000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -10105,7 +10330,7 @@
     ],
     "date_posted": 1790568000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10130,7 +10355,7 @@
     "degrees": [],
     "date_posted": 1790568000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10155,7 +10380,7 @@
     "degrees": [],
     "date_posted": 1790348861,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -10205,7 +10430,7 @@
     "degrees": [],
     "date_posted": 1790222400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10230,7 +10455,7 @@
     "degrees": [],
     "date_posted": 1790222400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10255,7 +10480,7 @@
     "degrees": [],
     "date_posted": 1790102441,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -10280,7 +10505,7 @@
     "degrees": [],
     "date_posted": 1790049600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10305,7 +10530,7 @@
     "degrees": [],
     "date_posted": 1790049600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10330,7 +10555,7 @@
     "degrees": [],
     "date_posted": 1790049600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10355,7 +10580,7 @@
     "degrees": [],
     "date_posted": 1790049600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10380,7 +10605,7 @@
     "degrees": [],
     "date_posted": 1790049600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10430,7 +10655,7 @@
     "degrees": [],
     "date_posted": 1789963200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10462,7 +10687,7 @@
     ],
     "date_posted": 1789963200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10487,7 +10712,7 @@
     "degrees": [],
     "date_posted": 1789704000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10513,7 +10738,7 @@
     "degrees": [],
     "date_posted": 1789704000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -10538,7 +10763,7 @@
     "degrees": [],
     "date_posted": 1789617600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -10563,7 +10788,7 @@
     "degrees": [],
     "date_posted": 1789617600,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -10587,7 +10812,7 @@
     "degrees": [],
     "date_posted": 1789531200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10612,7 +10837,7 @@
     "degrees": [],
     "date_posted": 1789531200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10637,7 +10862,7 @@
     "degrees": [],
     "date_posted": 1789531200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10666,7 +10891,7 @@
     ],
     "date_posted": 1789531200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10691,7 +10916,7 @@
     "degrees": [],
     "date_posted": 1789444800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10716,7 +10941,7 @@
     "degrees": [],
     "date_posted": 1789444800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10766,7 +10991,7 @@
     "degrees": [],
     "date_posted": 1789444800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10785,14 +11010,14 @@
       "Summer 2027"
     ],
     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235",
-    "active": false,
+    "active": true,
     "is_visible": true,
     "sponsorship": "Does Not Offer Sponsorship",
     "degrees": [],
     "date_posted": 1789444800,
-    "date_updated": 1794871716,
-    "last_seen": 1794804114,
-    "misses": 2,
+    "date_updated": 1795120772,
+    "last_seen": 1795120772,
+    "misses": 0,
     "country": "United States"
   },
   {
@@ -10916,7 +11141,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10941,7 +11166,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -10966,7 +11191,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11016,7 +11241,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11041,7 +11266,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11066,7 +11291,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11091,7 +11316,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11116,7 +11341,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11141,7 +11366,7 @@
     "degrees": [],
     "date_posted": 1789099200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11166,7 +11391,7 @@
     "degrees": [],
     "date_posted": 1789057256,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -11191,7 +11416,7 @@
     "degrees": [],
     "date_posted": 1789056056,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -11216,7 +11441,7 @@
     "degrees": [],
     "date_posted": 1789053753,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -11241,7 +11466,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11267,7 +11492,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11292,7 +11517,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11317,7 +11542,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11342,7 +11567,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11368,7 +11593,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11393,7 +11618,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11418,7 +11643,7 @@
     "degrees": [],
     "date_posted": 1789012800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11442,7 +11667,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11467,7 +11692,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11492,7 +11717,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11517,7 +11742,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11542,7 +11767,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11618,7 +11843,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11642,7 +11867,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11692,7 +11917,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11717,7 +11942,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11742,7 +11967,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11768,7 +11993,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11796,7 +12021,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11821,7 +12046,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11846,7 +12071,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11872,7 +12097,7 @@
     "degrees": [],
     "date_posted": 1788926400,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -11896,7 +12121,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11921,7 +12146,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11946,7 +12171,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11971,7 +12196,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -11996,7 +12221,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12021,7 +12246,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12046,7 +12271,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12071,7 +12296,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12096,7 +12321,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12121,7 +12346,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12147,7 +12372,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -12173,7 +12398,7 @@
     ],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12198,7 +12423,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12223,7 +12448,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12248,7 +12473,7 @@
     "degrees": [],
     "date_posted": 1788840000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12298,7 +12523,7 @@
     "degrees": [],
     "date_posted": 1788753600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12323,7 +12548,7 @@
     "degrees": [],
     "date_posted": 1788494400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12348,7 +12573,7 @@
     "degrees": [],
     "date_posted": 1788494400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12373,7 +12598,7 @@
     "degrees": [],
     "date_posted": 1788494400,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12398,7 +12623,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12423,7 +12648,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12448,7 +12673,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12473,7 +12698,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12499,7 +12724,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -12523,7 +12748,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12552,7 +12777,7 @@
     "degrees": [],
     "date_posted": 1788408000,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12577,7 +12802,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12602,7 +12827,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12627,7 +12852,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12652,7 +12877,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12677,7 +12902,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12702,7 +12927,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12728,7 +12953,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12753,7 +12978,7 @@
     "degrees": [],
     "date_posted": 1788321600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12778,7 +13003,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12803,7 +13028,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12828,7 +13053,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12853,7 +13078,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12878,7 +13103,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12903,7 +13128,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12928,7 +13153,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12953,7 +13178,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -12978,7 +13203,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13003,7 +13228,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13028,7 +13253,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13053,7 +13278,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13084,7 +13309,7 @@
     ],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13110,7 +13335,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13135,7 +13360,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13160,7 +13385,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13184,7 +13409,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13209,7 +13434,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13235,7 +13460,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13260,7 +13485,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13285,7 +13510,7 @@
     "degrees": [],
     "date_posted": 1788235200,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -13362,7 +13587,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13388,7 +13613,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13413,7 +13638,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13438,7 +13663,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13464,7 +13689,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13489,7 +13714,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13514,7 +13739,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13540,7 +13765,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13565,7 +13790,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13590,7 +13815,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13615,7 +13840,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13640,7 +13865,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13665,7 +13890,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13690,7 +13915,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13715,7 +13940,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13740,7 +13965,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13765,7 +13990,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13791,7 +14016,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13817,7 +14042,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13842,7 +14067,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13867,7 +14092,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13892,7 +14117,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13917,7 +14142,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13942,7 +14167,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13967,7 +14192,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -13992,7 +14217,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14017,7 +14242,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14042,7 +14267,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14092,7 +14317,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14117,7 +14342,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14142,7 +14367,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14192,7 +14417,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14217,7 +14442,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14242,7 +14467,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14267,7 +14492,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14292,7 +14517,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14318,7 +14543,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14343,7 +14568,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14368,7 +14593,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14393,7 +14618,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14418,7 +14643,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14443,7 +14668,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14468,7 +14693,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14493,7 +14718,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14518,7 +14743,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14543,7 +14768,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14568,7 +14793,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14593,7 +14818,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14618,7 +14843,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14643,7 +14868,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14668,7 +14893,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14693,7 +14918,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794802589,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14719,7 +14944,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794871509,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -14743,7 +14968,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14768,7 +14993,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14794,7 +15019,7 @@
     "degrees": [],
     "date_posted": 1788148800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14820,7 +15045,7 @@
     "degrees": [],
     "date_posted": 1787953965,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -14847,7 +15072,7 @@
     ],
     "date_posted": 1787889600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14872,7 +15097,7 @@
     "degrees": [],
     "date_posted": 1787889600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14899,7 +15124,7 @@
     ],
     "date_posted": 1787889600,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14924,7 +15149,7 @@
     "degrees": [],
     "date_posted": 1787716800,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": "United States"
   },
@@ -14950,7 +15175,7 @@
     "degrees": [],
     "date_posted": 1787716800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -14975,7 +15200,7 @@
     "degrees": [],
     "date_posted": 1787716800,
     "date_updated": 1794800280,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -14999,7 +15224,7 @@
     "degrees": [],
     "date_posted": 1787186738,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15024,7 +15249,7 @@
     "degrees": [],
     "date_posted": 1771544915,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15049,7 +15274,7 @@
     "degrees": [],
     "date_posted": 1771544557,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15075,7 +15300,7 @@
     "degrees": [],
     "date_posted": 1771477200,
     "date_updated": 1794804114,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0
   },
   {
@@ -15099,7 +15324,7 @@
     "degrees": [],
     "date_posted": 1769609468,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15124,7 +15349,7 @@
     "degrees": [],
     "date_posted": 1769609282,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15149,7 +15374,7 @@
     "degrees": [],
     "date_posted": 1768328313,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   },
@@ -15174,7 +15399,7 @@
     "degrees": [],
     "date_posted": 1671069899,
     "date_updated": 1794799239,
-    "last_seen": 1795083826,
+    "last_seen": 1795120772,
     "misses": 0,
     "country": ""
   }

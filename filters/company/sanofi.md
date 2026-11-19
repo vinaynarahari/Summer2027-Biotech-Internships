@@ -2,14 +2,16 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**22** open roles · updated Nov 19, 2026 10:25 UTC
+**24** open roles · updated Nov 19, 2026 20:41 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Co-Op Bioanalytics Characterization, Framingham, MA</td><td>Framingham, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-Op-Bioanalytics-Characterization--Framingham--MA_R2866465"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
+<tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Biostatistics Bayesian borrowing Cambridge MA</td><td>Cambridge, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Summer-Intern-Biostatistics-Bayesian-borrowing-Cambridge-MA_R2865029"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Summer Intern Process Engineering Swiftwater PA</td><td>Swiftwater, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Summer Co-Op Bioanalytics Characterization, Framingham, MA</td><td>Framingham, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-Op-Bioanalytics-Characterization--Framingham--MA_R2866465"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>2027 Summer Co-op Manufacturing Science, Analytics, and Technology, Framingham, MA</td><td>Framingham, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Summer-Co-op-Manufacturing-Science--Analytics--and-Technology--Framingham--MA_R2865211"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern GMU CMC Drug Product Waltham MA</td><td>Waltham, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Summer-Intern-GMU-CMC-Drug-Product-Waltham-MA_R2866274"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Patient-Driven Medicines Development, Morristown, NJ</td><td>Morristown, NJ</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/XMLNAME-2027-Summer-Intern-Patient-Driven-Medicines-Development--Morristown--NJ_R2852481"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>

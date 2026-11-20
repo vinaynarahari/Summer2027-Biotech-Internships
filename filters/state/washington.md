@@ -2,14 +2,15 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**12** open roles · updated Nov 20, 2026 12:57 UTC
+**13** open roles · updated Nov 20, 2026 21:51 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Bristol Myers Squibb</strong> 🔥</td><td>Summer 2027 Intern, Cell Therapy Research (Discovery &amp; Engineering)</td><td>Seattle, WA</td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Cell-Therapy-Research--Discovery---Engineering-_R1608728"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Bristol Myers Squibb</strong> 🔥</td><td>Spring 2027 Co-op, Flow Cytometry (Translational Research)</td><td>Seattle, WA</td><td>Spring 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Spring-2027-Co-op--Flow-Cytometry--Translational-Research-_R1608753"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>Summer 2027 Intern, Cell Therapy Research (Discovery &amp; Engineering)</td><td>Seattle, WA</td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Cell-Therapy-Research--Discovery---Engineering-_R1608728"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Summer 2027 Intern, Engineered Cell Therapy Discovery</td><td>Seattle, WA</td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Summer-2027-Intern--Engineered-Cell-Therapy-Discovery_R1608732"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Data &amp; Quantitative Sciences Statistical Programming Intern - Summer 2027</td><td><details><summary><strong>7 locations</strong></summary>Princeton, NJ<br>Madison, NJ<br>Brisbane, CA<br>Cambridge Crossing, MA<br>Remote<br>San Diego, CA<br>Seattle, WA</details></td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Data---Quantitative-Sciences-Statistical-Programming-Intern---Summer-2027_R1608542"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>7d</td></tr>
 <tr><td>↳</td><td>Data &amp; Quantitative Sciences Intern-Summer 2027 🛂</td><td><details><summary><strong>7 locations</strong></summary>Princeton, NJ<br>Madison, NJ<br>Seattle, WA<br>Brisbane, CA<br>Cambridge Crossing, MA<br>San Diego, CA<br>Devens, MA</details></td><td>Summer 2027</td><td><div align="center"><a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Data---Quantitative-Sciences-Intern-Summer-2027_R1608215"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9d</td></tr>

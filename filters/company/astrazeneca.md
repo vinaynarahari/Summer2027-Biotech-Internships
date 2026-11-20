@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**42** open roles · updated Nov 20, 2026 12:57 UTC
+**39** open roles · updated Nov 20, 2026 21:51 UTC
 
 <table>
 <thead>
@@ -45,11 +45,8 @@
 <tr><td>↳</td><td>Manufacturing Digital and AI Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs Diagnostics, Breast Cancer Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Diagnostics--Breast-Cancer-Intern_R-263638"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, Hematology-Lymphoma Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Hematology-Lymphoma-Intern_R-263555"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>16d</td></tr>
-<tr><td>↳</td><td>Epidemiology Intern</td><td>Boston, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Epidemiology-Intern_R-263378-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, AI &amp; Knowledge Experience Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
-<tr><td>↳</td><td>Manufacturing Solutions &amp; Innovation Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>21d</td></tr>
 <tr><td>↳</td><td>Preclinical Mathematical Modeling Internship</td><td>Cambridge Kendall SQ, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Preclinical-Mathematical-Modeling-Internship_R-262630"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>24d</td></tr>
-<tr><td>↳</td><td>Medical Writing Intern</td><td>Boston, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Medical-Writing-Intern_R-262606-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>28d</td></tr>
 <tr><td>↳</td><td>Undergraduate Summer Internships in Frederick, MD</td><td>Frederick, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Frederick---MD/Undergraduate-Summer-Internships-in-Frederick--MD_R-260811"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 </tbody>
 </table>

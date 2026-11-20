@@ -2,14 +2,16 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**21** open roles · updated Nov 20, 2026 12:57 UTC
+**23** open roles · updated Nov 20, 2026 21:51 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Drug Substance Engineering Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-drug-substance-engineering-intern-phd-in-north-chicago-il-jid-34809"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Clinical Pharmacology Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-clinical-pharmacology-intern-phd-in-north-chicago-il-jid-36162"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Pharmacometrics Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-pharmacometrics-intern-phd-in-north-chicago-il-jid-36159"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
+<tr><td>↳</td><td>2027 Drug Substance Engineering Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-drug-substance-engineering-intern-phd-in-north-chicago-il-jid-34809"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td>↳</td><td>2027 Formulation Sciences Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-formulation-sciences-intern-phd-in-north-chicago-il-jid-34812"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td>↳</td><td>2027 Packaging Co-Op (July - Dec)</td><td>North Chicago, IL</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-packaging-co-op-july-dec-in-north-chicago-il-jid-30763"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td>↳</td><td>2027 Product Development, Science, and Technology Intern (Undergraduate)</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-product-development-science-and-technology-intern-undergraduate-in-north-chicago-il-jid-34909"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>

@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**10** open roles · updated Nov 20, 2026 12:57 UTC
+**9** open roles · updated Nov 20, 2026 21:51 UTC
 
 <table>
 <thead>
@@ -16,8 +16,7 @@
 <tr><td><strong>Catalent</strong></td><td>2027 Intern - QA, QMS</td><td>Madison, WI</td><td>Summer 2027</td><td><div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/External/job/Madison-WI/XMLNAME-2027-Intern---QA--QMS_0097575"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>25d</td></tr>
 <tr><td>↳</td><td>2027 Intern - Engineering, Equipment</td><td>Madison, WI</td><td>Summer 2027</td><td><div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/External/job/Madison-WI/XMLNAME-2027-Intern---Engineering--Equipment_0097336"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>2027 Intern - Engineering, Process Engineer</td><td>Madison, WI</td><td>Summer 2027</td><td><div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/External/job/Madison-WI/XMLNAME-2027-Intern---Engineering--Process-Engineer_0097334"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td><strong>Abbott</strong> 🔥</td><td>2027 General Business Cancer Diagnostics Internship 🛂</td><td>United States &gt; Madison : 1 Exact Lane</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-General-Business-Cancer-Diagnostics-Internship_31163482"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>2027 IT Cancer Diagnostics Intern 🛂</td><td>United States &gt; Madison : 1 Exact Lane</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
+<tr><td><strong>Abbott</strong> 🔥</td><td>2027 IT Cancer Diagnostics Intern 🛂</td><td>United States &gt; Madison : 1 Exact Lane</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>2027 Sales Cancer Diagnostics Intern 🛂</td><td>United States &gt; Madison : 1 Exact Lane</td><td>Summer 2027</td><td><div align="center"><a href="https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

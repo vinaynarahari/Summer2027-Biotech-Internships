@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**29** open roles · updated Nov 20, 2026 12:57 UTC
+**29** open roles · updated Nov 20, 2026 21:51 UTC
 
 <table>
 <thead>
@@ -11,7 +11,7 @@
 <tbody>
 <tr><td><strong>Labcorp</strong></td><td>Intern - Anatomic Pathology</td><td>Houston, TX</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern---Anatomic-Pathology_2631654"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
 <tr><td>↳</td><td>Intern - Product Owner 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
-<tr><td>↳</td><td>Intern - Bioinformatics 🛂</td><td>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Intern---Bioinformatics_2639114"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
+<tr><td>↳</td><td>Intern - Bioinformatics 🛂</td><td>3400 Computer Drive, MA<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Intern---Bioinformatics_2639114"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>Intern - Bioinformatics Scientist 🛂</td><td>Westborough, MA<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Bioinformatics-Scientist_2638415-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>Intern - People Analytics 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---People-Analytics_2640527"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>Intern - Sales Operations 🛂</td><td>Westborough, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Sales-Operations_2637883"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>

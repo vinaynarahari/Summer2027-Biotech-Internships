@@ -2,16 +2,17 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**28** open roles · updated Nov 19, 2026 20:41 UTC
+**29** open roles · updated Nov 20, 2026 03:20 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Labcorp</strong></td><td>Intern - Product Owner 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
-<tr><td>↳</td><td>Intern - Bioinformatics 🛂</td><td>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Intern---Bioinformatics_2639114"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
-<tr><td>↳</td><td>Intern - Bioinformatics Scientist 🛂</td><td>Westborough, MA<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Bioinformatics-Scientist_2638415-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Labcorp</strong></td><td>Intern - Anatomic Pathology</td><td>Houston, TX</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern---Anatomic-Pathology_2631654"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td>↳</td><td>Intern - Product Owner 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td>↳</td><td>Intern - Bioinformatics 🛂</td><td>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Intern---Bioinformatics_2639114"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
+<tr><td>↳</td><td>Intern - Bioinformatics Scientist 🛂</td><td>Westborough, MA<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Bioinformatics-Scientist_2638415-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>Intern - People Analytics 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---People-Analytics_2640527"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td>↳</td><td>Intern - Sales Operations 🛂</td><td>Westborough, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Westborough-MA/Intern---Sales-Operations_2637883"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td>↳</td><td>Intern – Employee Wellbeing &amp; Population Health 🛂</td><td>10 Moore Drive, NC<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Intern---Employee-Wellbeing---Population-Health_2630978"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>

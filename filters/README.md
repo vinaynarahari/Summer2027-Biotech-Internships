@@ -2,7 +2,7 @@
 
 [← All internships](../README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-Every page below is regenerated with the list (updated Nov 21, 2026 03:15 UTC).
+Every page below is regenerated with the list (updated Nov 21, 2026 12:42 UTC).
 
 ## Quick filters
 

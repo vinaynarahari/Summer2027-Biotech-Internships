@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**9** open roles · updated Nov 21, 2026 12:42 UTC
+**5** open roles · updated Nov 21, 2026 20:34 UTC
 
 <table>
 <thead>
@@ -13,10 +13,6 @@
 <tr><td><strong>Labcorp</strong></td><td>Intern - Lab</td><td>Tampa, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Tampa-FL/Intern---Lab_2631955"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Summer 2027 MBA Internship- MedTech Marketing Leadership Development Program (MLDP) 🎓</td><td><details><summary><strong>6 locations</strong></summary>Raritan, NJ<br>Jacksonville, FL<br>Santa Clara, CA<br>Cincinnati, OH<br>Irvine, CA<br>Danvers, MA</details></td><td>Summer 2027</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/MLDP-Internship_R-095504"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td><strong>Stryker</strong></td><td>Summer 2027 Internship - Supply Chain - Florida</td><td>Weston, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Supply-Chain---Florida_R572738"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Summer 2027 Internship - Electrical Engineering - Florida</td><td>Weston, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Summer 2027 Internship - Biomedical Engineering - Florida</td><td>Fort Lauderdale, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Advanced Operations Summer Intern</td><td>Weston, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Summer 2027 Internship - Foot &amp; Ankle Sales - Tampa, FL</td><td>Tampa, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Summer-2027-Internship---Foot---Ankle-Sales---Tampa--FL_R572948"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Summer 2027 Internship - Software Engineering - Florida</td><td>Fort Lauderdale, FL</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

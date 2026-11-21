@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**28** open roles · updated Nov 21, 2026 12:42 UTC
+**28** open roles · updated Nov 21, 2026 20:34 UTC
 
 <table>
 <thead>

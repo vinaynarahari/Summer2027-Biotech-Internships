@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**10** open roles · updated Nov 21, 2026 12:42 UTC
+**8** open roles · updated Nov 21, 2026 20:34 UTC
 
 <table>
 <thead>
@@ -17,7 +17,5 @@
 <tr><td>↳</td><td>Continuous Improvement Engineering Intern summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Continues-Improvement-Engineering-Intern-summer-2027_R1317746"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Data Analytics Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>EHS Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/EHS-Intern-Summer-2027_R1317446"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td><strong>Stryker</strong></td><td>R&amp;D Operations Intern</td><td>Salt Lake City, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>2027 Summer Intern - R&amp;D Process &amp; Technology Development</td><td>Salt Lake City, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

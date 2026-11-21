@@ -2,15 +2,15 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**17** open roles · updated Nov 20, 2026 21:51 UTC
+**17** open roles · updated Nov 21, 2026 03:15 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Regeneron</strong> 🔥</td><td>2027 Summer Intern Portfolio Strategy &amp; Intelligence</td><td>TARRYTOWN</td><td>Summer 2027</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>0d</td></tr>
-<tr><td><strong>Genentech</strong> 🔥</td><td>2027 Summer Intern - AI for Drug Discovery (AIDD)</td><td>New York City</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Regeneron</strong> 🔥</td><td>2027 Summer Intern Portfolio Strategy &amp; Intelligence</td><td>TARRYTOWN</td><td>Summer 2027</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>Genentech</strong> 🔥</td><td>2027 Summer Intern - AI for Drug Discovery (AIDD)</td><td>New York City</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td><strong>Regeneron</strong> 🔥</td><td>2027 Summer Intern Engineering, Design, &amp; Construction</td><td>TARRYTOWN</td><td>Summer 2027</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Engineering--Design----Construction_R53155-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Environment, Health &amp; Safety Training &amp; Analytics</td><td>TARRYTOWN</td><td>Summer 2027</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Workplace Strategy &amp; Planning Analytics</td><td>TARRYTOWN</td><td>Summer 2027</td><td><div align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>

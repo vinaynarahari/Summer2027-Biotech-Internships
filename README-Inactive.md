@@ -5,15 +5,15 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 [← Back to Summer 2027 list](./README.md)
 
 <!-- TABLE_START -->
-### 99 most recently closed roles · updated Nov 20, 2026 21:51 UTC
+### 101 most recently closed roles · updated Nov 21, 2026 03:15 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Finance MBA - Intern (Hybrid) 🎓</td><td>Rahway, NJ<br>Upper Gwynedd, PA</td><td>Summer 2027</td><td>🔒</td><td>2d</td></tr>
-<tr><td><strong>Takeda</strong> 🔥</td><td>Global OBU Finance Co-Op</td><td>Boston, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>3d</td></tr>
+<tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Finance MBA - Intern (Hybrid) 🎓</td><td>Rahway, NJ<br>Upper Gwynedd, PA</td><td>Summer 2027</td><td>🔒</td><td>3d</td></tr>
+<tr><td><strong>Takeda</strong> 🔥</td><td>Global OBU Finance Co-Op</td><td>Boston, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>4d</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Global Communications - Intern</td><td>Rahway, NJ</td><td>Summer 2027</td><td>🔒</td><td>4d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Coop Gene Therapy Characterization Waltham MA</td><td>Waltham, MA</td><td>Summer 2027</td><td>🔒</td><td>4d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Project Management Function Swiftwater PA</td><td>Swiftwater, PA</td><td>Summer 2027</td><td>🔒</td><td>4d</td></tr>
@@ -31,7 +31,6 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Spring Co-op Data Science &amp; Digital Transformation, Framingham, MA</td><td>Framingham, MA</td><td>Spring 2027</td><td>🔒</td><td>9d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern New Product Launch Cambridge MA</td><td>Cambridge, MA</td><td>Summer 2027</td><td>🔒</td><td>9d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern Statistical Methodology Cambridge MA</td><td>Cambridge, MA</td><td>Summer 2027</td><td>🔒</td><td>9d</td></tr>
-<tr><td><strong>Genentech</strong> 🔥</td><td>2027 Summer Intern - Translational Safety (Computational Toxicology)</td><td>South San Francisco</td><td>Summer 2027</td><td>🔒</td><td>10d</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Software Engineering Co-Op</td><td>Danvers, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>10d</td></tr>
 <tr><td><strong>Moderna</strong> 🔥</td><td>2027 Co-Op, mRNA Design Engineering 🛂</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>10d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Clinical Statistical Modeling Cambridge MA</td><td>Cambridge, MA<br>Morristown, NJ</td><td>Summer 2027</td><td>🔒</td><td>10d</td></tr>
@@ -75,6 +74,8 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 <tr><td><strong>Moderna</strong> 🔥</td><td>Co-Op, Immuno-Oncology Research 🛂</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>Catalent</strong></td><td>2027 Intern - Engineering, Automation</td><td>Madison, WI</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>Zoetis</strong></td><td>Research Intern - Computational Biology Intern</td><td>Remote in CO</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
+<tr><td><strong>Biogen</strong> 🔥</td><td>Co-op, Healthcare Professional Marketing</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>1mo</td></tr>
+<tr><td>↳</td><td>Co-op, Neuropsychiatry Strategy &amp; Operations</td><td>Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>Moderna</strong> 🔥</td><td>Co-Op, Supply Chain &amp; Logistics 🛂</td><td>Norwood, MA<br>Supply Chain</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>Zoetis</strong></td><td>Laboratory Animal Veterinarian and Behavior Intern</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
 <tr><td>↳</td><td>Non-Clinical and Diagnostics Statistician Intern</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
@@ -96,6 +97,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 <tr><td>↳</td><td>Intern - Lab</td><td>Tulsa, OK</td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>
 <tr><td>↳</td><td>Intern - Lab</td><td>Tulsa, OK</td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>
 <tr><td><strong>Thermo Fisher Scientific</strong> 🔥</td><td>Metrology Engineering Co-op 🛂</td><td>Rochester, NY</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>2mo</td></tr>
+<tr><td><strong>Medtronic</strong> 🔥</td><td>Medtronic Summer Internship PR 2027- Ponce and Villalba Site</td><td>Ponce, PR<br>Villalba, PR</td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Clinical Pharmacology and Pharmacometrics Intern - Summer 2027</td><td><details><summary><strong>5 locations</strong></summary>Spring House, PA<br>Cambridge, MA<br>La Jolla, CA<br>Raritan, NJ<br>Titusville, NJ</details></td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>
 <tr><td><strong>Labcorp</strong></td><td>Intern – Lab</td><td>Phoenix, AZ</td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>
 <tr><td><strong>Stryker</strong></td><td>Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual</td><td>Florida, Virtual Address</td><td>Summer 2027</td><td>🔒</td><td>2mo</td></tr>

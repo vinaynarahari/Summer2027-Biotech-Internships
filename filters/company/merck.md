@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**27** open roles · updated Nov 22, 2026 09:55 UTC
+**26** open roles · updated Nov 22, 2026 17:53 UTC
 
 <table>
 <thead>
@@ -10,7 +10,6 @@
 </thead>
 <tbody>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Data, AI, and Genome Sciences, Precision Genetics - Co-op</td><td>South San Francisco (Grand Ave), CA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Precision-Genetics---Co-op_R427119"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
-<tr><td>↳</td><td>2027 Future Talent Program - Payer &amp; Health Systems Oncology - Intern</td><td>North Wales (Upper Gwynedd), PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Payer---Health-Systems-Oncology---Intern_R413129"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program – Global Clinical Supply - Co-op</td><td>Rahway, NJ<br>West Point, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Clinical-Supply---Co-op_R413309"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>11d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program - Global Site Agreements - Intern</td><td>North Wales (Upper Gwynedd), PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Site-Agreements---Intern_R426232"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>12d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program - Process/Project Engineer - Global Engineering Solutions Co-op, Kansas, De Soto</td><td>De Soto, KS</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Kansas---De-Soto/XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>12d</td></tr>

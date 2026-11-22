@@ -2,14 +2,13 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**29** open roles · updated Nov 22, 2026 09:55 UTC
+**28** open roles · updated Nov 22, 2026 17:53 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Payer &amp; Health Systems Oncology - Intern</td><td>North Wales (Upper Gwynedd), PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Payer---Health-Systems-Oncology---Intern_R413129"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td><strong>Sanofi</strong> 🔥</td><td>2027 Summer Intern Process Engineering Swiftwater PA</td><td>Swiftwater, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Process-Engineering-Swiftwater-PA_R2863610"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
 <tr><td><strong>Johnson &amp; Johnson</strong> 🔥</td><td>Technology 2027 Spring Co-Op</td><td><details><summary><strong>10 locations</strong></summary>New Brunswick, NJ<br>Spring House, PA<br>Titusville, NJ<br>Shepherdsville, KY<br>Irvine, CA<br>Horsham, PA<br>West Chester, PA<br>Fort Washington, PA<br>Santa Clara, CA<br>Raritan, NJ</details></td><td>Spring 2027</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>4d</td></tr>
 <tr><td>↳</td><td>Emerging Technologies CoOp</td><td>Spring House, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>

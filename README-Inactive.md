@@ -5,7 +5,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 [← Back to Summer 2027 list](./README.md)
 
 <!-- TABLE_START -->
-### 203 most recently closed roles · updated Nov 22, 2026 17:53 UTC
+### 203 most recently closed roles · updated Nov 22, 2026 23:38 UTC
 
 <table>
 <thead>
@@ -67,7 +67,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>2027 Summer Intern- Medical Writing Operations (PhD) 🎓</td><td>New Haven, CT</td><td>Summer 2027</td><td>🔒</td><td>26d</td></tr>
 <tr><td><strong>Baxter</strong></td><td>Co-op Engineering R&amp;D 🛂</td><td>Skaneateles, NY</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>26d</td></tr>
 <tr><td><strong>Catalent</strong></td><td>2027 Intern - IT</td><td>Madison, WI</td><td>Summer 2027</td><td>🔒</td><td>27d</td></tr>
-<tr><td><strong>Lila Sciences</strong> 🔥</td><td>Co-Op, Cell Based Sequencing</td><td>Cambridge, MA USA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>26d</td></tr>
+<tr><td><strong>Lila Sciences</strong> 🔥</td><td>Co-Op, Cell Based Sequencing</td><td>Cambridge, MA USA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>27d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Medical Writing Intern</td><td>Boston, MA</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>BD</strong></td><td>Global Technician - Intern</td><td>Columbus (East), USA NE</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern</td><td>Cambridge (320 Bent Street), MA</td><td>Summer 2027</td><td>🔒</td><td>1mo</td></tr>

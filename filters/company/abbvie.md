@@ -2,15 +2,15 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**17** open roles · updated Nov 22, 2026 17:53 UTC
+**17** open roles · updated Nov 22, 2026 23:38 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Clinical Pharmacology Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-clinical-pharmacology-intern-phd-in-north-chicago-il-jid-36162"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
-<tr><td>↳</td><td>2027 Pharmacometrics Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-pharmacometrics-intern-phd-in-north-chicago-il-jid-36159"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1d</td></tr>
+<tr><td><strong>AbbVie</strong> 🔥</td><td>2027 Clinical Pharmacology Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-clinical-pharmacology-intern-phd-in-north-chicago-il-jid-36162"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
+<tr><td>↳</td><td>2027 Pharmacometrics Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-pharmacometrics-intern-phd-in-north-chicago-il-jid-36159"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
 <tr><td>↳</td><td>2027 Automation &amp; Process Analytics Technology Co-Op (June - Dec)</td><td>Worcester, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-automation-and-process-analytics-technology-co-op-june-dec-in-worcester-ma-jid-34902"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>
 <tr><td>↳</td><td>2027 Biologics Analytical Development Co-Op (July-Dec)</td><td>Waltham, MA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-biologics-analytical-development-co-op-july-dec-in-waltham-ma-jid-34905"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>
 <tr><td>↳</td><td>2027 Drug Substance Engineering Intern (PhD) 🎓</td><td>North Chicago, IL</td><td>Summer 2027</td><td><div align="center"><a href="https://careers.abbvie.com/en/job/2027-drug-substance-engineering-intern-phd-in-north-chicago-il-jid-34809"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>

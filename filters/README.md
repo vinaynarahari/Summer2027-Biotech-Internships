@@ -2,11 +2,11 @@
 
 [← All internships](../README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-Every page below is regenerated with the list (updated Nov 22, 2026 23:38 UTC).
+Every page below is regenerated with the list (updated Nov 23, 2026 07:43 UTC).
 
 ## Quick filters
 
-[🆕 New this week](new-this-week.md) (119) · [🔥 Top companies](top-companies.md) (346) · [🌐 No visa restriction stated](no-visa-restrictions.md) (357) · [🌍 Co-op / off-season](../README-Off-Season.md) (129)
+[🆕 New this week](new-this-week.md) (96) · [🔥 Top companies](top-companies.md) (346) · [🌐 No visa restriction stated](no-visa-restrictions.md) (357) · [🌍 Co-op / off-season](../README-Off-Season.md) (129)
 
 ## By state
 

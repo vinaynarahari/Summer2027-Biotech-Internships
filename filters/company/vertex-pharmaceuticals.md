@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**23** open roles · updated Nov 23, 2026 07:43 UTC
+**21** open roles · updated Nov 23, 2026 20:18 UTC
 
 <table>
 <thead>
@@ -30,7 +30,5 @@
 <tr><td>↳</td><td>Spring Co-Op 2027, Supply Chain Master Data Management 🛂 🎓</td><td>Boston, MA</td><td>Spring 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Spring-Co-Op-2027--Supply-Chain-Master-Data-Management_REQ-31000-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>19d</td></tr>
 <tr><td>↳</td><td>Spring 2027 Co-op, Environmental, Social and Governance 🛂</td><td>Boston, MA</td><td>Spring 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Spring-2027-Co-op--Environmental--Social-and-Governance_REQ-28612-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>21d</td></tr>
 <tr><td>↳</td><td>Spring 2027 Co-op, Business Process Excellence, HR Transformation 🛂</td><td>Boston, MA</td><td>Spring 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Spring-2027-Co-op-Business-Process-Excellence--HR-Transformation_REQ-31104-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>25d</td></tr>
-<tr><td>↳</td><td>2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) 🛂 🎓</td><td>Boston, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI-_REQ-30481-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>2027 MBA Summer Associate Intern, Medical Information, Technology and Innovation (MITI) —Business Impact Analytics 🛂 🎓</td><td>Boston, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/XMLNAME-2027-MBA-Summer-Associate-Intern--Medical-Information--Technology-and-Innovation--MITI---Business-Impact-Analytics_REQ-30482-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 </tbody>
 </table>

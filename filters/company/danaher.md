@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**28** open roles · updated Nov 23, 2026 20:18 UTC
+**28** open roles · updated Nov 24, 2026 04:51 UTC
 
 <table>
 <thead>
@@ -11,7 +11,7 @@
 <tbody>
 <tr><td><strong>Danaher</strong> 🔥</td><td>Firmware Engineer Co-op</td><td>Indianapolis, IN</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>Computer Science/Data AI Co-op Supply Chain</td><td>USA - Indianapolis - Multiple OpCo</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>18d</td></tr>
-<tr><td>↳</td><td>Intern - Application Integration Developer</td><td>Brea, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>25d</td></tr>
+<tr><td>↳</td><td>Intern - Application Integration Developer</td><td>Brea, CA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>26d</td></tr>
 <tr><td>↳</td><td>Customer Innovation &amp; Transformation Intern</td><td>Coralville, IA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/Customer-Innovation---Transformation-Intern_R1316664"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>CCM Data Governance - Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 <tr><td>↳</td><td>Regulatory Compliance Intern - Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Regulatory-Compliance-Intern---Summer-2027_R1319127"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>

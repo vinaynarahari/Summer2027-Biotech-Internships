@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**7** open roles · updated Nov 24, 2026 04:51 UTC
+**7** open roles · updated Nov 24, 2026 17:49 UTC
 
 <table>
 <thead>
@@ -14,7 +14,7 @@
 <tr><td>↳</td><td>2027 Summer Intern - Mechanical Engineer - Systems and Hardware Development</td><td>Tucson</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---Systems-and-Hardware-Development_202611-128383"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>6d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern - Microfluidic Systems Integration Research</td><td>Santa Clara</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Microfluidic-Systems-Integration-Research_202611-129392"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>6d</td></tr>
 <tr><td>↳</td><td>2027 Summer Intern - Logistics Engineering</td><td>Indianapolis</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Logistics-Engineering_202611-128366"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>7d</td></tr>
-<tr><td>↳</td><td>2027 Summer Intern - Computational Science</td><td>Santa Clara</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Computational-Science_202611-129030"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>10d</td></tr>
-<tr><td>↳</td><td>2027 Summer Intern - Systems &amp; Hardware Development</td><td>Tucson</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127280-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>12d</td></tr>
+<tr><td>↳</td><td>2027 Summer Intern - Computational Science</td><td>Santa Clara</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Computational-Science_202611-129030"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>11d</td></tr>
+<tr><td>↳</td><td>2027 Summer Intern - Systems &amp; Hardware Development</td><td>Tucson</td><td>Summer 2027</td><td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127280-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>13d</td></tr>
 </tbody>
 </table>

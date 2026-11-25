@@ -2,14 +2,14 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**11** open roles · updated Nov 25, 2026 02:32 UTC
+**10** open roles · updated Nov 25, 2026 14:27 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Thermo Fisher Scientific</strong> 🔥</td><td>Engineering Co-Op</td><td>Allentown, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>28d</td></tr>
+<tr><td><strong>Thermo Fisher Scientific</strong> 🔥</td><td>Engineering Co-Op</td><td>Allentown, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Engineering-Co-Op_R-01372098"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>29d</td></tr>
 <tr><td>↳</td><td>Manufacturing Engineering Co-op</td><td>Marietta, OH</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Manufacturing-Engineering-Co-op_R-01366628"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Quality Co-op</td><td>Marietta, OH</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Quality-Co-op_R-01366629"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Supply Chain Co-op</td><td>Marietta, OH</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Marietta-Ohio-USA/Supply-Chain-Co-op_R-01366630"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
@@ -18,7 +18,6 @@
 <tr><td>↳</td><td>Mechanical Engineering Co-op</td><td>Rochester, NY</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Mechanical-Engineering-Co-op_R-01366623"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Packaging Engineering Co-op</td><td>Rochester, NY</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Packaging-Engineering-Co-op_R-01366624"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Engineering Co-Op</td><td>Greenville, NC</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01366580-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>Supplier Relations Intern</td><td>Pittsburgh, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Supplier-Relations-Intern_R-01366588"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Field Sales &amp; Services Intern</td><td>Remote, MA</td><td>Summer 2027</td><td><div align="center"><a href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Field-Sales---Services-Intern_R-01367380"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

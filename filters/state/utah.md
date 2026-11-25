@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**8** open roles · updated Nov 24, 2026 17:49 UTC
+**7** open roles · updated Nov 25, 2026 02:32 UTC
 
 <table>
 <thead>
@@ -16,6 +16,5 @@
 <tr><td><strong>Danaher</strong> 🔥</td><td>Product Management &amp; Marketing Intern (Summer 2027 Intern)</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Continuous Improvement Engineering Intern summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Continues-Improvement-Engineering-Intern-summer-2027_R1317746"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Data Analytics Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/Data-Analytics-Intern-Summer-2027_R1317525"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>EHS Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/EHS-Intern-Summer-2027_R1317446"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 </tbody>
 </table>

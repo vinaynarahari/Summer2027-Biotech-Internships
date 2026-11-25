@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**29** open roles · updated Nov 24, 2026 17:49 UTC
+**28** open roles · updated Nov 25, 2026 02:32 UTC
 
 <table>
 <thead>
@@ -30,7 +30,6 @@
 <tr><td>↳</td><td>IT Governance, Risk &amp; Compliance Intern</td><td>Coralville, IA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/IT-Governance--Risk---Compliance-Intern_R1316774"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Market Access Summer Intern</td><td>Raleigh, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Raleigh-North-Carolina-United-States/Market-Access-Summer-Intern_R1315328"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Scientific Applications Support Intern</td><td>Coralville, IA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/Scientific-Applications-Support-Intern_R1316666"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
-<tr><td>↳</td><td>EHS Intern Summer 2027</td><td>Logan, UT</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Logan-Utah-United-States/EHS-Intern-Summer-2027_R1317446"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>MBA-Level Pricing and Contracts Performance Intern 🎓</td><td>Coralville, IA</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/MBA-Level-Pricing-and-Contracts-Performance-Intern_R1316655"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Research and Development Intern - Analytical Method Development</td><td>Fargo, ND</td><td>Summer 2027</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Fargo-North-Dakota-United-States/Research-and-Development-Intern---Analytical-Method-Development_R1316735"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>
 <tr><td>↳</td><td>Process Validation Engineering Co-Op</td><td>Fargo, ND</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Fargo-North-Dakota-United-States/Process-Validation-Engineering-Co-Op_R1316791"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2mo</td></tr>

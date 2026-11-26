@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**17** open roles · updated Nov 26, 2026 10:57 UTC
+**13** open roles · updated Nov 26, 2026 21:36 UTC
 
 <table>
 <thead>
@@ -22,9 +22,5 @@
 <tr><td>↳</td><td>ZTD Finance Business Partner Intern</td><td>Parsippany</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/ZTD-Finance-Business-Partner-Intern_JR00022034-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>10d</td></tr>
 <tr><td>↳</td><td>Corporate Communications Intern – Competitive Intelligence &amp; Strategic Planning</td><td>Parsippany</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Corporate-Communications-Intern---Competitive-Intelligence---Strategic-Planning_JR00022037-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>16d</td></tr>
 <tr><td>↳</td><td>Laboratory Animal Behavior Intern</td><td>Lincoln</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Laboratory-Animal-Behavior-Intern_JR00021718-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>Biologics Formulation Intern</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Biologics-Formulation-Intern_JR00021828-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>Endoparasite Biologist Intern</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Endoparasite-Biologist-Intern_JR00021823-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>Organic and Medicinal Chemistry Internship</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Organic-and-Medicinal-Chemistry-Internship_JR00021803-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
-<tr><td>↳</td><td>Organoid Culture and Assay Development Intern</td><td>Downtown Portage Street, Kalamazoo</td><td>Summer 2027</td><td><div align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Organoid-Culture-and-Assay-Development-Intern_JR00021824-2"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 </tbody>
 </table>

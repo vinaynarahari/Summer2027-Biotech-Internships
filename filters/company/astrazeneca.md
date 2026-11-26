@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**34** open roles · updated Nov 26, 2026 10:57 UTC
+**33** open roles · updated Nov 26, 2026 21:36 UTC
 
 <table>
 <thead>
@@ -40,7 +40,6 @@
 <tr><td>↳</td><td>Network Planning &amp; Data Analytics Intern</td><td>US – Tarzana – CA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, Tumor Drivers &amp; Resistance Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Tumor-Drivers---Resistance-Intern_R-263835"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>Manufacturing Digital and AI Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>21d</td></tr>
-<tr><td>↳</td><td>US Medical Affairs Diagnostics, Breast Cancer Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs-Diagnostics--Breast-Cancer-Intern_R-263638"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>21d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, AI &amp; Knowledge Experience Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>23d</td></tr>
 <tr><td>↳</td><td>Undergraduate Summer Internships in Frederick, MD</td><td>Frederick, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Frederick---MD/Undergraduate-Summer-Internships-in-Frederick--MD_R-260811"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>1mo</td></tr>
 </tbody>

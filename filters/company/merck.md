@@ -2,14 +2,14 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**23** open roles · updated Nov 25, 2026 14:27 UTC
+**23** open roles · updated Nov 26, 2026 00:24 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Data, AI, and Genome Sciences, Precision Genetics - Co-op</td><td>South San Francisco (Grand Ave), CA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Precision-Genetics---Co-op_R427119"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>5d</td></tr>
+<tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - Data, AI, and Genome Sciences, Precision Genetics - Co-op</td><td>South San Francisco (Grand Ave), CA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences--Precision-Genetics---Co-op_R427119"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>6d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program – Global Clinical Supply - Co-op</td><td>Rahway, NJ<br>West Point, PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Clinical-Supply---Co-op_R413309"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>14d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program - Global Site Agreements - Intern</td><td>North Wales (Upper Gwynedd), PA</td><td>Summer 2027</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Site-Agreements---Intern_R426232"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program - Vivarium - Co-Op</td><td>West Point, PA</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium-Co-Op_R412853"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>

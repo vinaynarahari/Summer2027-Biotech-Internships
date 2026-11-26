@@ -2,16 +2,15 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**14** open roles · updated Nov 25, 2026 14:27 UTC
+**13** open roles · updated Nov 26, 2026 00:24 UTC
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th>Term</th><th>Application</th><th>Age</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Labcorp</strong></td><td>Intern - Real World Data Strategy 🛂</td><td>10 Moore Drive, NC<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Intern---Real-World-Data-Strategy_2641038"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
-<tr><td>↳</td><td>Intern — User Experience Design 🛂</td><td>10 Moore Drive, NC<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Intern---User-Experience-Design_2632092"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>2d</td></tr>
-<tr><td>↳</td><td>Intern - Product Owner 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>6d</td></tr>
+<tr><td><strong>Labcorp</strong></td><td>Intern - Real World Data Strategy 🛂</td><td>10 Moore Drive, NC<br>Remote_United States</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Intern---Real-World-Data-Strategy_2641038"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>3d</td></tr>
+<tr><td>↳</td><td>Intern - Product Owner 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---Product-Owner_2638059"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>7d</td></tr>
 <tr><td>↳</td><td>Intern - People Analytics 🛂</td><td>Durham, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---People-Analytics_2640527"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>9d</td></tr>
 <tr><td><strong>Catalent</strong></td><td>Laboratory Intern</td><td>Greenville, NC</td><td>Summer 2027</td><td><div align="center"><a href="https://catalent.wd1.myworkdayjobs.com/External/job/Greenville-NC/Laboratory-Intern_0097980-1"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>14d</td></tr>
 <tr><td><strong>Eisai</strong></td><td>Global Serialization (Supply Chain) Co-op</td><td>North Carolina, Raleigh</td><td>Co-op / Off-Cycle</td><td><div align="center"><a href="https://eisai.wd5.myworkdayjobs.com/eisai/job/North-Carolina-Raleigh/Global-Serialization-Intern_R4037"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>15d</td></tr>

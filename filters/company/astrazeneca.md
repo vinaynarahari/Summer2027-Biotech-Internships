@@ -2,7 +2,7 @@
 
 [← All internships](../../README.md) · [All filters](../../filters/README.md) · 🔎 [Search & combine filters on the website](https://vinaynarahari.github.io/Summer2027-Biotech-Internships/)
 
-**33** open roles · updated Nov 27, 2026 14:01 UTC
+**32** open roles · updated Nov 27, 2026 22:45 UTC
 
 <table>
 <thead>
@@ -35,7 +35,6 @@
 <tr><td>↳</td><td>Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Biologics-Engineering--Computational-and-Experimental-Design-of-Multispecific-Antibodies-Intern_R-264042"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>16d</td></tr>
 <tr><td>↳</td><td>Facilities &amp; Engineering Safety Intern</td><td>US – Tarzana – CA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Facilities---Engineering-Safety-Intern_R-264173"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>16d</td></tr>
 <tr><td>↳</td><td>Manufacturing Sciences, Validation Engineer Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>16d</td></tr>
-<tr><td>↳</td><td>Global Engineering Capital Projects Intern, Undergraduate</td><td>Gaithersburg, MD<br>Frederick, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Engineering-Capital-Projects-Intern--Undergraduate_R-263950"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>MBA Intern - Corporate Affairs 🎓</td><td>Wilmington, DE</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Wilmington---DE/MBA-Intern---Corporate-Affairs_R-263959"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>17d</td></tr>
 <tr><td>↳</td><td>Network Planning &amp; Data Analytics Intern</td><td>US – Tarzana – CA</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Tarzana--CA/Network-Planning---Data-Analytics-Intern_R-263845"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>18d</td></tr>
 <tr><td>↳</td><td>US Medical Affairs, Tumor Drivers &amp; Resistance Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td><div align="center"><a href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/US-Medical-Affairs--Tumor-Drivers---Resistance-Intern_R-263835"><img src="https://img.shields.io/badge/Apply-0f766e?style=for-the-badge" width="84" alt="Apply"></a></div></td><td>18d</td></tr>

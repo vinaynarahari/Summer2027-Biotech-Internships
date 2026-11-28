@@ -5,7 +5,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 [← Back to Summer 2027 list](./README.md)
 
 <!-- TABLE_START -->
-### 281 most recently closed roles · updated Nov 28, 2026 07:52 UTC
+### 281 most recently closed roles · updated Nov 28, 2026 16:56 UTC
 
 <table>
 <thead>
@@ -103,7 +103,7 @@ Roles that have closed or disappeared from the company's job board. Kept here fo
 <tr><td>↳</td><td>US Medical Affairs, Process &amp; Operations Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td>🔒</td><td>25d</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program - 3DT Operations - Co-op</td><td>West Point, PA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>25d</td></tr>
 <tr><td>↳</td><td>2027 Future Talent Program - Bioprocess Clinical Manufacturing &amp; Technology Co-Op</td><td>West Point, PA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>25d</td></tr>
-<tr><td><strong>Lila Sciences</strong> 🔥</td><td>Co-Op, Targeted Non-Viral Delivery</td><td>Alewife, Cambridge, MA<br>One Charles Park, Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>25d</td></tr>
+<tr><td><strong>Lila Sciences</strong> 🔥</td><td>Co-Op, Targeted Non-Viral Delivery</td><td>Alewife, Cambridge, MA<br>One Charles Park, Cambridge, MA</td><td>Co-op / Off-Cycle</td><td>🔒</td><td>26d</td></tr>
 <tr><td><strong>Merck</strong> 🔥</td><td>2027 Future Talent Program – Digital Transformation Conversion – Intern</td><td>Lower Gwynedd Township (Spring House), PA</td><td>Summer 2027</td><td>🔒</td><td>27d</td></tr>
 <tr><td><strong>Amgen</strong> 🔥</td><td>Undergrad Intern – Global Program Management (Summer 2027)</td><td>United States - Remote</td><td>Summer 2027</td><td>🔒</td><td>29d</td></tr>
 <tr><td><strong>AstraZeneca</strong> 🔥</td><td>Manufacturing Solutions &amp; Innovation Intern</td><td>Gaithersburg, MD</td><td>Summer 2027</td><td>🔒</td><td>29d</td></tr>
